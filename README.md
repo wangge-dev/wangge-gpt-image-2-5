@@ -6,7 +6,9 @@
 
 独立整理，以 OpenAI GPT Image 2.5 为目标，对照官方说明改写创意与电商提示词。保留原作者的创意和出处，补齐中文使用方式、参考图分工、准确文案与连续修改指令。
 
-**当前内容：78 张适配卡 + 9 条原创提示词；其中 25 套电商场景含 88 个完整变体。** 另附官方与作者的使用示例。
+**87 条基础提示词 · 113 个完整变体 · 电商专区持续扩充。**
+
+包含 78 张适配卡和 9 条原创提示词；25 套电商场景提供 88 个变体。 另附官方与作者的使用示例。
 
 
 ## 直接找提示词
@@ -22,11 +24,11 @@
 
 ## 先看几个方向
 
-点击标题查看提示词，或打开[网页版三组示例](guides/web-examples.md)。图片为原库参考，来源见各条目。
+点击标题查看提示词，或打开[网页版三组示例](guides/web-examples.md)。下方为 wangge-dev 使用 ChatGPT 网页版生成的示例。
 
 | [十二款发型](prompts/gallery/G05.md) | [旅行珐琅徽章](prompts/gallery/G21.md) | [薄荷玫瑰香水](prompts/gallery/G23.md) |
 | --- | --- | --- |
-| ![旧版发型参考](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case535.jpg) | ![旧版徽章参考](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case543.jpg) | ![旧版香水参考](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case519.jpg) |
+| ![发型生成示例](assets/results/G05.png) | ![徽章生成示例](assets/results/G21.png) | ![香水生成示例](assets/results/G23.png) |
 
 ## 怎么用
 

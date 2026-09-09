@@ -32,7 +32,10 @@ def render(entry):
     lines += ['', '## 接着修改', '', '上传上一轮结果；涉及商品或人物时，同时保留原始参考图。', '', '```text', entry['edit'], '```', '', '## 来源', '']
     lines += [f"- [{s['label']}]({s['url']})" for s in entry['sources']]
     if entry.get('preview'):
-        lines += ['', '参考图：原库作品，作者与出处见上方。', '', f"![{entry['title']} · 原库旧版参考]({entry['preview']})", '', '原图归原作者；作者链接见上方。']
+        own = entry.get('preview_kind') == 'user_result'
+        label = '生成示例 · wangge-dev / ChatGPT 网页版' if own else '原库参考'
+        url = '../../' + entry['preview'] if own else entry['preview']
+        lines += ['', label, '', f"![{entry['title']} · {label}]({url})"]
     lines += ['', '整理日期：2026-09-09。上游许可及第三方素材边界见[署名说明](../../ATTRIBUTIONS.md)。']
     return '\n'.join(lines)
 
@@ -64,12 +67,12 @@ def main():
     write('ecommerce/README.md','\n'.join(lines))
     gallery = groups.get('gallery', [])
     category_names = {'Architecture & Spaces':'建筑与空间','Brand & Logos':'品牌与标志','Characters & People':'人物与角色','Charts & Infographics':'图表与科普','Documents & Publishing':'文档与出版','History & Classical Themes':'历史与古典','Illustration & Art':'插画与艺术','Other Use Cases':'其他创意','Photography & Realism':'摄影与写实','Posters & Typography':'海报与字体','Products & E-commerce':'商品与电商','Scenes & Storytelling':'场景与叙事','UI & Interfaces':'界面与资料卡'}
-    lines = ['# 精选创意画廊', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(gallery)} 条独立改写提示词，覆盖 {len(set(e["category"] for e in gallery))} 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。', '', '图片为原库参考，点击标题查看提示词与作者来源。']
+    lines = ['# 精选创意画廊', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(gallery)} 条独立改写提示词，覆盖 {len(set(e["category"] for e in gallery))} 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。', '', '图片分别标注生成示例或原库参考，点击标题查看完整提示词。']
     for cat in dict.fromkeys(e['category'] for e in gallery):
         lines += ['', f'## {category_names.get(cat,cat)}', '']
         for e in gallery:
             if e['category'] == cat:
-                lines += [f"### [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)", '', f"![旧版参考 · {e['title']}]({e['preview']})", '', f"来源：{e['sources'][0]['label']}", '']
+                lines += [f"### [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)", '', f"![{e['title']}]({'../' + e['preview'] if e.get('preview_kind') == 'user_result' else e['preview']})", '', ("生成示例：wangge-dev / ChatGPT 网页版" if e.get("preview_kind") == "user_result" else f"原库参考：{e['sources'][0]['label']}"), '']
     write('gallery/README.md','\n'.join(lines))
     print(f'Rendered {len(entries)} prompt cards; {sum(len(e.get("variants",{})) for e in entries)} complete variants.')
 
