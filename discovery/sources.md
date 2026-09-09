@@ -15,6 +15,8 @@
 | S09 | [awesome-gpt-image-2](https://github.com/wangge-dev/awesome-gpt-image-2) | 旧提示词创意与通用模板适配 | 已盘点541案例与22模板索引；已改写部分见来源盘点 |
 | S10 | [gpt-image2-ecommerce](https://github.com/buluslan/gpt-image2-ecommerce) | 电商场景与变体适配 | 25模板与88变体方向已处理，持续检查新增文件 |
 
+新增[作者后续追踪](author-watch.md)，明确2.5来源优先，旧创意适配单独记录。
+
 ## 滚动检索
 
 每轮查询日期窗口覆盖上次成功检索之后，并重叠 2 天；失败来源保留上次成功时间。

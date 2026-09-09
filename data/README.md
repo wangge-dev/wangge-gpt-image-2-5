@@ -9,3 +9,7 @@
 9条原创提示词维护在 `experiments/`，5条明确来源的中文提示词维护在 `cases/`；这两组不重复放入本JSON。
 
 原始大体量JSON不重复放入本仓库。来源盘点见[来源目录](../sources/README.md)。`scripts/build_inventory.py` 是本次来源版本的重建工具，使用新版源数据时须先更新脚本中的源版本与对应说明，不能用旧版本号标新内容。
+
+## 可筛选画廊
+
+`library.json` 的 `example` 与 `example_inputs` 保存具体示例；模板仍保存在 `prompt`。`gallery-metadata.json` 维护人工核对的筛选标签与官方图来源。`scripts/build_gallery.py` 同时读取来源卡与原创卡，生成 `browse/index.html`，不需要构建依赖或登录。

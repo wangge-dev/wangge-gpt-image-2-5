@@ -20,6 +20,8 @@ def render(entry):
         lines += ['| 变量 | 填写示例或说明 |', '| --- | --- |']
     for k,v in entry['variables'].items():
         lines.append(f'| `{{{{{k}}}}}` | {v.replace(chr(10), "；").replace("|", "／")} |')
+    if entry.get('example'):
+        lines += ['', '## 拿来就用的具体示例', '', entry.get('example_inputs', entry['inputs']), '', '按示例准备对应素材后，直接复制下段；其他商品使用后面的变量模板。', '', '```text', entry['example'], '```', '']
     lines += ['', '## 完整提示词', '', '```text', entry['prompt'], '```', '',
               '## 参数设置', '', f"建议画布：`{entry['size']}`；模型选择及格式见[模型说明](../../guides/models.md)。网页版可按相同比例描述画布。", '',
               ]
@@ -54,7 +56,7 @@ def main():
         lines += [f"## {labels[g]} · {len(items)}", '', '| 提示词 | 用途 |', '| --- | --- |']
         lines += [f"| [{e['id']} {e['title']}]({g}/{e['id']}.md) | {e['use']} |" for e in items]
         lines += ['']
-    lines += ['## 明确2.5来源 · 5', '', '[换装、透明商品、换语言、草图写实、图表角色：完整中文提示词](../cases/README.md)', '']
+    lines += ['## 明确2.5来源 · 7', '', '[换装、透明商品、换语言、草图、图表、物品移除与广告牌：完整中文提示词](../cases/README.md)', '']
     write('prompts/README.md','\n'.join(lines))
     ec = groups.get('ecommerce', [])
     lines = ['# 电商提示词专区', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(ec)} 套场景模板，包含完整变体与后续修改指令。先上传真实商品图，填写商品事实，再复制对应模板。', '', '## 按任务找提示词', '']

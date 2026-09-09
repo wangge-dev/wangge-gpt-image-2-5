@@ -1,0 +1,435 @@
+{
+  "EC01": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC02": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC03": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC04": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC05": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC06": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC07": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC08": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC09": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC10": {
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "包装"
+  },
+  "EC11": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC12": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC13": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC14": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC15": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC16": {
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "服装"
+  },
+  "EC17": {
+    "reference": "需要",
+    "task": "概念设计"
+  },
+  "EC18": {
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "服装"
+  },
+  "EC19": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC20": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC21": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "EC22": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "EC23": {
+    "reference": "需要",
+    "task": "概念设计",
+    "product_category": "数码与界面"
+  },
+  "EC24": {
+    "reference": "需要",
+    "task": "空间设计"
+  },
+  "EC25": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "运动用品"
+  },
+  "T01": {
+    "reference": "可选",
+    "task": "界面设计",
+    "product_category": "数码与界面"
+  },
+  "T02": {
+    "reference": "可选",
+    "task": "信息图与排版"
+  },
+  "T03": {
+    "reference": "不需要",
+    "task": "信息图与排版"
+  },
+  "T04": {
+    "reference": "不需要",
+    "task": "海报与字体"
+  },
+  "T05": {
+    "reference": "需要",
+    "task": "海报与字体",
+    "product_category": "运动用品"
+  },
+  "T06": {
+    "reference": "不需要",
+    "task": "海报与字体"
+  },
+  "T07": {
+    "reference": "需要",
+    "task": "人物与角色"
+  },
+  "T08": {
+    "reference": "需要",
+    "task": "信息图与排版"
+  },
+  "T09": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "T10": {
+    "reference": "需要",
+    "task": "人物与角色",
+    "product_category": "美妆与玻璃包装"
+  },
+  "T11": {
+    "reference": "不需要",
+    "task": "品牌设计"
+  },
+  "T12": {
+    "reference": "需要",
+    "task": "品牌设计"
+  },
+  "T13": {
+    "reference": "需要",
+    "task": "空间设计"
+  },
+  "T14": {
+    "reference": "可选",
+    "task": "摄影与插画"
+  },
+  "T15": {
+    "reference": "不需要",
+    "task": "摄影与插画"
+  },
+  "T16": {
+    "reference": "可选",
+    "task": "摄影与插画"
+  },
+  "T17": {
+    "reference": "需要",
+    "task": "人物与角色"
+  },
+  "T18": {
+    "reference": "需要",
+    "task": "人物与角色"
+  },
+  "T19": {
+    "reference": "可选",
+    "task": "摄影与插画"
+  },
+  "T20": {
+    "reference": "不需要",
+    "task": "摄影与插画"
+  },
+  "T21": {
+    "reference": "需要",
+    "task": "信息图与排版"
+  },
+  "T22": {
+    "reference": "可选",
+    "task": "概念设计"
+  },
+  "G01": {
+    "reference": "不需要",
+    "task": "海报与字体"
+  },
+  "G02": {
+    "reference": "需要",
+    "task": "海报与字体"
+  },
+  "G03": {
+    "reference": "不需要",
+    "task": "界面设计",
+    "product_category": "数码与界面"
+  },
+  "G04": {
+    "reference": "需要",
+    "task": "品牌设计"
+  },
+  "G05": {
+    "reference": "需要",
+    "result_label": "用户 ChatGPT 网页版示例",
+    "task": "人物与角色"
+  },
+  "G06": {
+    "reference": "需要",
+    "task": "人物与角色"
+  },
+  "G07": {
+    "reference": "不需要",
+    "task": "信息图与排版"
+  },
+  "G08": {
+    "reference": "需要",
+    "task": "信息图与排版"
+  },
+  "G09": {
+    "reference": "需要",
+    "task": "局部编辑"
+  },
+  "G10": {
+    "reference": "需要",
+    "task": "信息图与排版"
+  },
+  "G11": {
+    "reference": "不需要",
+    "task": "信息图与排版"
+  },
+  "G12": {
+    "reference": "不需要",
+    "task": "信息图与排版"
+  },
+  "G13": {
+    "reference": "不需要",
+    "task": "摄影与插画"
+  },
+  "G14": {
+    "reference": "不需要",
+    "task": "摄影与插画",
+    "product_category": "服装"
+  },
+  "G15": {
+    "reference": "需要",
+    "task": "信息图与排版",
+    "product_category": "食品"
+  },
+  "G16": {
+    "reference": "需要",
+    "task": "品牌设计"
+  },
+  "G17": {
+    "reference": "可选",
+    "task": "人物与角色"
+  },
+  "G18": {
+    "reference": "需要",
+    "task": "人物与角色"
+  },
+  "G19": {
+    "reference": "需要",
+    "task": "海报与字体"
+  },
+  "G20": {
+    "reference": "不需要",
+    "task": "海报与字体"
+  },
+  "G21": {
+    "reference": "需要",
+    "result_label": "用户 ChatGPT 网页版示例",
+    "task": "摄影与插画"
+  },
+  "G22": {
+    "reference": "不需要",
+    "task": "广告与详情",
+    "product_category": "食品"
+  },
+  "G23": {
+    "reference": "需要",
+    "result_label": "用户 ChatGPT 网页版示例",
+    "task": "广告与详情",
+    "product_category": "美妆与玻璃包装"
+  },
+  "G24": {
+    "reference": "不需要",
+    "task": "广告与详情",
+    "product_category": "食品"
+  },
+  "G25": {
+    "reference": "需要",
+    "task": "人物与角色",
+    "product_category": "服装"
+  },
+  "G26": {
+    "reference": "需要",
+    "task": "概念设计",
+    "product_category": "包装"
+  },
+  "G27": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "美妆与玻璃包装"
+  },
+  "G28": {
+    "reference": "不需要",
+    "task": "摄影与插画",
+    "product_category": "食品"
+  },
+  "G29": {
+    "reference": "需要",
+    "task": "界面设计",
+    "product_category": "数码与界面"
+  },
+  "G30": {
+    "reference": "需要",
+    "task": "界面设计",
+    "product_category": "数码与界面"
+  },
+  "G31": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "食品"
+  },
+  "EC26": {
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "美妆与玻璃包装"
+  },
+  "EC27": {
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "服装"
+  },
+  "EC28": {
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "饰品"
+  },
+  "EC29": {
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "食品"
+  },
+  "EC30": {
+    "reference": "需要",
+    "task": "局部编辑",
+    "product_category": "包装"
+  },
+  "C001": {
+    "reference": "需要",
+    "task": "人物与角色",
+    "product_category": "服装"
+  },
+  "C002": {
+    "reference": "需要",
+    "task": "局部编辑"
+  },
+  "C003": {
+    "reference": "需要",
+    "task": "局部编辑"
+  },
+  "C004": {
+    "reference": "需要",
+    "task": "摄影与插画"
+  },
+  "C005": {
+    "reference": "需要",
+    "task": "局部编辑"
+  },
+  "C006": {
+    "reference": "需要",
+    "has_result": true,
+    "preview": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-5-sunburst.webp",
+    "result_label": "官方 Sunburst 示例",
+    "task": "局部编辑"
+  },
+  "C007": {
+    "reference": "需要",
+    "has_result": true,
+    "preview": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp",
+    "result_label": "官方 Sunburst 示例",
+    "task": "广告与详情",
+    "product_category": "美妆与玻璃包装"
+  },
+  "E001": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "E002": {
+    "reference": "需要",
+    "task": "广告与详情"
+  },
+  "E003": {
+    "reference": "需要",
+    "task": "局部编辑"
+  },
+  "E004": {
+    "reference": "需要",
+    "task": "商品展示"
+  },
+  "E005": {
+    "reference": "需要",
+    "task": "局部编辑"
+  },
+  "E006": {
+    "reference": "需要",
+    "task": "局部编辑"
+  },
+  "E007": {
+    "reference": "不需要",
+    "task": "信息图与排版"
+  },
+  "E008": {
+    "reference": "需要",
+    "task": "局部编辑"
+  },
+  "E009": {
+    "reference": "可选",
+    "task": "海报与字体"
+  }
+}
