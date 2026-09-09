@@ -12,11 +12,11 @@
 ## 官方与作者资料
 
 - OpenAI：[2.5 提示词指南](https://developers.openai.com/api/docs/guides/image-prompting)、[Flare](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare)、[Sunburst](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst)、[发布说明](https://openai.com/index/introducing-chatgpt-images-2-5/)。简要归纳与原文链接，不把本库改写说成官方认证。
-- Simon Willison：[作者文章](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/)，见 C005 来源卡。
+- Simon Willison：[作者文章](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/)，见 C005 中文提示词与原始短指令。
 - Graham Barlow / TechRadar：[产品体验文章](https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-2-5-is-out-ive-been-testing-it-for-24-hours-and-these-are-the-3-new-features-youll-actually-use)，用于产品操作说明。
 
 ## 图片与使用条件
 
-画廊通过原库公开图片地址展示旧案例参考，未将第三方图片复制进本仓库。每张图附近明确标注旧图身份，并提供作者及原库链接。图片、商标和第三方原帖仍归各自权利人；源仓库的代码／文档 MIT 许可不自动授权所有第三方素材的商业使用。
+画廊包含3张wangge-dev提供的ChatGPT网页版生成图，以及28张通过原库公开地址展示的参考图；第三方参考图未复制进本仓库。图片来源逐张标注，原作者及原库链接保留。图片、商标和第三方原帖仍归各自权利人；源仓库的代码／文档 MIT 许可不自动授权所有第三方素材的商业使用。
 
 本库原创文档和代码适用根目录 [MIT 许可](LICENSE)；改写内容同时保留上述上游许可。使用参考素材时应确认相应用途的授权。如权利人要求撤下参考图，请通过 Issue 提供具体链接。

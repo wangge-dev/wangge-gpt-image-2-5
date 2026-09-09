@@ -1,22 +1,35 @@
-# C002 · 透明商品素材
+# C002 · 透明背景商品素材
 
-- 来源：OpenAI，GPT Image 2.5 prompting guide
-- 最近核查：2026-09-09
-- 模型依据：官方 2.5 章节中的 Flare / Sunburst 示例标签
-- 来源状态：已核查文字与示例标签
-- 本仓库复现：未复现；未独立进行原图视觉评测
-- 提示词性质：本卡不转载完整原文提示词；原文见下方章节
+[来源明确的提示词](README.md) · [首页](../README.md)
 
-[打开官方原文与输入输出](https://developers.openai.com/api/docs/guides/image-prompting)。定位 **GPT Image 2.5** 下的 **Create a transparent product cutout**；若页面切换默认版本，先切回 2.5。
+## 准备材料
 
-官方展示透明商品处理。需保留真实 alpha 通道，棋盘格画面不等于透明。
+上传一张轮廓完整的商品照片。
 
-## 本库接下来研究什么
+将双花括号内容换成自己的信息，然后整段复制。
 
-半透明材质与投影的边缘能否直接用于排版？
+## 完整中文提示词
 
-这是本库提出的应用问题，不是官方已经证明的结论。可从 [对应原创实验](../experiments/E001-product-scene.md) 开始；其中中文指令属于本库设计，尚未运行。
+```text
+将照片中的商品单独提取到透明背景，居中完整展示。商品轮廓、颜色、材质和标签保持，不添加投影、底板或棋盘格，输出PNG图片。
+```
 
-使用者需要准备可使用的参考素材，记录实际平台和型号。来源里的输出仅代表该示例，不保证替换自己的素材后仍有同样效果。
+## 接着修改
 
-[案例索引](README.md)
+上传上一轮结果，涉及参考图的任务同时保留原图；每次只发一条修改指令。
+
+```text
+只清理商品{{边缘部位}}的残留底色，保留商品及透明背景，不重新设计标签。
+```
+
+## 使用提示
+
+API设置background=transparent、output_format=png。下载原始PNG检查透明通道；截图或画出的棋盘格不能当透明素材。
+
+画布沿用输入图比例；模型与可用设置见[模型说明](../guides/models.md)。
+
+## 来源
+
+[官方2.5示例 · Flare / Sunburst](https://developers.openai.com/api/docs/guides/image-prompting#create-a-transparent-product-cutout)。核查日期：2026-09-09。中文正文为本库根据该任务整理，加入适用的输入和操作要求，不是官方逐字译文。
+
+相关任务：[商品主图](../prompts/ecommerce/EC01.md) · [一品多图](../ecommerce/product-kit.md)

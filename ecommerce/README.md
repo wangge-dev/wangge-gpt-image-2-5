@@ -53,6 +53,10 @@
 - [G26 造型包装结构概念板](../prompts/gallery/G26.md)
 - [G31 餐饮异形立牌与套餐展架](../prompts/gallery/G31.md)
 
+## 明确2.5来源的电商用法
+
+[参考换装](../cases/C001-reference-clothing.md) · [透明商品](../cases/C002-transparent-product.md) · [保留版式换语言](../cases/C003-layout-translation.md)
+
 ## 一款商品连续出素材
 
 建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。

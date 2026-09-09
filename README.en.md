@@ -4,7 +4,7 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 87 base prompts (78 adapted cards and 9 originals), plus 113 complete variations. The collection includes 22 general templates, 25 ecommerce scenarios and 31 curated creative prompts. Ecommerce templates offer 88 variations, from clean product shots to seasonal campaigns.
+Explore 92 base prompts (78 adapted cards, 9 originals and 5 prompts developed from documented 2.5 examples), plus 111 complete variations. The collection includes 22 general templates, 25 ecommerce scenarios and 31 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
 
 ## Explore
 
@@ -14,6 +14,7 @@ Explore 87 base prompts (78 adapted cards and 9 originals), plus 113 complete va
 | Posters, infographics, portraits, branding, spaces and interfaces | [Prompt index](prompts/README.md) |
 | Hairstyle grids, enamel pins and miniature ads | [Creative gallery](gallery/README.md) |
 | Copy edits, localization and consistent product series | [Original workflows](experiments/README.md) |
+| Prompts based on documented 2.5 examples | [Five complete Chinese prompts](cases/README.md) |
 | Try the three featured examples in ChatGPT | [Bilingual prompts](guides/web-examples.md) |
 
 Most individual cards are in Chinese. The featured examples include complete English prompts.

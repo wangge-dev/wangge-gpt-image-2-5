@@ -23,12 +23,15 @@ def render(entry):
     lines += ['', '## 完整提示词', '', '```text', entry['prompt'], '```', '',
               '## 参数设置', '', f"建议画布：`{entry['size']}`；模型选择及格式见[模型说明](../../guides/models.md)。网页版可按相同比例描述画布。", '',
               ]
+    if entry.get('usage_note'):
+        lines += [entry['usage_note'], '']
     if entry.get('settings_note'):
         lines += [entry['settings_note'], '']
     if entry.get('variants'):
         lines += ['## 可复制变体', '', '选择一个版本，替换变量后整段复制；每段已包含基础要求。']
     for name, instruction in entry.get('variants', {}).items():
-        lines += ['', f'### {name}', '', '```text', entry['prompt'] + '\n\n本次版本调整（以此段替换基础正文中的对应布景、布局或风格，未提及要求继续保留）：\n' + instruction, '```']
+        lines += ['', f'### {name}', '', '```text', instruction if entry.get('variants_format') == 'complete' else entry['prompt'] + '\n\n' + instruction, '```']
+    lines += ['', '修改前，将修改指令中的双花括号内容按实际问题填写；每次只处理一个位置。']
     lines += ['', '## 接着修改', '', '上传上一轮结果；涉及商品或人物时，同时保留原始参考图。', '', '```text', entry['edit'], '```', '', '## 来源', '']
     lines += [f"- [{s['label']}]({s['url']})" for s in entry['sources']]
     if entry.get('preview'):
@@ -51,6 +54,7 @@ def main():
         lines += [f"## {labels[g]} · {len(items)}", '', '| 提示词 | 用途 |', '| --- | --- |']
         lines += [f"| [{e['id']} {e['title']}]({g}/{e['id']}.md) | {e['use']} |" for e in items]
         lines += ['']
+    lines += ['## 明确2.5来源 · 5', '', '[换装、透明商品、换语言、草图写实、图表角色：完整中文提示词](../cases/README.md)', '']
     write('prompts/README.md','\n'.join(lines))
     ec = groups.get('ecommerce', [])
     lines = ['# 电商提示词专区', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(ec)} 套场景模板，包含完整变体与后续修改指令。先上传真实商品图，填写商品事实，再复制对应模板。', '', '## 按任务找提示词', '']
@@ -63,6 +67,7 @@ def main():
         lines += ['## 精选电商创意拓展', '']
         lines += [f"- [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)" for e in extensions]
         lines += ['']
+    lines += ['## 明确2.5来源的电商用法', '', '[参考换装](../cases/C001-reference-clothing.md) · [透明商品](../cases/C002-transparent-product.md) · [保留版式换语言](../cases/C003-layout-translation.md)', '']
     lines += ['## 一款商品连续出素材', '', '建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。', '', '需要可直接套用的整套任务单，见[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。', '', '## 持续补充', '', '持续补充品类专用提示词、场景变体与编辑技巧。欢迎在[贡献说明](../CONTRIBUTING.md)中提交新需求。']
     write('ecommerce/README.md','\n'.join(lines))
     gallery = groups.get('gallery', [])

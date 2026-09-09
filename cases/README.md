@@ -1,15 +1,13 @@
-# 有明确 2.5 来源的案例
+# 有明确2.5来源的中文提示词
 
-核查日期：2026-09-09。这里是来源研究卡，**本仓库独立生图复现 0 次**；原始输入与输出请到来源页面查看，尚未进行像素或画质评测。
+[首页](../README.md) · [全部提示词](../prompts/README.md)
 
-| 编号 | 玩法 | 来源依据 | 本库复现 |
-| --- | --- | --- | --- |
-| [C001](C001-reference-clothing.md) | 人物与服装参考 | 官方 2.5 双型号示例 | 未复现 |
-| [C002](C002-transparent-product.md) | 透明商品素材 | 官方 2.5 双型号示例 | 未复现 |
-| [C003](C003-layout-translation.md) | 图文翻译保留版式 | 官方 2.5 双型号示例 | 未复现 |
-| [C004](C004-sketch-render.md) | 草图转成写实场景 | 官方 2.5 双型号示例 | 未复现 |
-| [C005](C005-chart-character.md) | 图表中增加角色 | 作者公开 Sunburst 调用 | 未复现 |
+5条完整中文提示词，附准备材料、后续修改和原始来源。官方或作者的型号依据与本库中文整理分开说明；共享方法不表示只有2.5可用。
 
-它们提供的是可以继续研究的明确起点。可复制的中文原创任务集中在 [实验区](../experiments/README.md)，每条都单独注明未测试。
-
-[返回首页](../README.md)
+| 提示词 | 输入 | 来源 |
+| --- | --- | --- |
+| [C001 参考衣物换装](C001-reference-clothing.md) | 人物照＋衣物照 | 官方Flare / Sunburst示例 |
+| [C002 透明背景商品素材](C002-transparent-product.md) | 商品照片 | 官方Flare / Sunburst示例 |
+| [C003 保留版式替换语言文案](C003-layout-translation.md) | 信息图＋已校对文字 | 官方Flare / Sunburst示例方向 |
+| [C004 草图转写实场景](C004-sketch-render.md) | 草图＋材质光线 | 官方Flare / Sunburst示例 |
+| [C005 图表留白处添加角色](C005-chart-character.md) | 图表＋留白位置 | Simon公开Sunburst调用 |
