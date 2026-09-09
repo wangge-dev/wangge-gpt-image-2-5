@@ -6,7 +6,7 @@
 
 | 来源范围 | 索引项 | 已改写 | 后续精选 |
 | --- | ---: | ---: | ---: |
-| 旧库案例 | 541 | 30 | 511 |
+| 旧库案例 | 541 | 31 | 510 |
 | 旧库模板索引 | 22 | 22 | 0 |
 | 电商模板 | 25 | 25 | 0 |
 
@@ -39,6 +39,7 @@
 | [487 法式药妆商业分镜封面](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-487) | [G27.md](../prompts/gallery/G27.md) |
 | [485 时尚目录电商拼贴](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-485) | [G25.md](../prompts/gallery/G25.md) |
 | [475 企鹅造型包装结构板](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-475) | [G26.md](../prompts/gallery/G26.md) |
+| [470 本地生活小店异形展架](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-470) | [G31.md](../prompts/gallery/G31.md) |
 | [453 企业级商用画册视觉系统](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-453) | [G10.md](../prompts/gallery/G10.md) |
 | [419 可颂烘焙流程 Storyboard](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-419) | [G28.md](../prompts/gallery/G28.md) |
 | [411 极简建筑地标海报](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-411) | [G02.md](../prompts/gallery/G02.md) |
@@ -106,8 +107,8 @@
 | Characters & People | 29 |
 | Photography & Realism | 76 |
 | Brand & Logos | 25 |
-| Products & E-commerce | 36 |
 | Charts & Infographics | 51 |
+| Products & E-commerce | 35 |
 | UI & Interfaces | 71 |
 | History & Classical Themes | 14 |
 | Other Use Cases | 26 |

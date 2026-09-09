@@ -43,6 +43,16 @@
 - [EC23 设备屏幕展示样机](../prompts/ecommerce/EC23.md)：把已有界面置入设备展示场景。
 - [EC24 品牌门店与空间概念](../prompts/ecommerce/EC24.md)：设计门面或陈列空间，区分实际改造与概念。
 
+## 精选电商创意拓展
+
+- [G21 旅行纪念珐琅徽章](../prompts/gallery/G21.md)
+- [G22 六格柠檬饮料微缩广告](../prompts/gallery/G22.md)
+- [G23 薄荷玫瑰香水场景](../prompts/gallery/G23.md)
+- [G24 杯内鱼眼冰饮广告](../prompts/gallery/G24.md)
+- [G25 时尚目录三图拼贴](../prompts/gallery/G25.md)
+- [G26 造型包装结构概念板](../prompts/gallery/G26.md)
+- [G31 餐饮异形立牌与套餐展架](../prompts/gallery/G31.md)
+
 ## 一款商品连续出素材
 
 建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。

@@ -57,6 +57,11 @@ def main():
         lines += [f'### {cat}', '']
         lines += [f"- [{e['id']} {e['title']}](../prompts/ecommerce/{e['id']}.md)：{e['use']}" for e in ec if e['category']==cat]
         lines += ['']
+    extensions = [e for e in entries if e['group']=='gallery' and e['category']=='Products & E-commerce']
+    if extensions:
+        lines += ['## 精选电商创意拓展', '']
+        lines += [f"- [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)" for e in extensions]
+        lines += ['']
     lines += ['## 一款商品连续出素材', '', '建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。', '', '需要可直接套用的整套任务单，见[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。', '', '## 持续补充', '', '资料稀缺的电商玩法长期保留在[待补充清单](../discovery/backlog.md)。发布前另行检查商品事实、文字和平台要求；本库不承诺投放或转化效果。']
     write('ecommerce/README.md','\n'.join(lines))
     gallery = groups.get('gallery', [])

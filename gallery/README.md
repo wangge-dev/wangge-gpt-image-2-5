@@ -2,7 +2,7 @@
 
 [首页](../README.md) · [全部提示词](../prompts/README.md)
 
-30 条独立改写提示词，覆盖 13 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。
+31 条独立改写提示词，覆盖 13 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。
 
 **以下全部为原库旧版参考图，不是本库 Image 2.5 输出。** 点击标题进入适配卡。
 
@@ -193,6 +193,12 @@
 ![旧版参考 · 造型包装结构概念板](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case475.jpg)
 
 来源：原库 Case 475 · 企鹅造型包装结构板 · @iamaiistudio。本库改写：保留工业设计展示板，去除无资料的尺寸与可生产暗示。
+
+### [G31 餐饮异形立牌与套餐展架](../prompts/gallery/G31.md)
+
+![旧版参考 · 餐饮异形立牌与套餐展架](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case470.jpg)
+
+来源：原库 Case 470 · 本地生活小店异形展架 · @MrLarus。本库改写：保留原Case470的白底、单个异形主体、完整底座和门店POP信息层级，区别于EC05普通海报及EC24门店空间。
 
 
 ## 场景与叙事

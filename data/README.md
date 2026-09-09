@@ -1,6 +1,6 @@
 # 提示词内容维护源
 
-`library.json` 保存77张适配卡的正文、变量、变体、来源及适配说明。页面由 `python scripts/build_library.py` 生成，日常先改JSON再生成，不同时手改两份正文。
+`library.json` 保存78张适配卡的正文、变量、变体、来源及适配说明。页面由 `python scripts/build_library.py` 生成，日常先改JSON再生成，不同时手改两份正文。
 
 字段说明：`id` 是稳定卡片编号；`group` 对应 ecommerce、templates、gallery；`source_key` 是原库条目ID或文件名；`sources` 含具体版本链接；`preview` 如有则是旧版参考；`settings_note` 用于透明输出等特殊设置。
 
