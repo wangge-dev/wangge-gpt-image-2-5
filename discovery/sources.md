@@ -1,0 +1,34 @@
+# 持续追踪来源
+
+维护核查日期：2026-09-09。来源优先级依据具体证据，不依据转发数量。
+
+| ID | 来源 | 用途 | 本轮状态 |
+| --- | --- | --- | --- |
+| S01 | [OpenAI 发布](https://openai.com/index/introducing-chatgpt-images-2-5/) | 发布事实、产品功能 | 正文已核查 |
+| S02 | [官方提示词指南](https://developers.openai.com/api/docs/guides/image-prompting) | 必须定位 GPT Image 2.5 章节 | 章节与示例标签已核查 |
+| S03 | [Flare](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare) | 型号与调用能力 | 正文已核查 |
+| S04 | [Sunburst](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst) | 型号与调用能力 | 正文已核查 |
+| S05 | [Simon 的 2.5 记录](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/) | 原作者示例与后续线索 | 正文、指令、型号已核查 |
+| S06 | [TechRadar 上手](https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-2-5-is-out-ive-been-testing-it-for-24-hours-and-these-are-the-3-new-features-youll-actually-use) | ChatGPT 操作体验 | 正文已核查，不用于 API 型号证明 |
+| S07 | [YouMind](https://youmind.com/zh-CN/gpt-image-2-prompts) | 发现创作者与原帖 | 规划期发现候选，正式条目待追溯 |
+| S08 | [Promptowy 编辑实验](https://promptowy.com/edycja-komentarzem-test/) | 观察实验记录方法 | 规划期核查：作者不能确认模型，不作为 2.5 效果证据 |
+
+## 滚动检索
+
+每轮查询日期窗口覆盖上次成功检索之后，并重叠 2 天；失败来源保留上次成功时间。
+第一轮从 2026-09-08 起搜。搜索日期只帮助定位，最终核对原帖时间和模型。
+
+- `"gpt-image-2.5-sunburst" "product"`
+- `"gpt-image-2.5-flare" "editing"`
+- `"ChatGPT Images 2.5" "prompt"`
+- `"Image 2.5" 商品 保真`
+- `"Image 2.5" 中文 改字`
+- `"gpt-image-2.5" packaging multi-turn`
+
+轮换扩展词：garment、jewelry、glass、label、infographic、sketch、poster、comparison、failure。
+渠道：官方文档、作者网站、GitHub、X、Reddit、公开中文文章。先查公开入口，不自动启用付费采集接口。
+
+发现一条有价值原帖后，追作者的后续与回复，分清独立案例和同案转载。检索结果不全时保留覆盖范围，不宣称全网收齐。
+
+[候选清单](backlog.md) · [维护流程](../maintenance/README.md)
+
