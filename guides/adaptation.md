@@ -2,6 +2,8 @@
 
 核查日期：2026-09-09。目标为 GPT Image 2.5 Flare / Sunburst。
 
+“适配”指面向目标型号整理，不表示仅该版本能用。现有内容的逐项依据、归属和待优化点见[版本核对](../maintenance/audits/2026-09-09-version-audit.md)。
+
 官方指南允许沿用清楚的既有提示词，并不存在加模型名就生效的专用语法。指定参考图职责、准确文字、编辑时的改变与保留范围，以及逐次修改，是本库采用的指导方向。来源：[GPT Image 2.5 提示词指南](https://developers.openai.com/api/docs/guides/image-prompting)。
 
 以下是本库据此制定的编辑方法，不是官方逐条认证：

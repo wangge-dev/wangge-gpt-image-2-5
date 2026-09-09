@@ -1,0 +1,1411 @@
+{
+  "date": "2026-09-09",
+  "scope": "87 base prompts, 113 rendered variants, 5 source cards; documentary review, no generation",
+  "entries": [
+    {
+      "id": "EC01",
+      "title": "白底与纯色商品主图",
+      "path": "prompts/ecommerce/EC01.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "商品外形与白底布光分开；四变体主要是背景和光线，不能算新版独有玩法。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC02",
+      "title": "生活场景商品图",
+      "path": "prompts/ecommerce/EC02.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "商品参考与环境关系明确；可保留为换场景任务，后续修改需点名商品部位。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC03",
+      "title": "俯拍平铺静物",
+      "path": "prompts/ecommerce/EC03.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "俯拍角度可能显露原图未见区域，准备材料需明确俯拍参考是否充足。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC04",
+      "title": "材质与工艺微距",
+      "path": "prompts/ecommerce/EC04.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "细节近照是新增的有效输入约束；不是2.5专属能力证明。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC05",
+      "title": "中文促销海报",
+      "path": "prompts/ecommerce/EC05.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "X",
+        "L",
+        "R"
+      ],
+      "review": "标题、价格和按钮位置明确；修改指令尚未单独区分活动字与包装字。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC06",
+      "title": "社媒种草与视频封面",
+      "path": "prompts/ecommerce/EC06.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "X",
+        "S"
+      ],
+      "review": "社媒风格与文案限制属于任务整理；平台风格标签不构成版本证据。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC07",
+      "title": "生活随拍广告风格",
+      "path": "prompts/ecommerce/EC07.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S",
+        "R"
+      ],
+      "review": "随拍、直闪与开箱是通用摄影方向；不能用UGC风格证明新版针对性。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC08",
+      "title": "模特持用与穿戴展示",
+      "path": "prompts/ecommerce/EC08.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R"
+      ],
+      "review": "商品和人物两图分工有针对性；可直接关联官方换装示例，但本条不是官方原提示。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC09",
+      "title": "真实素材前后对比排版",
+      "path": "prompts/ecommerce/EC09.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "真实前后图排版有用途；若要求证据照片不被重绘，需要外部合成，现有提示词不能保证。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC10",
+      "title": "包装与开箱陈列",
+      "path": "prompts/ecommerce/EC10.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "包装组件清单有作用；环保、礼盒审美不构成版本专属依据。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC11",
+      "title": "卖点信息图与详情页模块",
+      "path": "prompts/ecommerce/EC11.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "X",
+        "L",
+        "R"
+      ],
+      "review": "卖点与商品区域明确；需把三块卖点的输入格式写得更固定清楚。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC12",
+      "title": "超现实商品创意广告",
+      "path": "prompts/ecommerce/EC12.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S",
+        "R"
+      ],
+      "review": "超现实布景与商品分开；飞溅和悬浮本身是通用创意。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC13",
+      "title": "尺寸规格与使用步骤",
+      "path": "prompts/ecommerce/EC13.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "X",
+        "L"
+      ],
+      "review": "给定尺寸与三步流程有对应；步骤不是恰好三条时如何处理尚不明确。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC14",
+      "title": "套装与产品线陈列",
+      "path": "prompts/ecommerce/EC14.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "多商品按图绑定可保留；routine变体要求顺序排列，基础主商品居中规则可能冲突。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC15",
+      "title": "直播封面与布景概念",
+      "path": "prompts/ecommerce/EC15.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X",
+        "L"
+      ],
+      "review": "主播与商品分工清楚；setup变体取消文字的覆盖关系需要保持可读。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC16",
+      "title": "参考图试穿与场景融入",
+      "path": "prompts/ecommerce/EC16.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R"
+      ],
+      "review": "换装与空间融入对应明确任务；双模式仍值得拆成两个复制入口，不必新增计数。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "EC17",
+      "title": "产品结构爆炸示意",
+      "path": "prompts/ecommerce/EC17.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "X"
+      ],
+      "review": "结构资料约束是有效内容治理；垂直装配轴不适用于所有产品，需按结构调整。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC18",
+      "title": "服装隐形模特",
+      "path": "prompts/ecommerce/EC18.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R"
+      ],
+      "review": "内衬需要实拍依据；可归为服装素材整理，不能宣称自动还原未知内衬。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC19",
+      "title": "多角度与多配色网格",
+      "path": "prompts/ecommerce/EC19.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "多SKU逐格对应有价值；基础四格与变体六格九格的最终指令宜直接整合。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC20",
+      "title": "品牌杂志封面与内页",
+      "path": "prompts/ecommerce/EC20.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X"
+      ],
+      "review": "模特和刊头输入清楚；四种杂志风格仍是通用创意。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC21",
+      "title": "四季与节日系列图",
+      "path": "prompts/ecommerce/EC21.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "同商品跨格一致性明确；经典四季变体与基础正文高度重合，不宜宣传为新增玩法。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC22",
+      "title": "奢华氛围商品大片",
+      "path": "prompts/ecommerce/EC22.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "特效与标签遮挡分开；氛围变化不能作为2.5专属依据。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC23",
+      "title": "设备屏幕展示样机",
+      "path": "prompts/ecommerce/EC23.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "截图与设备分工清楚；精确界面数据保留不能只靠生成式重绘保证。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC24",
+      "title": "品牌门店与空间概念",
+      "path": "prompts/ecommerce/EC24.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "K",
+        "R"
+      ],
+      "review": "平面参考与空间概念相符；室内和鸟瞰视角需各自的结构依据。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "EC25",
+      "title": "运动商品广告与三联画",
+      "path": "prompts/ecommerce/EC25.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X",
+        "L"
+      ],
+      "review": "运动模特与商品两图输入有效；三联画与T05接近，建议交叉导航避免重复扩充。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 4
+    },
+    {
+      "id": "T01",
+      "title": "移动端与网页界面概念",
+      "path": "prompts/templates/T01.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "L",
+        "X"
+      ],
+      "review": "界面位置文案明确；概念图措辞与官方偏成品界面的建议用途不同，不是模型不兼容。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T02",
+      "title": "信息图引擎",
+      "path": "prompts/templates/T02.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "L",
+        "X",
+        "K"
+      ],
+      "review": "四模块与草图可对应官方图解方向；内容事实约束是本库补充。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T03",
+      "title": "科学尺度缩放图",
+      "path": "prompts/templates/T03.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "L",
+        "X"
+      ],
+      "review": "六尺度窗口有清楚数据要求；属于通用科普排版。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T04",
+      "title": "海报排版系统",
+      "path": "prompts/templates/T04.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "L",
+        "X"
+      ],
+      "review": "海报区域与标题准确；属于共享排版技巧。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T05",
+      "title": "运动商业 Campaign",
+      "path": "prompts/templates/T05.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X",
+        "L"
+      ],
+      "review": "参考分工合理；和EC25运动商业用途接近，需明确入口差异。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T06",
+      "title": "概念字体海报",
+      "path": "prompts/templates/T06.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "X",
+        "S"
+      ],
+      "review": "概念字体可复制；可读性目标不是实际文字准确率证明。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T07",
+      "title": "水墨双重曝光海报",
+      "path": "prompts/templates/T07.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "两个人物形象共用身份参考；水墨双重曝光是旧创意的场景化整理。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T08",
+      "title": "自然科普海报",
+      "path": "prompts/templates/T08.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "X"
+      ],
+      "review": "物种资料与图文对应清楚；不因新版更聪明就省略原始事实。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T09",
+      "title": "商品商业视觉",
+      "path": "prompts/templates/T09.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X"
+      ],
+      "review": "商品与两卖点有具体约束；和EC05/EC11应明确不同使用场景。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T10",
+      "title": "同脸唇色搭配参考",
+      "path": "prompts/templates/T10.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R"
+      ],
+      "review": "同脸仅改唇色明确；真实试色精度尚无输出对照依据。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T11",
+      "title": "品牌身份概念板",
+      "path": "prompts/templates/T11.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "L",
+        "X"
+      ],
+      "review": "单页品牌板范围合理；色号和矢量能力没有被当作生成保证。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T12",
+      "title": "品牌触点视觉板",
+      "path": "prompts/templates/T12.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "标识和产品分工有作用；多触点一致性尚无本库版本实测。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T13",
+      "title": "建筑与空间",
+      "path": "prompts/templates/T13.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "K",
+        "R"
+      ],
+      "review": "草图结构保留和夜景修改与官方方向相关；不等于验证了Sketch界面功能。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T14",
+      "title": "写实摄影",
+      "path": "prompts/templates/T14.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S"
+      ],
+      "review": "镜头与纹理主要是通用摄影描述；缺少更具体任务编辑入口。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T15",
+      "title": "街头意外瞬间摄影",
+      "path": "prompts/templates/T15.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S"
+      ],
+      "review": "雨后街拍是通用创意；虚构说明是用途边界，不是版本优化。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T16",
+      "title": "插画与艺术风格",
+      "path": "prompts/templates/T16.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S",
+        "R"
+      ],
+      "review": "风格参考与新主体分工明确；媒介替换可跨版本使用。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T17",
+      "title": "角色设定表",
+      "path": "prompts/templates/T17.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "角色与背面设定输入合理；三视图不等于连续多轮一致性已验证。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T18",
+      "title": "3D 收藏玩具",
+      "path": "prompts/templates/T18.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "玩具化保留识别特征；与官方收藏品方向相关但不是其原提示。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T19",
+      "title": "场景叙事",
+      "path": "prompts/templates/T19.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "L",
+        "I"
+      ],
+      "review": "故事场景可保留；四格变体固定成找信故事，会覆盖用户故事，需修正。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T20",
+      "title": "历史与古风题材",
+      "path": "prompts/templates/T20.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S",
+        "X"
+      ],
+      "review": "史料与画风分开；属于通用历史题材方法。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T21",
+      "title": "文档与出版物",
+      "path": "prompts/templates/T21.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "X"
+      ],
+      "review": "版式与主图分工清楚；和G10相近，宜按通用单页与企业画册分清用途。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "T22",
+      "title": "概念产品研发拆解",
+      "path": "prompts/templates/T22.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "K",
+        "L"
+      ],
+      "review": "概念结构与工程资料分开；概念标注不是新版独有技巧。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 1
+    },
+    {
+      "id": "G01",
+      "title": "城市地图微缩旅行海报",
+      "path": "prompts/gallery/G01.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S",
+        "X"
+      ],
+      "review": "纸地图与微缩城市是来源创意；目前新版针对性主要停留在通用文字约束。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G02",
+      "title": "建筑地标与巨字海报",
+      "path": "prompts/gallery/G02.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X",
+        "L"
+      ],
+      "review": "地标参考与大字遮挡关系具体；不是2.5原生来源案例。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G03",
+      "title": "轻拟物App图标",
+      "path": "prompts/gallery/G03.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S",
+        "L"
+      ],
+      "review": "单个图标与留白明确；属于通用图标创意。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G04",
+      "title": "水雕标志六宫格",
+      "path": "prompts/gallery/G04.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "S"
+      ],
+      "review": "六标志逐图绑定有意义；水体材质是来源创意。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G05",
+      "title": "同一人十二款发型",
+      "path": "prompts/gallery/G05.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "十二格仅改发型具体；有用户输出，模型版本不可由图片单独确认。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "未独立确认",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G06",
+      "title": "儿童绘本手绘头像",
+      "path": "prompts/gallery/G06.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "保留识别特征同时简化五官，处理了具体冲突。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G07",
+      "title": "幼儿水果词汇卡",
+      "path": "prompts/gallery/G07.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "X",
+        "L"
+      ],
+      "review": "两词与两图对应明确；属于通用教学图方法。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G08",
+      "title": "电动巴士资料图解",
+      "path": "prompts/gallery/G08.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "X"
+      ],
+      "review": "结构资料限制有效；不代表2.5可自动核实工程数据。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G09",
+      "title": "上下各半的回忆卡",
+      "path": "prompts/gallery/G09.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "S"
+      ],
+      "review": "上下媒介分区明确；若上半要求原照片不变，必须另行合成。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G10",
+      "title": "企业画册单页视觉系统",
+      "path": "prompts/gallery/G10.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "X"
+      ],
+      "review": "品牌版式和单页交付明确；与T21相近，不应重复计算为独有能力。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G11",
+      "title": "古文长卷与准确全文",
+      "path": "prompts/gallery/G11.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "X",
+        "L"
+      ],
+      "review": "作品名与全文匹配是内容纠错；分卷的本页段落尚缺明确独立输入。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G12",
+      "title": "短歌行诗意排版",
+      "path": "prompts/gallery/G12.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "X",
+        "S"
+      ],
+      "review": "指定诗文与插图留白有用；不能保证长诗字字准确。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G13",
+      "title": "公园水彩旅行插画",
+      "path": "prompts/gallery/G13.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S"
+      ],
+      "review": "水彩公园构图为通用创意；没有额外新版能力依据。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G14",
+      "title": "月面宇航员印花",
+      "path": "prompts/gallery/G14.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "A",
+        "S"
+      ],
+      "review": "透明输出的设置有官方依据；透明能力本身不是2.5独有。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G15",
+      "title": "餐厅菜单宣传图",
+      "path": "prompts/gallery/G15.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X",
+        "L"
+      ],
+      "review": "菜单与菜品双参考有效；英文限定应与输入语言统一。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G16",
+      "title": "铁粉构成的标志",
+      "path": "prompts/gallery/G16.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "参考轮廓与铁粉材质分开；艺术模拟不是物理测量能力。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G17",
+      "title": "春日樱花回眸肖像",
+      "path": "prompts/gallery/G17.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "可选人物参考有用；樱花摄影风格并非新版专属。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G18",
+      "title": "酒红与琥珀棚拍肖像",
+      "path": "prompts/gallery/G18.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "删除预设胡须发型覆盖参考的冲突，属于具体参考图改写。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G19",
+      "title": "黑白侧脸字体海报",
+      "path": "prompts/gallery/G19.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X",
+        "S"
+      ],
+      "review": "侧脸与准确标题相互约束；不是新版原生创意证明。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G20",
+      "title": "水晶框旅行广告",
+      "path": "prompts/gallery/G20.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S",
+        "X"
+      ],
+      "review": "旅行广告场景和文字明确；版本关联主要为共享技巧。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G21",
+      "title": "旅行纪念珐琅徽章",
+      "path": "prompts/gallery/G21.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "场景优先的徽章化规则具体；有用户输出，未独立看到模型型号。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "未独立确认",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G22",
+      "title": "六格柠檬饮料微缩广告",
+      "path": "prompts/gallery/G22.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "六格动作与角色一致性明确；没有角色参考时仍需检查跨格漂移。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G23",
+      "title": "薄荷玫瑰香水场景",
+      "path": "prompts/gallery/G23.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "S"
+      ],
+      "review": "商品颜色与薄荷布景分离，解决实际冲突；有用户输出但缺输入原图对照。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "未独立确认",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G24",
+      "title": "杯内鱼眼冰饮广告",
+      "path": "prompts/gallery/G24.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "S"
+      ],
+      "review": "杯内鱼眼视角是通用创意；不应单列为2.5独有能力。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G25",
+      "title": "时尚目录三图拼贴",
+      "path": "prompts/gallery/G25.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "同模特与服装两图分工明确；可关联官方换装方向。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G26",
+      "title": "造型包装结构概念板",
+      "path": "prompts/gallery/G26.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "多面资料与概念设计区分清楚；不会由此获得生产刀线。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G27",
+      "title": "护肤商业静态分镜",
+      "path": "prompts/gallery/G27.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L"
+      ],
+      "review": "把视频要求转为六格静态任务是输出范围修正，不是新版专属。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G28",
+      "title": "可颂烘焙八格分镜",
+      "path": "prompts/gallery/G28.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "L",
+        "I"
+      ],
+      "review": "八格动作清楚；分镜顺序不能替代烘焙步骤资料。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G29",
+      "title": "3D个人资料概念卡",
+      "path": "prompts/gallery/G29.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "X"
+      ],
+      "review": "身份与资料卡文字有分工；3D卡片创意仍来自旧库。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G30",
+      "title": "流媒体首页概念图",
+      "path": "prompts/gallery/G30.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "L",
+        "X"
+      ],
+      "review": "主视觉与界面文字明确；成品界面样式还可细化。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "G31",
+      "title": "餐饮异形立牌与套餐展架",
+      "path": "prompts/gallery/G31.md",
+      "classification": "面向2.5的共享方法改写",
+      "official_topics": [
+        "R",
+        "X",
+        "L",
+        "A"
+      ],
+      "review": "多菜品、活动区和底座要求具体；透明变体有参数依据，源案例仍是旧版。",
+      "source_model": "GPT Image 2 来源库",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 3
+    },
+    {
+      "id": "E001",
+      "title": "同一商品换场景",
+      "path": "experiments/E001-product-scene.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "R"
+      ],
+      "review": "单商品换场景及局部恢复明确；原创任务符合指南但无独占性证明。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "E002",
+      "title": "中文商品主图构图",
+      "path": "experiments/E002-main-image.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "R",
+        "X",
+        "L"
+      ],
+      "review": "商品和活动文字分开；字号修订是具体可执行编辑。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "E003",
+      "title": "活动图只改日期",
+      "path": "experiments/E003-copy-edit.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "X",
+        "I"
+      ],
+      "review": "只改日期及恢复误改内容，针对局部修改，仍需输出验证。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "E004",
+      "title": "一品三图各有用途",
+      "path": "experiments/E004-product-series.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "R",
+        "I"
+      ],
+      "review": "每次一张不同用途的商品图，参考职责明确；不是官方换装示例的同任务复现。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "E005",
+      "title": "三轮返工保留已完成修改",
+      "path": "experiments/E005-revision-chain.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "I"
+      ],
+      "review": "多轮方向符合指南；第二与第三轮放同一代码块，用户易一次发送，应拆开。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "E006",
+      "title": "跨境文案与比例适配",
+      "path": "experiments/E006-localization.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "X",
+        "L",
+        "I"
+      ],
+      "review": "替换已校对译文与重排比例，关联官方翻译方向但扩大了任务范围。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "E007",
+      "title": "已知信息的中文教学图",
+      "path": "experiments/E007-teaching-diagram.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "L",
+        "X"
+      ],
+      "review": "四条教学信息与局部纠错明确；不是新版事实准确率证明。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "E008",
+      "title": "草图控制标题与主体位置",
+      "path": "experiments/E008-layout-sketch.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "K",
+        "R"
+      ],
+      "review": "草图与主体两图分工明确；准备材料说主体图可选，正文却必需图B，需统一。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    },
+    {
+      "id": "E009",
+      "title": "同一主题的横竖封面",
+      "path": "experiments/E009-editorial-cover.md",
+      "classification": "面向2.5的原创应用设计",
+      "official_topics": [
+        "L",
+        "X",
+        "R"
+      ],
+      "review": "横竖两次生成有明确约束；属于共享排版流程。",
+      "source_model": "本库原创，无来源运行型号",
+      "target_model": "GPT Image 2.5",
+      "actual_model": "无本库运行证据",
+      "exclusive_evidence": false,
+      "variant_count": 0
+    }
+  ]
+}
