@@ -56,4 +56,3 @@
 [来源与署名](ATTRIBUTIONS.md) · [许可证](LICENSE)
 
 本项目由 wangge-dev 维护，与 OpenAI 无隶属关系。
-

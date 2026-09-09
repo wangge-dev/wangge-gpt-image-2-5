@@ -9,4 +9,3 @@ Graham Barlow 的 [TechRadar 体验文章](https://www.techradar.com/ai-platform
 尝试时记录可见入口、版本标识、日期和每轮指令。入口暂不可见就记录现状，不假设所有账号同时开放。自己的草图也可以作为参考图开展实验，但这不等于复现了 ChatGPT 的 Sketch 界面。
 
 下一步可做：[三种构图草图](../experiments/E008-layout-sketch.md)。
-

@@ -9,4 +9,3 @@
 - [旧 fork](https://github.com/wangge-dev/awesome-gpt-image-2) 与 [freestylefly 原项目](https://github.com/freestylefly/awesome-gpt-image-2) 仅是规划阶段参考；本仓库不是 fork，也不是其 2.5 改名版本。
 
 原创文档与代码适用仓库 MIT 许可证；第三方引用、商标、图片及链接内容不因本仓库许可证改变其归属和条件。首版第三方图片均链接到原文，未转载。
-

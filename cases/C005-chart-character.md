@@ -31,4 +31,3 @@ add a raccoon scientist studying the chart thoughtfully
 若需要实际数据图表，应保留原图表源文件供核对。
 
 [案例索引](README.md)
-
