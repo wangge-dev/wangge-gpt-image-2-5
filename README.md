@@ -1,12 +1,13 @@
 # wangge-gpt-image-2-5
 
+简体中文 · [English](README.en.md)
+
 **旺哥的 Image 2.5 中文提示词库：找到想做的图，替换变量，整段复制。**
 
 独立整理，以 OpenAI GPT Image 2.5 为目标，对照官方说明改写创意与电商提示词。保留原作者的创意和出处，补齐中文使用方式、参考图分工、准确文案与连续修改指令。
 
-**当前内容：78 张适配卡 + 9 条原创提示词；其中 25 套电商场景含 88 个完整变体。** 另有 5 张官方／作者来源补充卡。变体和来源卡不重复计入提示词数量。
+**当前内容：78 张适配卡 + 9 条原创提示词；其中 25 套电商场景含 88 个完整变体。** 另附官方与作者的使用示例。
 
-> 当前是“文档适配完成、未生图实测”。参考图来自旧案例，并逐张标明；不把旧图当 Image 2.5 输出。适配不等于模型独有，具体方法见[改写说明](guides/adaptation.md)。
 
 ## 直接找提示词
 
@@ -21,7 +22,7 @@
 
 ## 先看几个方向
 
-以下缩略图均为 **原库旧版参考，不是本库 2.5 实测图**。点击标题查看完整改写提示词及原作者链接。
+点击标题查看提示词，或打开[网页版三组示例](guides/web-examples.md)。图片为原库参考，来源见各条目。
 
 | [十二款发型](prompts/gallery/G05.md) | [旅行珐琅徽章](prompts/gallery/G21.md) | [薄荷玫瑰香水](prompts/gallery/G23.md) |
 | --- | --- | --- |
@@ -40,14 +41,13 @@
 
 [白底主图](prompts/ecommerce/EC01.md) · [生活场景](prompts/ecommerce/EC02.md) · [中文促销](prompts/ecommerce/EC05.md) · [卖点详情](prompts/ecommerce/EC11.md) · [尺寸步骤](prompts/ecommerce/EC13.md) · [多角度](prompts/ecommerce/EC19.md) · [四季系列](prompts/ecommerce/EC21.md)
 
-重点处理商品外观、准确文案、一品多图与连续修改。新玩法资料少时保留待补充项，不拿编造的功效、结构或评价凑内容。
+重点处理商品外观、准确文案、一品多图与连续修改。持续补充新品类、新构图与实用的编辑方法。
 
 ## 持续更新与来源
 
-发现新提示词 → 核对原文和版本 → 去重与对照改写 → 补充完整卡片 → 修订索引与来源记录。
+持续收集创意和电商用法，补充新提示词、场景变体与编辑技巧。
 
-- [维护流程](maintenance/README.md) · [自动更新状态](maintenance/automation.md) · [待补充清单](discovery/backlog.md)
-- [两个来源库的全量索引盘点](sources/README.md)：541 个案例、22 个模板索引项、25 个电商模板分别记录处理状态；索引不冒充改写完成。
+- [参考来源](sources/README.md)
 - [更新记录](CHANGELOG.md) · [贡献方式](CONTRIBUTING.md) · [署名与许可](ATTRIBUTIONS.md)
 - [官方与作者的 2.5 来源补充](cases/README.md)
 
