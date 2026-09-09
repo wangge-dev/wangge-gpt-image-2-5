@@ -371,22 +371,36 @@
   },
   "C003": {
     "reference": "需要",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "example_inputs": "上传一张英文信息图，文字清楚且完整；此示例将整张图译成简体中文。"
   },
   "C004": {
     "reference": "需要",
-    "task": "摄影与插画"
+    "task": "摄影与插画",
+    "example_inputs": "上传一张包含河流、山体和植被的景观线稿。其他空间或材质使用下面的模板。"
   },
   "C005": {
     "reference": "需要",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "example_inputs": "上传右下角有足够空白的图表；该区域不能包含坐标轴、图例、数字或曲线。"
   },
   "C006": {
     "reference": "需要",
     "has_result": true,
     "preview": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-5-sunburst.webp",
     "result_label": "官方 Sunburst 示例",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "images": [
+      {
+        "label": "官方输入 · 手持花朵的人物",
+        "url": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-blue-hat.webp"
+      },
+      {
+        "label": "官方输出 · Sunburst，使用官方原提示词",
+        "url": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-5-sunburst.webp"
+      }
+    ],
+    "usage_note": "下方图片对应官方原提示词；本库中文模板是根据该任务整理的用法。"
   },
   "C007": {
     "reference": "需要",
@@ -394,7 +408,22 @@
     "preview": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp",
     "result_label": "官方 Sunburst 示例",
     "task": "广告与详情",
-    "product_category": "美妆与玻璃包装"
+    "product_category": "美妆与玻璃包装",
+    "images": [
+      {
+        "label": "官方输入 · 洗发水商品照",
+        "url": "https://developers.openai.com/images/platform/guides/image-prompting/shampoo.webp"
+      },
+      {
+        "label": "官方首轮输出 · Sunburst",
+        "url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-gpt-image-2-5-sunburst.webp"
+      },
+      {
+        "label": "官方天气修改 · Sunburst",
+        "url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-winter-gpt-image-2-5-sunburst.webp"
+      }
+    ],
+    "usage_note": "下方图片对应官方原提示词；本库中文模板是根据该任务整理的用法。"
   },
   "E001": {
     "reference": "需要",
