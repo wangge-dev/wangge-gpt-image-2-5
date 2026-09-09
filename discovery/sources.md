@@ -12,6 +12,8 @@
 | S06 | [TechRadar 上手](https://www.techradar.com/ai-platforms-assistants/chatgpt/chatgpt-images-2-5-is-out-ive-been-testing-it-for-24-hours-and-these-are-the-3-new-features-youll-actually-use) | ChatGPT 操作体验 | 正文已核查，不用于 API 型号证明 |
 | S07 | [YouMind](https://youmind.com/zh-CN/gpt-image-2-prompts) | 发现创作者与原帖 | 规划期发现候选，正式条目待追溯 |
 | S08 | [Promptowy 编辑实验](https://promptowy.com/edycja-komentarzem-test/) | 观察实验记录方法 | 规划期核查：作者不能确认模型，不作为 2.5 效果证据 |
+| S09 | [awesome-gpt-image-2](https://github.com/wangge-dev/awesome-gpt-image-2) | 旧提示词创意与通用模板适配 | 已盘点541案例与22模板索引；已改写部分见来源盘点 |
+| S10 | [gpt-image2-ecommerce](https://github.com/buluslan/gpt-image2-ecommerce) | 电商场景与变体适配 | 25模板与88变体方向已处理，持续检查新增文件 |
 
 ## 滚动检索
 

@@ -1,58 +1,54 @@
 # wangge-gpt-image-2-5
 
-**旺哥的 Image 2.5 玩法与实测库：看来源，拿提示词，留住每次修改的经验。**
+**旺哥的 Image 2.5 中文提示词库：找到想做的图，替换变量，整段复制。**
 
-专门研究 OpenAI GPT Image 2.5，持续发现新玩法，并长期建设电商实战实验室。中文优先，独立整理；不批量迁移 Image 2 旧库。
+独立整理，以 OpenAI GPT Image 2.5 为目标，对照官方说明改写创意与电商提示词。保留原作者的创意和出处，补齐中文使用方式、参考图分工、准确文案与连续修改指令。
 
-> **首版状态 · 2026-09-09**
-> 5 张有明确 2.5 来源的案例卡（4 张官方、1 张作者实测）；9 个原创待测试实验（含 6 个电商方向）；本仓库独立生图复现 **0** 次。案例卡是来源研究，不是我们的效果保证。展示图请从各卡片的原始来源查看，暂未转载第三方图片。
+**首批内容：77 张适配卡 + 9 条原创提示词；其中 25 套电商场景含 88 个完整变体。** 另有 5 张官方／作者来源补充卡。变体和来源卡不重复计入提示词数量。
 
-## 从这里开始
+> 当前是“文档适配完成、未生图实测”。参考图来自旧案例，并逐张标明；不把旧图当 Image 2.5 输出。适配不等于模型独有，具体方法见[改写说明](guides/adaptation.md)。
 
-| 你现在要做什么 | 入口 |
+## 直接找提示词
+
+| 想做什么 | 入口 |
 | --- | --- |
-| 了解 2.5 与具体模型 | [模型与版本说明](guides/models.md) |
-| 找已经有来源依据的玩法 | [案例索引](cases/README.md) |
-| 直接拿中文提示词试用 | [原创实验与提示词](experiments/README.md) |
-| 做商品图、主图或连续返工 | [电商实战实验室](ecommerce/README.md) |
-| 提交新玩法、错误或失败反馈 | [贡献说明](CONTRIBUTING.md) |
-| 查看持续更新怎么运行 | [维护流程](maintenance/README.md) |
+| 商品主图、场景、详情、促销、品牌图 | [电商专区 · 25 套场景](ecommerce/README.md) |
+| 海报、信息图、人物、品牌、空间、UI | [通用模板 · 22 套](prompts/README.md#通用模板--22) |
+| 发型目录、微缩广告、珐琅徽章等创意 | [精选画廊 · 30 条](gallery/README.md) |
+| 改字、返工、跨境、一品多图 | [原创提示词 · 9 条](experiments/README.md) |
+| 一款商品连续出一套素材 | [电商组合任务单](ecommerce/product-kit.md) |
+| 浏览全部适配卡 | [完整索引](prompts/README.md) |
 
-## 本周先看什么
+## 先看几个方向
 
-- [在现有图表中添加角色](cases/C005-chart-character.md)：作者标明 Sunburst，附原图与结果。
-- [透明商品素材](cases/C002-transparent-product.md)：官方 2.5 示例；需要区分真实透明与棋盘格画面。
-- [一张商品图换场景](experiments/E001-product-scene.md)：原创实验，检查商品是否被改变。
-- [中文主图只改日期](experiments/E003-copy-edit.md)：原创实验，检查局部修改是否影响包装。
-- [三轮返工能否保留前面的修改](experiments/E005-revision-chain.md)：原创实验，逐轮留证。
+以下缩略图均为 **原库旧版参考，不是本库 2.5 实测图**。点击标题查看完整改写提示词及原作者链接。
 
-## 电商实战实验室 · 长期保留
+| [十二款发型](prompts/gallery/G05.md) | [旅行珐琅徽章](prompts/gallery/G21.md) | [薄荷玫瑰香水](prompts/gallery/G23.md) |
+| --- | --- | --- |
+| ![旧版发型参考](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case535.jpg) | ![旧版徽章参考](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case543.jpg) | ![旧版香水参考](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case519.jpg) |
 
-[商品保真](experiments/E001-product-scene.md) · [主图构图](experiments/E002-main-image.md) · [精确改字](experiments/E003-copy-edit.md) · [一品多图](experiments/E004-product-series.md) · [多轮返工](experiments/E005-revision-chain.md) · [跨境适配](experiments/E006-localization.md)
+## 怎么用
 
-资料不足时保留任务和缺口。图片可用性、平台审核、点击率与转化率分别记录；没有投放数据时不作增长承诺。
+1. 打开卡片，按“准备材料”上传对应图片。
+2. 将 `{{变量}}` 替换成自己的信息；表格里的商品数据只是填写示例。
+3. 在实际工具中选择 Image 2.5，复制“完整提示词”或一个完整变体。
+4. 需要返工时，带上上一轮结果与原始参考，使用卡片里的修改指令。
 
-## 我们怎样认定「2.5」
+模型与画布设置见[使用说明](guides/models.md)。不用 API 也可以在支持相应模型的图像界面里使用正文；界面提供哪些设置以实际工具为准。
 
-每条内容同时标明 **模型依据** 与 **复现状态**。官方示例、作者实测、个人实验不会混为一谈。
-“在 2.5 上有效”不等于“只有 2.5 才能做”；只有同任务版本对比才能支持升级收益。
-具体规则见 [来源与证据](guides/evidence.md)。
+## 电商是长期特色
 
-## 持续更新
+[白底主图](prompts/ecommerce/EC01.md) · [生活场景](prompts/ecommerce/EC02.md) · [中文促销](prompts/ecommerce/EC05.md) · [卖点详情](prompts/ecommerce/EC11.md) · [尺寸步骤](prompts/ecommerce/EC13.md) · [多角度](prompts/ecommerce/EC19.md) · [四季系列](prompts/ecommerce/EC21.md)
 
-新线索 → 核实来源与版本 → 整理候选 → 选择复现 → 收录结果 → 修订旧结论。
+重点处理商品外观、准确文案、一品多图与连续修改。新玩法资料少时保留待补充项，不拿编造的功效、结构或评价凑内容。
 
-- [追踪来源与检索词](discovery/sources.md)
-- [候选与缺口](discovery/backlog.md)
-- [最近一次核查](maintenance/reviews/2026-09-09.md)
-- [内容更新记录](CHANGELOG.md)
-- [自动更新运行状态](maintenance/automation.md)
+## 持续更新与来源
 
-不以条目数量作为目标。没有新资料不凑更新，访问失败不当成没有新资料。新版本未来发布后另作归属，不悄悄替换本库的 2.5 结果。
+发现新提示词 → 核对原文和版本 → 去重与对照改写 → 补充完整卡片 → 修订索引与来源记录。
 
-## 使用与来源
-
-原创实验替换 `{{变量}}` 后再试用；参考图由使用者提供。参数与提示词分开设置，模型选择见模型说明。
-[来源与署名](ATTRIBUTIONS.md) · [许可证](LICENSE)
+- [维护流程](maintenance/README.md) · [自动更新状态](maintenance/automation.md) · [待补充清单](discovery/backlog.md)
+- [两个来源库的全量索引盘点](sources/README.md)：541 个案例、22 个模板索引项、25 个电商模板分别记录处理状态；索引不冒充改写完成。
+- [更新记录](CHANGELOG.md) · [贡献方式](CONTRIBUTING.md) · [署名与许可](ATTRIBUTIONS.md)
+- [官方与作者的 2.5 来源补充](cases/README.md)
 
 本项目由 wangge-dev 维护，与 OpenAI 无隶属关系。
