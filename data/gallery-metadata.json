@@ -460,5 +460,12 @@
   "E009": {
     "reference": "可选",
     "task": "海报与字体"
+  },
+  "C008": {
+    "reference": "需要",
+    "task": "人物与角色",
+    "product_category": "非商品专项",
+    "kind": "作者自述2.5 · 中文扩写",
+    "has_result": false
   }
 }

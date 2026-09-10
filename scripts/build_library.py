@@ -56,7 +56,7 @@ def main():
         lines += [f"## {labels[g]} · {len(items)}", '', '| 提示词 | 用途 |', '| --- | --- |']
         lines += [f"| [{e['id']} {e['title']}]({g}/{e['id']}.md) | {e['use']} |" for e in items]
         lines += ['']
-    lines += ['## 明确2.5来源 · 7', '', '[换装、透明商品、换语言、草图、图表、物品移除与广告牌：完整中文提示词](../cases/README.md)', '']
+    lines += ['## 明确2.5来源 · 8', '', '[换装、透明商品、换语言、草图、图表、物品移除与广告牌：完整中文提示词](../cases/README.md)', '']
     write('prompts/README.md','\n'.join(lines))
     ec = groups.get('ecommerce', [])
     lines = ['# 电商提示词专区', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(ec)} 套场景模板，包含完整变体与后续修改指令。先上传真实商品图，填写商品事实，再复制对应模板。', '', '## 按任务找提示词', '']

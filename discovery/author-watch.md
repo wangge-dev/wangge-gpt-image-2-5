@@ -15,3 +15,7 @@
 在维护记录中写下：作者、原帖URL、原帖日期、核查日期、版本依据、完整正文是否可获取、输入和结果出处、落地卡片或未收录原因。访问失败不更新该来源的成功核查日期。
 
 对没有新增内容的已确认作者继续保留追踪；对只有“2.5”标题的聚合页面先追原作者。旧库创意仍进入原有来源盘点，不能归到新版作者案例。
+
+## 2026-09-10新增作者
+
+- [Practical_Low29原帖](https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet/)：有完整一行提示词，作者自述Atlas Cloud上的2.5，具体子型号未知；已整理[C008](../cases/C008-combat-sprite-sheet.md)，后续追动作连贯、切图与实际型号记录。
