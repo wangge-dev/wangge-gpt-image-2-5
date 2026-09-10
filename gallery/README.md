@@ -2,7 +2,7 @@
 
 [首页](../README.md) · [全部提示词](../prompts/README.md)
 
-31 条独立改写提示词，覆盖 13 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。
+32 条独立改写提示词，覆盖 13 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。
 
 图片分别标注生成示例或原库参考，点击标题查看完整提示词。
 
@@ -109,6 +109,12 @@
 ![月面宇航员印花](https://raw.githubusercontent.com/wangge-dev/awesome-gpt-image-2/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/case520.jpg)
 
 原库参考：原库 Case 520 · 月面宇航员 T 恤图形 · @lovimg_com
+
+### [G32 旅行票据纸雕立体海报](../prompts/gallery/G32.md)
+
+![旅行票据纸雕立体海报](https://raw.githubusercontent.com/freestylefly/awesome-gpt-image-2/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/data/images/case527.jpg)
+
+原库参考：原作者 @john_my07
 
 
 ## 其他创意

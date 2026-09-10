@@ -4,7 +4,7 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 103 base prompts (78 adapted cards, 14 originals and 11 prompts developed from documented 2.5 examples), plus 111 complete variations. The collection includes 22 general templates, 30 ecommerce scenarios and 31 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
+Explore 104 base prompts (79 adapted cards, 14 originals and 11 prompts developed from documented 2.5 examples), plus 117 complete variations. The collection includes 22 general templates, 30 ecommerce scenarios and 32 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
 
 [Filterable gallery](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/): search by task, product category, reference-image requirements and available results.
 
@@ -55,3 +55,5 @@ The library grows through new prompts, useful variations and improved editing in
 [Changelog](CHANGELOG.md) · [Contribute](CONTRIBUTING.md) · [Sources and licenses](ATTRIBUTIONS.md)
 
 Maintained by wangge-dev. This is an independent project, not affiliated with OpenAI.
+
+New: [G32 travel-ticket paper diorama](prompts/gallery/G32.md), and [G22 six-panel campaign with six standalone prompts](prompts/gallery/G22.md). The gallery supports direct case links, link copying, image enlargement and side-by-side input/output viewing.
