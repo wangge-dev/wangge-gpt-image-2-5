@@ -4,9 +4,11 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 100 base prompts (78 adapted cards, 14 originals and 8 prompts developed from documented 2.5 examples), plus 111 complete variations. The collection includes 22 general templates, 30 ecommerce scenarios and 31 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
+Explore 103 base prompts (78 adapted cards, 14 originals and 11 prompts developed from documented 2.5 examples), plus 111 complete variations. The collection includes 22 general templates, 30 ecommerce scenarios and 31 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
 
 [Filterable gallery](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/): search by task, product category, reference-image requirements and available results.
+
+[One product, three workflows](ecommerce/evolink-product-story.md): scene replacement, creator-style product imagery and localized marketing assets. Includes EvoLink-supplied examples and Chinese adaptations.
 
 ## Explore
 
@@ -16,7 +18,7 @@ Explore 100 base prompts (78 adapted cards, 14 originals and 8 prompts developed
 | Posters, infographics, portraits, branding, spaces and interfaces | [Prompt index](prompts/README.md) |
 | Hairstyle grids, enamel pins and miniature ads | [Creative gallery](gallery/README.md) |
 | Copy edits, localization and consistent product series | [Original workflows](experiments/README.md) |
-| Prompts based on documented 2.5 examples | [Eight complete Chinese prompts](cases/README.md) |
+| Prompts based on documented 2.5 examples | [Eleven complete Chinese prompts](cases/README.md) |
 | Try the three featured examples in ChatGPT | [Bilingual prompts](guides/web-examples.md) |
 
 Most individual cards are in Chinese. The featured examples include complete English prompts.

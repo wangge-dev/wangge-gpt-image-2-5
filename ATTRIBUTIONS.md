@@ -24,3 +24,7 @@
 ## 官方2.5示例图
 
 C006、C007使用OpenAI提示词指南的外链输入与Sunburst结果图，图片用于说明对应官方案例，归属OpenAI及相关权利人，不纳入本库文字许可。中文模板是本库整理，图片不是该扩写模板的实测输出。
+
+## EvoLink电商来源专题
+
+C009–C011原案例与图片由EvoLinkAI提供，来源为[963b1f4版本](https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/tree/963b1f40bfbe5ff81f0c9684587face6a500bc9a)，依其[CC BY 4.0许可](https://creativecommons.org/licenses/by/4.0/)署名引用。中文正文由wangge-dev改写，新增输入分工、文案限制、单张输出及修改要求。图片通过原来源外链展示，仍属于原案例；不表示中文改写已复现。原仓库其他历史图片未随本次导入。

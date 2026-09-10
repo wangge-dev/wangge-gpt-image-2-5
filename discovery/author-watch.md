@@ -19,3 +19,7 @@
 ## 2026-09-10新增作者
 
 - [Practical_Low29原帖](https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet/)：有完整一行提示词，作者自述Atlas Cloud上的2.5，具体子型号未知；已整理[C008](../cases/C008-combat-sprite-sheet.md)，后续追动作连贯、切图与实际型号记录。
+
+## EvoLink持续跟进
+
+[EvoLink新版案例数据](https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/blob/main/data/gpt-image-2.5-cases.json)：2026-09-10核查三个作者提供的2.5案例，已整理C009–C011。下轮优先比较此数据文件；旧30章与41段保留提示词作为旧创意，不能因仓库更名就归为新版输出。

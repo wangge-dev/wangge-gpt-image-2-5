@@ -56,7 +56,7 @@ def main():
         lines += [f"## {labels[g]} · {len(items)}", '', '| 提示词 | 用途 |', '| --- | --- |']
         lines += [f"| [{e['id']} {e['title']}]({g}/{e['id']}.md) | {e['use']} |" for e in items]
         lines += ['']
-    lines += ['## 明确2.5来源 · 8', '', '[换装、透明商品、换语言、草图、图表、物品移除与广告牌：完整中文提示词](../cases/README.md)', '']
+    lines += ['## 明确2.5来源 · 11', '', '[换装、透明商品、换语言、草图、图表、物品移除与广告牌：完整中文提示词](../cases/README.md)', '']
     write('prompts/README.md','\n'.join(lines))
     ec = groups.get('ecommerce', [])
     lines = ['# 电商提示词专区', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(ec)} 套场景模板，包含完整变体与后续修改指令。先上传真实商品图，填写商品事实，再复制对应模板。', '', '## 按任务找提示词', '']
@@ -70,7 +70,7 @@ def main():
         lines += [f"- [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)" for e in extensions]
         lines += ['']
     lines += ['## 明确2.5来源的电商用法', '', '[参考换装](../cases/C001-reference-clothing.md) · [透明商品](../cases/C002-transparent-product.md) · [保留版式换语言](../cases/C003-layout-translation.md)', '']
-    lines += ['## 一款商品连续出素材', '', '建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。', '', '需要可直接套用的整套任务单，见[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。', '', '## 持续补充', '', '持续补充品类专用提示词、场景变体与编辑技巧。欢迎在[贡献说明](../CONTRIBUTING.md)中提交新需求。']
+    lines += ['## 一款商品连续出素材', '', '[一张商品图，三种电商用途 · EvoLink来源案例](evolink-product-story.md)', '', '建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。', '', '需要可直接套用的整套任务单，见[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。', '', '## 持续补充', '', '持续补充品类专用提示词、场景变体与编辑技巧。欢迎在[贡献说明](../CONTRIBUTING.md)中提交新需求。']
     write('ecommerce/README.md','\n'.join(lines))
     gallery = groups.get('gallery', [])
     category_names = {'Architecture & Spaces':'建筑与空间','Brand & Logos':'品牌与标志','Characters & People':'人物与角色','Charts & Infographics':'图表与科普','Documents & Publishing':'文档与出版','History & Classical Themes':'历史与古典','Illustration & Art':'插画与艺术','Other Use Cases':'其他创意','Photography & Realism':'摄影与写实','Posters & Typography':'海报与字体','Products & E-commerce':'商品与电商','Scenes & Storytelling':'场景与叙事','UI & Interfaces':'界面与资料卡'}
