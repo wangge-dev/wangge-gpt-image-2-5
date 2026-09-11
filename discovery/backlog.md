@@ -35,3 +35,7 @@
 ## 2026-09-10新候选
 
 - [DataLearnerAI网页背景原帖](https://www.reddit.com/r/codex/comments/1wc4fls/tried_gpt6_astra_light_gpt_image_25_for_website/)：作者自述使用2.5，正文无完整生图提示词，评论询问型号选择尚无可用答复；保留候选，不计数。
+
+## 2026-09-11候选
+
+[AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)：README已读，声明官方输出配反推提示词；下轮优先电商条目，逐项与官方原图和现有卡片去重。未全量核验，不计入本库数量。
