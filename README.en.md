@@ -57,3 +57,5 @@ The library grows through new prompts, useful variations and improved editing in
 Maintained by wangge-dev. This is an independent project, not affiliated with OpenAI.
 
 New: [G32 travel-ticket paper diorama](prompts/gallery/G32.md), and [G22 six-panel campaign with six standalone prompts](prompts/gallery/G22.md). The gallery supports direct case links, link copying, image enlargement and side-by-side input/output viewing.
+
+Ecommerce cards EC01–EC20 now include explicit reference-image requirements and fully filled Chinese examples alongside their variable templates.
