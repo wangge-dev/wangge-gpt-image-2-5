@@ -39,3 +39,7 @@
 ## 2026-09-11候选
 
 [AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)：README已读，声明官方输出配反推提示词；下轮优先电商条目，逐项与官方原图和现有卡片去重。未全量核验，不计入本库数量。
+
+## 2026-09-12候选
+
+[GPT Art 15模板指南](https://gptimage2-5.art/blog/gpt-image-2-5-prompt-guide)：仅取得搜索摘要，待读完整正文、核对原始素材与现有任务去重，不按标题或自述测试直接收录。
