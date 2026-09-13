@@ -39,4 +39,4 @@
 
 ## awesome-gpt-image-2 双源追踪
 
-分别检查[原作者仓库](https://github.com/freestylefly/awesome-gpt-image-2)与[个人 fork](https://github.com/wangge-dev/awesome-gpt-image-2)的最新提交。各自记录上次成功核查的提交；fork未同步不代表上游无更新。以原作者案例链接和案例编号去重，同一创意只修订已有卡片。上游展示标签不能替代实际模型记录。2026-09-10原作者已核查至073d105d4dbb3f3afcd2e7cd194cee3a557b0999；fork此前核查至b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4，下轮重新读取远端。
+分别检查[原作者仓库](https://github.com/freestylefly/awesome-gpt-image-2)与[个人 fork](https://github.com/wangge-dev/awesome-gpt-image-2)的最新提交。各自记录上次成功核查的提交；fork未同步不代表上游无更新。以原作者案例链接和案例编号去重，同一创意只修订已有卡片。上游展示标签不能替代实际模型记录。2026-09-13原作者已核查至0dc09c46c8a30b1fdd89c18cc78a894dac2104e3；fork此前核查至b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4，下轮重新读取远端。

@@ -12,7 +12,7 @@
 4. 选有价值的新任务或实质修订，按[适配规则](../guides/adaptation.md)写完整正文、变量、变体与修改指令。优先电商与未覆盖创意，保留创意并解释改变。
 5. 编辑 `data/library.json`，运行 `python scripts/build_library.py` 生成卡片及索引。同步 `data/gallery-metadata.json` 的任务、品类、参考需求与图片来源，运行 `python scripts/build_gallery.py` 更新筛选画廊。新卡使用未占用ID，不改变旧ID含义。同步来源盘点的目标路径和状态。
 6. 阅读新卡全部正文及变体，检查变量说明、参考图职责、数量与版面、准确事实、来源、旧图标签。未生图就维持“未生图实测”。
-7. 运行 `python scripts/check_links.py`，检查差异、目录和数量，新外链检查访问。变体、来源卡和待补充项不当作新主提示词。
+7. 运行 `python scripts/check_ecommerce_kits.py` 和 `python scripts/check_links.py`，检查任务包结构、差异、目录和数量，新外链检查访问。变体、来源卡和待补充项不当作新主提示词。
 8. 核心新卡提供具体示例与变量模板；输入图可公开且来源明确时，与结果一起保留。官方输出标注官方，不把中文扩写正文说成该图原始提示词。更新首页统计、画廊、盘点、CHANGELOG和核查记录；只提交本次本仓库文件，正常推送并记录结果。
 
 完整旧提示词改写、有来源的新2.5提示词、本库原创设计都可收录，清楚区分署名。只有效果图没有可整理的提示词，先进入候选，不放空卡凑数。
@@ -26,4 +26,4 @@
 
 ## awesome-gpt-image-2 双源追踪
 
-分别检查[原作者仓库](https://github.com/freestylefly/awesome-gpt-image-2)与[个人 fork](https://github.com/wangge-dev/awesome-gpt-image-2)的最新提交。各自记录上次成功核查的提交；fork未同步不代表上游无更新。以原作者案例链接和案例编号去重，同一创意只修订已有卡片。上游展示标签不能替代实际模型记录。2026-09-10原作者已核查至073d105d4dbb3f3afcd2e7cd194cee3a557b0999；fork此前核查至b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4，下轮重新读取远端。
+分别检查[原作者仓库](https://github.com/freestylefly/awesome-gpt-image-2)与[个人 fork](https://github.com/wangge-dev/awesome-gpt-image-2)的最新提交。各自记录上次成功核查的提交；fork未同步不代表上游无更新。以原作者案例链接和案例编号去重，同一创意只修订已有卡片。上游展示标签不能替代实际模型记录。2026-09-13原作者已核查至0dc09c46c8a30b1fdd89c18cc78a894dac2104e3；fork此前核查至b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4，下轮重新读取远端。

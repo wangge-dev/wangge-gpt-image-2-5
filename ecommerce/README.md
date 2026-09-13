@@ -83,7 +83,7 @@
 
 建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。
 
-### 按品类直接执行
+### 按品类执行
 
 - [美妆个护：6步完整提示词](kits/beauty.md)
 - [服饰：6步完整提示词](kits/apparel.md)
@@ -94,7 +94,7 @@
 - [箱包：6步完整提示词](kits/bags.md)
 - [母婴：6步完整提示词](kits/baby.md)
 
-八套任务包均给出素材清单、逐步完整提示词、验收点和局部返工指令。其他品类可使用[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。
+八套任务包都要求先在同一会话填写并提交一次商品事实单，再按单图最小路径或资料齐全路径执行。六步共同引用这份事实单，并分别给出输入、正文、验收点和局部返工指令；缺少背面、微距、尺寸、结构或说明书时跳过对应步骤。其他品类可使用[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。
 
 ## 持续补充
 

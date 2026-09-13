@@ -6,7 +6,7 @@
 
 Explore 104 base prompts (79 adapted cards, 14 originals and 11 prompts developed from documented 2.5 examples), plus 117 complete variations. The collection includes 22 general templates, 30 ecommerce scenarios and 32 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
 
-Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Each provides six ready-to-copy prompts, required references, acceptance checks, and a focused repair instruction.
+Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Fill and submit one product fact sheet first, then use either the single-image minimum path or the complete-materials path. Each package provides six prompts, required references, acceptance checks, and a focused repair instruction.
 
 Ecommerce cards EC01–EC25 include filled, copy-ready Chinese examples alongside reusable variable templates.
 
@@ -62,4 +62,4 @@ Maintained by wangge-dev. This is an independent project, not affiliated with Op
 
 New: [G32 travel-ticket paper diorama](prompts/gallery/G32.md), and [G22 six-panel campaign with six standalone prompts](prompts/gallery/G22.md). The gallery supports direct case links, link copying, image enlargement and side-by-side input/output viewing.
 
-Ecommerce cards EC01–EC20 now include explicit reference-image requirements and fully filled Chinese examples alongside their variable templates.
+Ecommerce cards EC01–EC25 include explicit reference-image requirements and fully filled Chinese examples alongside their variable templates.

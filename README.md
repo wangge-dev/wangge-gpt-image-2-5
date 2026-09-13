@@ -24,7 +24,7 @@
 | 发型目录、微缩广告、珐琅徽章等创意 | [精选画廊 · 32 条](gallery/README.md) |
 | 改字、返工、跨境、一品多图 | [原创提示词 · 9 条](experiments/README.md) |
 | 一款商品连续出一套素材 | [电商组合任务单](ecommerce/product-kit.md) |
-| 按品类从主图做到详情 | [美妆](ecommerce/kits/beauty.md) · [服饰](ecommerce/kits/apparel.md) · [食品](ecommerce/kits/food.md) · [家居](ecommerce/kits/home.md) · [数码](ecommerce/kits/digital.md) · [小家电](ecommerce/kits/appliance.md) · [箱包](ecommerce/kits/bags.md) · [母婴](ecommerce/kits/baby.md) |
+| 一次填写商品事实，再按品类从主图做到详情 | [美妆](ecommerce/kits/beauty.md) · [服饰](ecommerce/kits/apparel.md) · [食品](ecommerce/kits/food.md) · [家居](ecommerce/kits/home.md) · [数码](ecommerce/kits/digital.md) · [小家电](ecommerce/kits/appliance.md) · [箱包](ecommerce/kits/bags.md) · [母婴](ecommerce/kits/baby.md) |
 | 换装、透明商品、换语言、草图与图表编辑 | [明确2.5来源 · 11条完整提示词](cases/README.md) |
 | 浏览全部适配卡 | [完整索引](prompts/README.md) |
 
@@ -42,6 +42,8 @@
 2. 将 `{{变量}}` 替换成自己的信息；表格里的商品数据只是填写示例。
 3. 在实际工具中选择 Image 2.5，复制“完整提示词”或一个完整变体。
 4. 需要返工时，带上上一轮结果与原始参考，使用卡片里的修改指令。
+
+使用八套品类任务包时，先在同一会话填写并提交一次商品事实单，再按“单图最小路径”或“资料齐全路径”执行；缺背面、微距、尺寸、结构或说明书时跳过对应步骤。
 
 模型与画布设置见[使用说明](guides/models.md)。不用 API 也可以在支持相应模型的图像界面里使用正文；界面提供哪些设置以实际工具为准。
 

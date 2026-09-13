@@ -47,8 +47,9 @@ def render(entry):
 def main():
     entries = json.loads((ROOT/'data/library.json').read_text(encoding='utf-8'))
     groups = {}
+    outputs = {}
     for e in entries:
-        write(f"prompts/{e['group']}/{e['id']}.md", render(e))
+        outputs[f"prompts/{e['group']}/{e['id']}.md"] = render(e)
         groups.setdefault(e['group'], []).append(e)
     labels = {'ecommerce':'电商场景', 'templates':'通用模板', 'gallery':'精选创意'}
     lines = ['# 完整提示词索引', '', '[返回首页](../README.md)', '', f'共 {len(entries)} 张提示词卡，包含场景变体与后续修改指令。', '', '按用途找到卡片 → 准备参考图 → 替换变量 → 复制完整正文。', '']
@@ -57,7 +58,7 @@ def main():
         lines += [f"| [{e['id']} {e['title']}]({g}/{e['id']}.md) | {e['use']} |" for e in items]
         lines += ['']
     lines += ['## 明确2.5来源 · 11', '', '[换装、透明商品、换语言、草图、图表、物品移除与广告牌：完整中文提示词](../cases/README.md)', '']
-    write('prompts/README.md','\n'.join(lines))
+    outputs['prompts/README.md'] = '\n'.join(lines)
     ec = groups.get('ecommerce', [])
     lines = ['# 电商提示词专区', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(ec)} 套场景模板，包含完整变体与后续修改指令。先上传真实商品图，填写商品事实，再复制对应模板。', '', '## 按任务找提示词', '']
     for cat in dict.fromkeys(e['category'] for e in ec):
@@ -70,8 +71,8 @@ def main():
         lines += [f"- [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)" for e in extensions]
         lines += ['']
     lines += ['## 明确2.5来源的电商用法', '', '[参考换装](../cases/C001-reference-clothing.md) · [透明商品](../cases/C002-transparent-product.md) · [保留版式换语言](../cases/C003-layout-translation.md)', '']
-    lines += ['## 一款商品连续出素材', '', '[一张商品图，三种电商用途 · EvoLink来源案例](evolink-product-story.md)', '', '建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。', '', '### 按品类直接执行', '', '- [美妆个护：6步完整提示词](kits/beauty.md)', '- [服饰：6步完整提示词](kits/apparel.md)', '- [食品：6步完整提示词](kits/food.md)', '- [家居：6步完整提示词](kits/home.md)', '- [数码：6步完整提示词](kits/digital.md)', '- [小家电：6步完整提示词](kits/appliance.md)', '- [箱包：6步完整提示词](kits/bags.md)', '- [母婴：6步完整提示词](kits/baby.md)', '', '八套任务包均给出素材清单、逐步完整提示词、验收点和局部返工指令。其他品类可使用[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。', '', '## 持续补充', '', '持续补充品类专用提示词、场景变体与编辑技巧。欢迎在[贡献说明](../CONTRIBUTING.md)中提交新需求。']
-    write('ecommerce/README.md','\n'.join(lines))
+    lines += ['## 一款商品连续出素材', '', '[一张商品图，三种电商用途 · EvoLink来源案例](evolink-product-story.md)', '', '建议顺序：EC01 主图 → EC02 场景 → EC04 细节 → EC11 卖点 → EC13 尺寸 → EC05 活动。每次重新附商品原图，使用同一套真实文案和配色。', '', '### 按品类执行', '', '- [美妆个护：6步完整提示词](kits/beauty.md)', '- [服饰：6步完整提示词](kits/apparel.md)', '- [食品：6步完整提示词](kits/food.md)', '- [家居：6步完整提示词](kits/home.md)', '- [数码：6步完整提示词](kits/digital.md)', '- [小家电：6步完整提示词](kits/appliance.md)', '- [箱包：6步完整提示词](kits/bags.md)', '- [母婴：6步完整提示词](kits/baby.md)', '', '八套任务包都要求先在同一会话填写并提交一次商品事实单，再按单图最小路径或资料齐全路径执行。六步共同引用这份事实单，并分别给出输入、正文、验收点和局部返工指令；缺少背面、微距、尺寸、结构或说明书时跳过对应步骤。其他品类可使用[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。', '', '## 持续补充', '', '持续补充品类专用提示词、场景变体与编辑技巧。欢迎在[贡献说明](../CONTRIBUTING.md)中提交新需求。']
+    outputs['ecommerce/README.md'] = '\n'.join(lines)
     gallery = groups.get('gallery', [])
     category_names = {'Architecture & Spaces':'建筑与空间','Brand & Logos':'品牌与标志','Characters & People':'人物与角色','Charts & Infographics':'图表与科普','Documents & Publishing':'文档与出版','History & Classical Themes':'历史与古典','Illustration & Art':'插画与艺术','Other Use Cases':'其他创意','Photography & Realism':'摄影与写实','Posters & Typography':'海报与字体','Products & E-commerce':'商品与电商','Scenes & Storytelling':'场景与叙事','UI & Interfaces':'界面与资料卡'}
     lines = ['# 精选创意画廊', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(gallery)} 条独立改写提示词，覆盖 {len(set(e["category"] for e in gallery))} 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。', '', '图片分别标注生成示例或原库参考，点击标题查看完整提示词。']
@@ -80,7 +81,10 @@ def main():
         for e in gallery:
             if e['category'] == cat:
                 lines += [f"### [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)", '', f"![{e['title']}]({'../' + e['preview'] if e.get('preview_kind') == 'user_result' else e['preview']})", '', ("生成示例：wangge-dev / ChatGPT 网页版" if e.get("preview_kind") == "user_result" else f"原库参考：{e['sources'][0]['label']}"), '']
-    write('gallery/README.md','\n'.join(lines))
+    outputs['gallery/README.md'] = '\n'.join(lines)
+    # Render every target successfully before modifying any generated file.
+    for path, content in outputs.items():
+        write(path, content)
     print(f'Rendered {len(entries)} prompt cards; {sum(len(e.get("variants",{})) for e in entries)} complete variants.')
 
 if __name__ == '__main__':
