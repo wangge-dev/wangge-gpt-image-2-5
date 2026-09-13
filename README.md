@@ -8,7 +8,7 @@
 
 **104 条基础提示词 · 117 个完整变体 · 电商专区持续扩充。**
 
-电商 EC01–EC25 均提供“拿来就用”的完整示例，同时保留可替换商品、文案和场景的变量模板；新增美妆、服饰、食品三套六步任务包。
+电商 EC01–EC25 均提供“拿来就用”的完整示例，同时保留可替换商品、文案和场景的变量模板；八个重点品类提供六步任务包。
 
 包含 79 张适配卡、14 条原创提示词和11条来源明确的中文提示词；30 套电商场景提供86个变体。
 
@@ -24,7 +24,7 @@
 | 发型目录、微缩广告、珐琅徽章等创意 | [精选画廊 · 32 条](gallery/README.md) |
 | 改字、返工、跨境、一品多图 | [原创提示词 · 9 条](experiments/README.md) |
 | 一款商品连续出一套素材 | [电商组合任务单](ecommerce/product-kit.md) |
-| 按品类从主图做到详情 | [美妆](ecommerce/kits/beauty.md) · [服饰](ecommerce/kits/apparel.md) · [食品](ecommerce/kits/food.md) |
+| 按品类从主图做到详情 | [美妆](ecommerce/kits/beauty.md) · [服饰](ecommerce/kits/apparel.md) · [食品](ecommerce/kits/food.md) · [家居](ecommerce/kits/home.md) · [数码](ecommerce/kits/digital.md) · [小家电](ecommerce/kits/appliance.md) · [箱包](ecommerce/kits/bags.md) · [母婴](ecommerce/kits/baby.md) |
 | 换装、透明商品、换语言、草图与图表编辑 | [明确2.5来源 · 11条完整提示词](cases/README.md) |
 | 浏览全部适配卡 | [完整索引](prompts/README.md) |
 

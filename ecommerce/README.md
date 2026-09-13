@@ -88,8 +88,13 @@
 - [美妆个护：6步完整提示词](kits/beauty.md)
 - [服饰：6步完整提示词](kits/apparel.md)
 - [食品：6步完整提示词](kits/food.md)
+- [家居：6步完整提示词](kits/home.md)
+- [数码：6步完整提示词](kits/digital.md)
+- [小家电：6步完整提示词](kits/appliance.md)
+- [箱包：6步完整提示词](kits/bags.md)
+- [母婴：6步完整提示词](kits/baby.md)
 
-三套任务包均给出素材清单、逐步完整提示词、验收点和局部返工指令。其他品类可使用[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。
+八套任务包均给出素材清单、逐步完整提示词、验收点和局部返工指令。其他品类可使用[一品多图组合](product-kit.md)。已有的[精准改字](../experiments/E003-copy-edit.md)、[多轮返工](../experiments/E005-revision-chain.md)与[跨境适配](../experiments/E006-localization.md)也可以直接使用。
 
 ## 持续补充
 

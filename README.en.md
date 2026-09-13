@@ -6,7 +6,7 @@
 
 Explore 104 base prompts (79 adapted cards, 14 originals and 11 prompts developed from documented 2.5 examples), plus 117 complete variations. The collection includes 22 general templates, 30 ecommerce scenarios and 32 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
 
-Three category workflows turn the library into an ordered production checklist: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), and [food](ecommerce/kits/food.md). Each provides six ready-to-copy prompts, required references, acceptance checks, and a focused repair instruction.
+Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Each provides six ready-to-copy prompts, required references, acceptance checks, and a focused repair instruction.
 
 Ecommerce cards EC01–EC25 include filled, copy-ready Chinese examples alongside reusable variable templates.
 
