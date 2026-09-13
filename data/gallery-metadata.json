@@ -659,5 +659,17 @@
   },
   "EC40": {
     "reference": "需要", "task": "广告与详情", "product_category": "家装五金", "has_result": false
+  },
+  "EC41": {
+    "reference": "需要", "task": "商品展示", "product_category": "饰品", "has_result": false
+  },
+  "EC42": {
+    "reference": "需要", "task": "广告与详情", "product_category": "户外装备", "has_result": false
+  },
+  "EC43": {
+    "reference": "需要", "task": "广告与详情", "product_category": "数码配件", "has_result": false
+  },
+  "EC44": {
+    "reference": "需要", "task": "商品展示", "product_category": "纺织品", "has_result": false
   }
 }
