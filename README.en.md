@@ -6,6 +6,8 @@
 
 Explore 104 base prompts (79 adapted cards, 14 originals and 11 prompts developed from documented 2.5 examples), plus 117 complete variations. The collection includes 22 general templates, 30 ecommerce scenarios and 32 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
 
+Three category workflows turn the library into an ordered production checklist: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), and [food](ecommerce/kits/food.md). Each provides six ready-to-copy prompts, required references, acceptance checks, and a focused repair instruction.
+
 Ecommerce cards EC01–EC25 include filled, copy-ready Chinese examples alongside reusable variable templates.
 
 [Filterable gallery](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/): search by task, product category, reference-image requirements and available results.
