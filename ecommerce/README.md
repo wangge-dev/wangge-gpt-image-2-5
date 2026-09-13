@@ -131,6 +131,9 @@
 - [G35 机械腕表四格技术图鉴](../prompts/gallery/G35.md)
 - [G36 转角裸眼3D屏商品出框广告](../prompts/gallery/G36.md)
 - [G37 原材料到成品的连续材质转译](../prompts/gallery/G37.md)
+- [G40 眼镜镜片内外双场景广告](../prompts/gallery/G40.md)
+- [G41 货架陈列规范与现场对照](../prompts/gallery/G41.md)
+- [G42 真实鞋底纹路运动轨迹广告](../prompts/gallery/G42.md)
 
 ## 明确2.5来源的电商用法
 
