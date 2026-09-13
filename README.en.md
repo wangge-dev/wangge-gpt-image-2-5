@@ -4,7 +4,7 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 234 base prompts (82 adapted cards, 141 originals and 11 prompts developed from documented 2.5 examples), plus 132 complete variations. The collection includes 111 general templates, 48 ecommerce scenarios and 55 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
+Explore 237 base prompts (82 adapted cards, 144 originals and 11 prompts developed from documented 2.5 examples), plus 132 complete variations. The collection includes 114 general templates, 48 ecommerce scenarios and 55 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
 
 Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Fill and submit one product fact sheet first, then use either the single-image minimum path or the complete-materials path. Each package provides six prompts, required references, acceptance checks, and a focused repair instruction.
 
