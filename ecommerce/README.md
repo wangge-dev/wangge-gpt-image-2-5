@@ -72,6 +72,9 @@
 - [G25 时尚目录三图拼贴](../prompts/gallery/G25.md)
 - [G26 造型包装结构概念板](../prompts/gallery/G26.md)
 - [G31 餐饮异形立牌与套餐展架](../prompts/gallery/G31.md)
+- [G33 收藏玩具与配件发布板](../prompts/gallery/G33.md)
+- [G34 高端肉类海鲜品牌英雄图](../prompts/gallery/G34.md)
+- [G35 机械腕表四格技术图鉴](../prompts/gallery/G35.md)
 
 ## 明确2.5来源的电商用法
 

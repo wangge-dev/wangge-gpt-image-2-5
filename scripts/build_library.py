@@ -80,7 +80,11 @@ def main():
         lines += ['', f'## {category_names.get(cat,cat)}', '']
         for e in gallery:
             if e['category'] == cat:
-                lines += [f"### [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)", '', f"![{e['title']}]({'../' + e['preview'] if e.get('preview_kind') == 'user_result' else e['preview']})", '', ("生成示例：wangge-dev / ChatGPT 网页版" if e.get("preview_kind") == "user_result" else f"原库参考：{e['sources'][0]['label']}"), '']
+                lines += [f"### [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)", '']
+                if e.get('preview'):
+                    lines += [f"![{e['title']}]({'../' + e['preview'] if e.get('preview_kind') == 'user_result' else e['preview']})", '', ("生成示例：wangge-dev / ChatGPT 网页版" if e.get("preview_kind") == "user_result" else f"原库参考：{e['sources'][0]['label']}"), '']
+                else:
+                    lines += ['暂无配图，打开卡片可复制完整提示词。', '']
     outputs['gallery/README.md'] = '\n'.join(lines)
     # Render every target successfully before modifying any generated file.
     for path, content in outputs.items():

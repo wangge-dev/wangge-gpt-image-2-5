@@ -6,11 +6,11 @@
 
 独立整理，以 OpenAI GPT Image 2.5 为目标，对照官方说明改写创意与电商提示词。保留原作者的创意和出处，补齐中文使用方式、参考图分工、准确文案与连续修改指令。
 
-**104 条基础提示词 · 117 个完整变体 · 电商专区持续扩充。**
+**107 条基础提示词 · 117 个完整变体 · 电商专区持续扩充。**
 
 电商 EC01–EC25 均提供“拿来就用”的完整示例，同时保留可替换商品、文案和场景的变量模板；八个重点品类提供六步任务包。
 
-包含 79 张适配卡、14 条原创提示词和11条来源明确的中文提示词；30 套电商场景提供86个变体。
+包含 82 张适配卡、14 条原创提示词和11条来源明确的中文提示词；30 套电商场景提供86个变体。
 
 
 [打开可筛选画廊](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/) · 按任务、品类、参考图与生成示例筛选，展开即可复制。
@@ -21,7 +21,7 @@
 | --- | --- |
 | 商品主图、场景、详情、促销、品牌图 | [电商专区 · 30 套场景](ecommerce/README.md) |
 | 海报、信息图、人物、品牌、空间、UI | [通用模板 · 22 套](prompts/README.md#通用模板--22) |
-| 发型目录、微缩广告、珐琅徽章等创意 | [精选画廊 · 32 条](gallery/README.md) |
+| 发型目录、微缩广告、珐琅徽章等创意 | [精选画廊 · 35 条](gallery/README.md) |
 | 改字、返工、跨境、一品多图 | [原创提示词 · 9 条](experiments/README.md) |
 | 一款商品连续出一套素材 | [电商组合任务单](ecommerce/product-kit.md) |
 | 一次填写商品事实，再按品类从主图做到详情 | [美妆](ecommerce/kits/beauty.md) · [服饰](ecommerce/kits/apparel.md) · [食品](ecommerce/kits/food.md) · [家居](ecommerce/kits/home.md) · [数码](ecommerce/kits/digital.md) · [小家电](ecommerce/kits/appliance.md) · [箱包](ecommerce/kits/bags.md) · [母婴](ecommerce/kits/baby.md) |

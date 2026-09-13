@@ -596,5 +596,23 @@
     "task": "文创与旅行海报",
     "product_category": "文创",
     "has_result": false
+  },
+  "G33": {
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "收藏玩具",
+    "has_result": false
+  },
+  "G34": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "食品",
+    "has_result": false
+  },
+  "G35": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "饰品",
+    "has_result": false
   }
 }

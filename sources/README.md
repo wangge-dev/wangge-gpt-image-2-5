@@ -6,7 +6,7 @@
 
 | 来源范围 | 索引项 | 已改写 | 后续精选 |
 | --- | ---: | ---: | ---: |
-| 旧库案例 | 541 | 32 | 509 |
+| 旧库案例 | 541 | 35 | 506 |
 | 旧库模板索引 | 22 | 22 | 0 |
 | 电商模板 | 25 | 25 | 0 |
 
@@ -40,11 +40,14 @@
 | [485 时尚目录电商拼贴](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-485) | [G25.md](../prompts/gallery/G25.md) |
 | [475 企鹅造型包装结构板](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-475) | [G26.md](../prompts/gallery/G26.md) |
 | [470 本地生活小店异形展架](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-470) | [G31.md](../prompts/gallery/G31.md) |
+| [449 奢华机械腕表技术图鉴](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-449) | [G35.md](../prompts/gallery/G35.md) |
 | [453 企业级商用画册视觉系统](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-453) | [G10.md](../prompts/gallery/G10.md) |
 | [419 可颂烘焙流程 Storyboard](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-419) | [G28.md](../prompts/gallery/G28.md) |
 | [411 极简建筑地标海报](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-411) | [G02.md](../prompts/gallery/G02.md) |
 | [402 3D 小红书个人资料卡](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-402) | [G29.md](../prompts/gallery/G29.md) |
 | [387 Netflix 首页主视觉 UI](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-387) | [G30.md](../prompts/gallery/G30.md) |
+| [373 高端肉类海鲜品牌英雄图](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-373) | [G34.md](../prompts/gallery/G34.md) |
+| [365 科学家收藏级玩具发布板](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-365) | [G33.md](../prompts/gallery/G33.md) |
 | [368 印度餐厅菜单改造宣传图](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-368) | [G15.md](../prompts/gallery/G15.md) |
 | [363 磁场铁粉 Logo 物理成像](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-363) | [G16.md](../prompts/gallery/G16.md) |
 | [338 《赤壁怀古》长卷图](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-338) | [G11.md](../prompts/gallery/G11.md) |
@@ -108,7 +111,7 @@
 | Photography & Realism | 76 |
 | Brand & Logos | 25 |
 | Charts & Infographics | 51 |
-| Products & E-commerce | 35 |
+| Products & E-commerce | 32 |
 | UI & Interfaces | 71 |
 | History & Classical Themes | 14 |
 | Other Use Cases | 26 |
