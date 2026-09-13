@@ -141,6 +141,10 @@
 - [G49 遇水显纹伞面干湿对照](../prompts/gallery/G49.md)
 - [G50 击凸包装平光与掠射光对照](../prompts/gallery/G50.md)
 - [G51 磁吸配件三阶段对位说明](../prompts/gallery/G51.md)
+- [G52 双面夹克两面穿同人对照](../prompts/gallery/G52.md)
+- [G53 可转换饰品两种成品状态](../prompts/gallery/G53.md)
+- [G54 鞋带逐孔穿线路径说明](../prompts/gallery/G54.md)
+- [G55 箱包肩带三档实测长度对照](../prompts/gallery/G55.md)
 
 ## 明确2.5来源的电商用法
 
