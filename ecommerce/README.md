@@ -129,6 +129,8 @@
 - [G33 收藏玩具与配件发布板](../prompts/gallery/G33.md)
 - [G34 高端肉类海鲜品牌英雄图](../prompts/gallery/G34.md)
 - [G35 机械腕表四格技术图鉴](../prompts/gallery/G35.md)
+- [G36 转角裸眼3D屏商品出框广告](../prompts/gallery/G36.md)
+- [G37 原材料到成品的连续材质转译](../prompts/gallery/G37.md)
 
 ## 明确2.5来源的电商用法
 
