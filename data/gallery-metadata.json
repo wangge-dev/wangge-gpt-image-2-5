@@ -614,5 +614,35 @@
     "task": "广告与详情",
     "product_category": "饰品",
     "has_result": false
+  },
+  "EC31": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "has_result": false
+  },
+  "EC32": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "has_result": false
+  },
+  "EC33": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "鞋靴",
+    "has_result": false
+  },
+  "EC34": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "宠物用品",
+    "has_result": false
+  },
+  "EC35": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "汽车用品",
+    "has_result": false
   }
 }
