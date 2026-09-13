@@ -138,6 +138,9 @@
 - [G45 防拆封签完整与开启状态对照](../prompts/gallery/G45.md)
 - [G46 镭射包装多角度色移对照](../prompts/gallery/G46.md)
 - [G47 夜光表盘明暗状态序列](../prompts/gallery/G47.md)
+- [G49 遇水显纹伞面干湿对照](../prompts/gallery/G49.md)
+- [G50 击凸包装平光与掠射光对照](../prompts/gallery/G50.md)
+- [G51 磁吸配件三阶段对位说明](../prompts/gallery/G51.md)
 
 ## 明确2.5来源的电商用法
 
