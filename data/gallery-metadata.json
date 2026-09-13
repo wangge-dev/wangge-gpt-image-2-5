@@ -644,5 +644,20 @@
     "task": "广告与详情",
     "product_category": "汽车用品",
     "has_result": false
+  },
+  "EC36": {
+    "reference": "需要", "task": "商品展示", "product_category": "透明与反光", "has_result": false
+  },
+  "EC37": {
+    "reference": "需要", "task": "商品展示", "product_category": "透明与反光", "has_result": false
+  },
+  "EC38": {
+    "reference": "需要", "task": "商品展示", "product_category": "通用品类", "has_result": false
+  },
+  "EC39": {
+    "reference": "需要", "task": "广告与详情", "product_category": "包装", "has_result": false
+  },
+  "EC40": {
+    "reference": "需要", "task": "广告与详情", "product_category": "家装五金", "has_result": false
   }
 }
