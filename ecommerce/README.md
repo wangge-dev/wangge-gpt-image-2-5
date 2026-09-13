@@ -136,6 +136,8 @@
 - [G42 真实鞋底纹路运动轨迹广告](../prompts/gallery/G42.md)
 - [G44 反光服饰闪光前后对照广告](../prompts/gallery/G44.md)
 - [G45 防拆封签完整与开启状态对照](../prompts/gallery/G45.md)
+- [G46 镭射包装多角度色移对照](../prompts/gallery/G46.md)
+- [G47 夜光表盘明暗状态序列](../prompts/gallery/G47.md)
 
 ## 明确2.5来源的电商用法
 
