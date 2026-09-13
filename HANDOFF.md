@@ -11,9 +11,9 @@
 
 ## 当前完成状态
 
-- 349条基础提示词：329张 `data/library.json` 卡、11条 `cases/`、9条 `experiments/`。
+- 352条基础提示词：332张 `data/library.json` 卡、11条 `cases/`、9条 `experiments/`。
 - 132个完整变体。
-- 48套电商场景；EC01–EC48有填写完成的直接示例；另有55条精选创意；T224–T226补卡口盖、防脱螺钉面板和滑锁盖板状态。
+- 48套电商场景；EC01–EC48有填写完成的直接示例；另有55条精选创意；T227–T229补快拆球锁销、燕尾导轨和可拆铰链销状态。
 - 八套六步电商品类包，共48个步骤：美妆、服饰、食品、家居、数码、小家电、箱包、母婴。
 - 可筛选静态画廊已上线：<https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/>。
 - 3张用户在ChatGPT网页版生成的结果图；其余画廊图片为明确标注的外部参考。
@@ -68,7 +68,7 @@
 
 ## 已验证证据
 
-- `python scripts/check_links.py`：2277个本地Markdown链接通过。
+- `python scripts/check_links.py`：2292个本地Markdown链接通过。
 - 326个JSON卡，无重复ID，生成卡齐全。
 - 总条目346、变体132；八套任务包48步、48个文本块、无双花括号变量。
 - `git status --short` 在审计开始及独立审查结束时为空。
