@@ -21,7 +21,7 @@
 
 2026-09-22前每日处理，之后每周一；见[任务状态](automation.md)。无重要变化安静结束，重要新增、修订或失败才通知。
 
-[维护指令](update-prompt.md) · [核查模板](review-template.md)
+[扩库路线](roadmap-2026-09-13-prompt-expansion.md) · [维护指令](update-prompt.md) · [核查模板](review-template.md)
 
 
 ## awesome-gpt-image-2 双源追踪
