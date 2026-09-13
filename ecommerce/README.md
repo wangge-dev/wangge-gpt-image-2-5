@@ -134,6 +134,8 @@
 - [G40 眼镜镜片内外双场景广告](../prompts/gallery/G40.md)
 - [G41 货架陈列规范与现场对照](../prompts/gallery/G41.md)
 - [G42 真实鞋底纹路运动轨迹广告](../prompts/gallery/G42.md)
+- [G44 反光服饰闪光前后对照广告](../prompts/gallery/G44.md)
+- [G45 防拆封签完整与开启状态对照](../prompts/gallery/G45.md)
 
 ## 明确2.5来源的电商用法
 
