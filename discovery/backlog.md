@@ -43,3 +43,8 @@
 ## 2026-09-12候选
 
 [GPT Art 15模板指南](https://gptimage2-5.art/blog/gpt-image-2-5-prompt-guide)：仅取得搜索摘要，待读完整正文、核对原始素材与现有任务去重，不按标题或自述测试直接收录。
+
+## 2026-09-19核查与转化
+
+- 已读取[GPT Image 2.5提示词指南](https://gptimage2-5.art/blog/gpt-image-2-5-prompt-guide)完整公开页面：可借鉴三张参考图职责、Keep清单和单变量编辑的表达方式；页面自述的五组测试不计入本库实测。由此整理EC53、EC54和T410，均标面向Image 2.5整理、未生图实测。
+- `freestylefly/awesome-gpt-image-2`、`wangge-dev/awesome-gpt-image-2`与`EvoLinkAI/gpt-image-2.5-for-e-commerce`本轮无新提交；`buluslan/gpt-image2-ecommerce`更新至`73abd50`，仅恢复作者署名并升版本号，没有可转化的新提示词；继续保留作者追踪。

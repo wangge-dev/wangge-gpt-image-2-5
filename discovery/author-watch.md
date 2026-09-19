@@ -7,6 +7,7 @@
 | OpenAI | [提示词指南](https://developers.openai.com/api/docs/guides/image-prompting) | 具体输出标注 Flare / Sunburst | C001–C004、C006–C007 | 比对新增章节、输入图与型号标签 |
 | Simon Willison | [2.5文章](https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/) · [作者首页](https://simonwillison.net/) | 公开调用指定Sunburst | C005 | 查看后续图像编辑文章与更新 |
 | withmagi / 12ui | [UI对比原帖](https://www.reddit.com/r/codex/comments/1wb8p1g/gpt_image_25_comparison_for_ui_generation/) | 作者明确称对比2、Flare与Sunburst；属于作者自述 | 候选；本次可读正文未提供完整提示词 | 跟进原帖和公开演示，取得具体正文再整理 |
+| BrushGlow Editorial Team | [GPT Image 2.5提示词指南](https://gptimage2-5.art/blog/gpt-image-2-5-prompt-guide) | 页面标注按OpenAI文档整理，并自述2026-09-11五组工作流测试；属于二次整理与作者自述 | 可复用三参考职责、Keep清单和单变量编辑原则；不把其测试当本库实测 | 继续核对页面版本；有新完整正文时与现有卡去重 |
 
 最近成功核查：2026-09-09。作者关于速度、费用或质量的感受不转写为本库实测结论。
 
