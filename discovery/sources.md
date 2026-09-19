@@ -14,6 +14,7 @@
 | S08 | [Promptowy 编辑实验](https://promptowy.com/edycja-komentarzem-test/) | 观察实验记录方法 | 规划期核查：作者不能确认模型，不作为 2.5 效果证据 |
 | S09 | [awesome-gpt-image-2](https://github.com/wangge-dev/awesome-gpt-image-2) | 旧提示词创意与通用模板适配 | 已盘点541案例与22模板索引；已改写部分见来源盘点 |
 | S10 | [gpt-image2-ecommerce](https://github.com/buluslan/gpt-image2-ecommerce) | 电商场景与变体适配 | 当前提交 `73abd50` 仅恢复作者署名与版本号；25模板与88变体方向已处理，继续检查新增文件 |
+| S11 | [AtlasCloud GPT Image 2.5 Prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts) | 原生2.5社区案例与实际输出线索 | 2026-09-19核查至`1ba3fe1`；已转化581、582、918为EC55、EC56、G56，逐条保留原作者链接，不把聚合描述当官方结论 |
 
 新增[作者后续追踪](author-watch.md)，明确2.5来源优先，旧创意适配单独记录。
 

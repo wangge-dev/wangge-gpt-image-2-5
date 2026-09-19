@@ -38,7 +38,7 @@
 
 ## 2026-09-11候选
 
-[AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)：README已读，声明官方输出配反推提示词；下轮优先电商条目，逐项与官方原图和现有卡片去重。未全量核验，不计入本库数量。
+[AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)：2026-09-19已读取中文数据与CC BY 4.0许可，逐项核对电商候选；581、582、918已重构为EC55、EC56、G56并保留原作者帖。其余条目仍须逐项去重、核原帖和确认输入资料，不能按聚合标题批量收录。
 
 ## 2026-09-12候选
 
@@ -48,3 +48,4 @@
 
 - 已读取[GPT Image 2.5提示词指南](https://gptimage2-5.art/blog/gpt-image-2-5-prompt-guide)完整公开页面：可借鉴三张参考图职责、Keep清单和单变量编辑的表达方式；页面自述的五组测试不计入本库实测。由此整理EC53、EC54和T410，均标面向Image 2.5整理、未生图实测。
 - `freestylefly/awesome-gpt-image-2`、`wangge-dev/awesome-gpt-image-2`与`EvoLinkAI/gpt-image-2.5-for-e-commerce`本轮无新提交；`buluslan/gpt-image2-ecommerce`更新至`73abd50`，仅恢复作者署名并升版本号，没有可转化的新提示词；继续保留作者追踪。
+- AtlasCloud的中文数据当前提供418条候选；本轮只选择有独立视觉结构且原作者链接完整的3条。仓库数量是候选规模，不是本库已核验数量；后续优先筛商品主图、详情页和一致性编辑，不批量搬运。

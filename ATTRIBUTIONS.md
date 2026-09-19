@@ -28,3 +28,7 @@ C006、C007使用OpenAI提示词指南的外链输入与Sunburst结果图，图�
 ## EvoLink电商来源专题
 
 C009–C011原案例与图片由EvoLinkAI提供，来源为[963b1f4版本](https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/tree/963b1f40bfbe5ff81f0c9684587face6a500bc9a)，依其[CC BY 4.0许可](https://creativecommons.org/licenses/by/4.0/)署名引用。中文正文由wangge-dev改写，新增输入分工、文案限制、单张输出及修改要求。图片通过原来源外链展示，仍属于原案例；不表示中文改写已复现。原仓库其他历史图片未随本次导入。
+
+## AtlasCloud GPT Image 2.5社区案例
+
+EC55、EC56与G56依据[AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)中带原作者链接的2.5社区案例重新组织，源仓库采用[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。每张卡同时保留聚合仓库与原作者帖链接。中文正文由wangge-dev重新编写，增加参考图职责、版式比例、安全区、局部返工和真实性边界；没有复制原提示词，也不表示已复现来源输出。
