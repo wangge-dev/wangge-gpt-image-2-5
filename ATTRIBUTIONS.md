@@ -31,4 +31,4 @@ C009–C011原案例与图片由EvoLinkAI提供，来源为[963b1f4版本](https
 
 ## AtlasCloud GPT Image 2.5社区案例
 
-EC55、EC56与G56依据[AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)中带原作者链接的2.5社区案例重新组织，源仓库采用[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。每张卡同时保留聚合仓库与原作者帖链接。中文正文由wangge-dev重新编写，增加参考图职责、版式比例、安全区、局部返工和真实性边界；没有复制原提示词，也不表示已复现来源输出。
+EC55–EC58与G56–G57依据[AtlasCloudAI/awesome-gpt-image-2.5-prompts](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts)中带原作者链接的2.5社区案例重新组织，源仓库采用[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)。每张卡同时保留聚合仓库与原作者帖链接。中文正文由wangge-dev重新编写，增加参考图职责、版式比例、安全区、局部返工和真实性边界；没有复制原提示词，也不表示已复现来源输出。

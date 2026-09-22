@@ -49,3 +49,8 @@
 - 已读取[GPT Image 2.5提示词指南](https://gptimage2-5.art/blog/gpt-image-2-5-prompt-guide)完整公开页面：可借鉴三张参考图职责、Keep清单和单变量编辑的表达方式；页面自述的五组测试不计入本库实测。由此整理EC53、EC54和T410，均标面向Image 2.5整理、未生图实测。
 - `freestylefly/awesome-gpt-image-2`、`wangge-dev/awesome-gpt-image-2`与`EvoLinkAI/gpt-image-2.5-for-e-commerce`本轮无新提交；`buluslan/gpt-image2-ecommerce`更新至`73abd50`，仅恢复作者署名并升版本号，没有可转化的新提示词；继续保留作者追踪。
 - AtlasCloud的中文数据当前提供418条候选；本轮只选择有独立视觉结构且原作者链接完整的3条。仓库数量是候选规模，不是本库已核验数量；后续优先筛商品主图、详情页和一致性编辑，不批量搬运。
+
+## 2026-09-22核查与转化
+
+- 官方GPT Image 2.5提示词指南仍支持明确主体、构图、参考职责与局部编辑；`freestylefly/awesome-gpt-image-2`、`wangge-dev/awesome-gpt-image-2`、`buluslan/gpt-image2-ecommerce`、`EvoLinkAI/gpt-image-2.5-for-e-commerce`和AtlasCloud仓库本轮无新提交。
+- AtlasCloud案例590、192、589分别转化为EC57、EC58、G57。候选28咖啡袋棚拍与既有白底／场景卡差异不足；候选634液态弧线与现有商品环绕广告接近；候选659手机旅行广告需真实地图与服务信息，当前素材链不完整，暂不收录。

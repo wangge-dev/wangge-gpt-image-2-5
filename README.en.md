@@ -4,11 +4,11 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 542 base prompts (85 adapted cards, 446 originals and 11 prompts developed from documented 2.5 examples), plus 132 complete variations. The collection includes 410 general templates, 56 ecommerce scenarios and 56 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
+Explore 545 base prompts (88 adapted cards, 446 originals and 11 prompts developed from documented 2.5 examples), plus 132 complete variations. The collection includes 410 general templates, 58 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 86 variations, from clean product shots to seasonal campaigns.
 
 Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Fill and submit one product fact sheet first, then use either the single-image minimum path or the complete-materials path. Each package provides six prompts, required references, acceptance checks, and a focused repair instruction.
 
-Ecommerce cards EC01–EC56 include filled, copy-ready Chinese examples alongside reusable variable templates.
+Ecommerce cards EC01–EC58 include filled, copy-ready Chinese examples alongside reusable variable templates.
 
 [Filterable gallery](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/): search by task, product category, reference-image requirements and available results.
 
@@ -62,4 +62,4 @@ Maintained by wangge-dev. This is an independent project, not affiliated with Op
 
 New: [G32 travel-ticket paper diorama](prompts/gallery/G32.md), and [G22 six-panel campaign with six standalone prompts](prompts/gallery/G22.md). The gallery supports direct case links, link copying, image enlargement and side-by-side input/output viewing.
 
-Ecommerce cards EC01–EC56 include explicit reference-image requirements and fully filled Chinese examples alongside their variable templates.
+Ecommerce cards EC01–EC58 include explicit reference-image requirements and fully filled Chinese examples alongside their variable templates.
