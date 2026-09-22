@@ -20,6 +20,8 @@
 | 想做什么 | 入口 |
 | --- | --- |
 | 商品主图、场景、详情、促销、品牌图 | [电商专区 · 58 套场景](ecommerce/README.md) |
+| 已有商品图，不知道下一张做什么 | [按现有素材选最短路径](ecommerce/start-here.md) |
+| 准备连续制作一套电商素材 | [三套样板准备单](ecommerce/sample-projects.md) |
 | 海报、信息图、人物、品牌、空间、UI | [通用模板 · 410 张卡](prompts/README.md#通用模板--410) |
 | 发型目录、微缩广告、珐琅徽章等创意 | [精选画廊 · 57 条](gallery/README.md) |
 | 改字、返工、跨境、一品多图 | [原创提示词 · 9 条](experiments/README.md) |
