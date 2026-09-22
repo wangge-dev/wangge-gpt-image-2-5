@@ -21,6 +21,7 @@ Ecommerce cards EC01–EC58 include filled, copy-ready Chinese examples alongsid
 | Product photos, campaigns, packaging and detail pages | [Ecommerce collection](ecommerce/README.md) |
 | Have product photos and need the next image | [Shortest path by available inputs](ecommerce/start-here.md) (Chinese) |
 | Prepare a complete ecommerce image set | [Three sample project briefs](ecommerce/sample-projects.md) (Chinese) |
+| Review a product-specific, source-backed prompt set | [System76 Launch 2 keyboard](ecommerce/samples/system76-launch-2.md) (Chinese) |
 | Posters, infographics, portraits, branding, spaces and interfaces | [Prompt index](prompts/README.md) |
 | Hairstyle grids, enamel pins and miniature ads | [Creative gallery](gallery/README.md) |
 | Copy edits, localization and consistent product series | [Original workflows](experiments/README.md) |
