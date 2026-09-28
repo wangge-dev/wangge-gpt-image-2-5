@@ -1,6 +1,6 @@
 # 模型与版本说明
 
-核查日期：2026-09-09。API 型号、ChatGPT 界面名称与调用平台分别记录。
+核查日期：2026-09-28。API 型号、ChatGPT 界面名称与调用平台分别记录。
 
 | 名称 | 已核实的定位 | 本库记录方式 |
 | --- | --- | --- |
@@ -8,7 +8,7 @@
 | GPT Image 2.5 Sunburst | 重视生成与编辑精度 | `gpt-image-2.5-sunburst`，另记返回的版本信息 |
 | ChatGPT Images 2.5 | ChatGPT 图像产品 | 保存可见版本依据；不能擅自推断为 Flare 或 Sunburst |
 
-来源：[Flare](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare) · [Sunburst](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst)。
+来源：[官方GPT Image 2.5提示词指南](https://developers.openai.com/api/docs/guides/image-prompting) · [Flare](https://developers.openai.com/api/docs/models/gpt-image-2.5-flare) · [Sunburst](https://developers.openai.com/api/docs/models/gpt-image-2.5-sunburst)。
 
 官方发布于 2026-09-08，涉及主体保真、编辑一致性与速度改进；Sketch、模板和图片评论属于产品操作体验，不能等同为 API 参数。来源：[发布说明](https://openai.com/index/introducing-chatgpt-images-2-5/)。
 
@@ -39,7 +39,7 @@
 
 ## 选择模型：本库的建议
 
-普通创意先试 Flare；对商品或局部编辑要求高的任务优先评估 Sunburst。
+已有GPT Image 2流程已达到质量要求时，先用同一提示词、输入和尺寸评估 Flare；商品标签保真、复杂合成、局部编辑或最终投放稿优先评估 Sunburst。
 比较二者时保持输入、提示词和可共用的请求设置一致。相同质量档位不等于相同输出质量。
 有需要才比较，失败可以改提示词或任务设计，不必机械提高档位。
 

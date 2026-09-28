@@ -54,3 +54,9 @@
 
 - 官方GPT Image 2.5提示词指南仍支持明确主体、构图、参考职责与局部编辑；`freestylefly/awesome-gpt-image-2`、`wangge-dev/awesome-gpt-image-2`、`buluslan/gpt-image2-ecommerce`、`EvoLinkAI/gpt-image-2.5-for-e-commerce`和AtlasCloud仓库本轮无新提交。
 - AtlasCloud案例590、192、589分别转化为EC57、EC58、G57。候选28咖啡袋棚拍与既有白底／场景卡差异不足；候选634液态弧线与现有商品环绕广告接近；候选659手机旅行广告需真实地图与服务信息，当前素材链不完整，暂不收录。
+
+## 2026-09-28核查与转化
+
+- OpenAI官方2.5提示词指南继续把Flare定位为快速日常生成、Sunburst定位为更高质量与编辑控制，并强调编辑时写清改什么、保留什么以及逐项检查结果。
+- buluslan电商库从此前25场景扩为39场景，0.3.3明确接入GPT Image 2.5双模型路由。新增的批量换品、批量翻译、透明抠图、商品动图四项中，前三个独立缺口转化为EC59–EC61；透明抠图与C002重复，改为增强旧卡而不重复计数。
+- `freestylefly/awesome-gpt-image-2`、个人fork与EvoLink仓库的公开页面本轮未发现比已记录内容更适合直接转化的新提示词；本机Git远端命令受本地代理连接失败影响，未据此写入新的提交哈希。

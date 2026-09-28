@@ -129,3 +129,5 @@
 EvoLink来源专题：2026-09-10整理[C009–C011一品三用](../ecommerce/evolink-product-story.md)，对应作者9月9日提供的三组2.5案例。独立于两个旧库盘点，不改动旧库已改写数量。
 
 2026-09-10：原作者上游073d105的527已改写为G32；532用于完善G22，不重复计入新主提示词。四组上游复现未返回具体模型ID。
+
+2026-09-28：buluslan电商库已升级到0.3.3，README与SKILL公开列出39个场景及GPT Image 2.5 Flare/Sunburst路由。本库逐项读取其中4个新增场景：`bulk-product-swap`、`bulk-translate`、`motion-gif`改写为EC59–EC61；`transparent-cutout`与官方来源卡C002重复，只增强原卡的Alpha通道、边缘检查和后续编辑要求，不重复新增。来源仍保留作者和MIT项目链接，不把其运行或检查结果写成本库实测。

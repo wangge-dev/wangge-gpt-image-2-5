@@ -41,7 +41,8 @@ def render(entry):
         label = '生成示例 · wangge-dev / ChatGPT 网页版' if own else '原库参考'
         url = '../../' + entry['preview'] if own else entry['preview']
         lines += ['', label, '', f"![{entry['title']} · {label}]({url})"]
-    lines += ['', '整理日期：2026-09-09。上游许可及第三方素材边界见[署名说明](../../ATTRIBUTIONS.md)。']
+    updated_at = entry.get('updated_at', '2026-09-09')
+    lines += ['', f'整理日期：{updated_at}。上游许可及第三方素材边界见[署名说明](../../ATTRIBUTIONS.md)。']
     return '\n'.join(lines)
 
 def main():

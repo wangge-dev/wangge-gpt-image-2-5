@@ -5,7 +5,7 @@
 ## 两个主要来源
 
 - [wangge-dev/awesome-gpt-image-2](https://github.com/wangge-dev/awesome-gpt-image-2)，上游 [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)。本次依据版本 `b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`，保留 [freestylefly 的 MIT 许可全文](licenses/awesome-gpt-image-2-MIT.txt)。案例卡链接具体条目与原库记录的原作者；没有可用原帖链接时保留原署名，不补造。
-- [buluslan/gpt-image2-ecommerce](https://github.com/buluslan/gpt-image2-ecommerce)。依据版本 `a3673fb6f316664280e6abd90a60a578c6fb2228`，25 套模板及全部 88 个变体方向已处理，保留 [Buluu@新西楼 的 MIT 许可全文](licenses/gpt-image2-ecommerce-MIT.txt)。逐卡链接 `references/templates` 中的原文件。
+- [buluslan/gpt-image2-ecommerce](https://github.com/buluslan/gpt-image2-ecommerce)。原25套模板与88个变体方向依据版本 `a3673fb6f316664280e6abd90a60a578c6fb2228` 处理；2026-09-28另核对0.3.3的39场景版本，并从新增场景改写EC59–EC61、增强C002。保留 [Buluu@新西楼 的 MIT 许可全文](licenses/gpt-image2-ecommerce-MIT.txt)，逐卡链接对应原文件。
 
 本次不是上游官方升级版，未声称原作者用 Image 2.5 运行了旧提示词。改写说明记录保留的创意及改变的内容。
 
