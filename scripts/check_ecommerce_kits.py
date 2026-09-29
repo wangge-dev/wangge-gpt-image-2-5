@@ -17,9 +17,34 @@ def image_numbers(text):
 def check_kit(path):
     text = path.read_text(encoding="utf-8")
     errors = []
-    for required in ("## 一次填写：商品事实单", "## 选择执行路径", "单图最小路径", "资料齐全路径"):
+    for required in (
+        "## 一次填写：商品事实单",
+        "## 选择执行路径",
+        "单图最小路径",
+        "资料齐全路径",
+        "### 只有图1时直接复制",
+    ):
         if required not in text:
             errors.append(f"缺少 {required}")
+
+    path_line = next((line for line in text.splitlines() if line.startswith("- 单图最小路径：")), "")
+    if "只有图1时直接复制" not in path_line or "不要直接复制第1步" not in path_line:
+        errors.append("单图最小路径未明确指向单图正文并避开多图第1步")
+
+    single_section = re.search(
+        r"(?ms)^### 只有图1时直接复制\n(.*?)(?=^## 1\.)",
+        text,
+    )
+    if not single_section:
+        errors.append("无法解析单图直接复制区")
+    else:
+        single_blocks = re.findall(r"```text\n(.*?)\n```", single_section.group(1), flags=re.S)
+        if len(single_blocks) != 1:
+            errors.append(f"单图直接复制区应为1个正文，实际{len(single_blocks)}")
+        elif image_numbers(single_blocks[0]) != {1}:
+            errors.append(f"单图直接复制区只能引用图1，实际{sorted(image_numbers(single_blocks[0]))}")
+        elif "《商品事实单》" not in single_blocks[0]:
+            errors.append("单图直接复制区未引用商品事实单")
 
     steps = re.split(r"(?m)^## (?=\d+\.)", text)[1:]
     if len(steps) != 6:
@@ -34,6 +59,8 @@ def check_kit(path):
             continue
         if "{{" in blocks[0] or "}}" in blocks[0]:
             errors.append(f"第{index}步直接复制区含未填写变量")
+        if "《商品事实单》" not in blocks[0]:
+            errors.append(f"第{index}步直接复制区未引用商品事实单")
         source_line = next((line for line in step.splitlines() if line.startswith("来源卡：")), "")
         undeclared = image_numbers(blocks[0]) - image_numbers(source_line)
         if undeclared:

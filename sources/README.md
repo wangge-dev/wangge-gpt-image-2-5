@@ -131,3 +131,13 @@ EvoLink来源专题：2026-09-10整理[C009–C011一品三用](../ecommerce/evo
 2026-09-10：原作者上游073d105的527已改写为G32；532用于完善G22，不重复计入新主提示词。四组上游复现未返回具体模型ID。
 
 2026-09-28：buluslan电商库已升级到0.3.3，README与SKILL公开列出39个场景及GPT Image 2.5 Flare/Sunburst路由。本库逐项读取其中4个新增场景：`bulk-product-swap`、`bulk-translate`、`motion-gif`改写为EC59–EC61；`transparent-cutout`与官方来源卡C002重复，只增强原卡的Alpha通道、边缘检查和后续编辑要求，不重复新增。来源仍保留作者和MIT项目链接，不把其运行或检查结果写成本库实测。
+
+## 真实商品样板来源
+
+| 样板 | 输入来源与许可 | 当前状态 |
+| --- | --- | --- |
+| [System76 Launch 2](../ecommerce/samples/system76-launch-2.md) | 三张 System76 技术照片，Wikimedia Commons，CC BY-SA 4.0；另核对官方技术规格 | 四段提示词待运行，未生成 |
+| [约1949年 NIVEA Creme 铁盒](../ecommerce/samples/nivea-creme-1949-tin.md) | Berthold Werner 历史包装实拍，Wikimedia Commons，CC BY-SA 4.0 | 四段提示词待运行；不外推功效、内容物或当前销售属性 |
+| [白色 IKEA LACK 桌](../ecommerce/samples/ikea-lack-white-table.md) | Juhan Sonin 实拍，Wikimedia Commons，CC BY 2.0 | 四段提示词待运行；不把当前官网参数拼接到旧照片 |
+
+2026-09-29 对后两份来源做了文件页级核对并保留原图。当前 IKEA 官网可作为另行核对在售型号的入口，但本轮照片不能证明具体货号、年代或尺寸，因此未将官网销售参数写入这份单图样板。三份样板只有在界面能读到具体 GPT Image 2.5 型号时才进入实际执行记录。
