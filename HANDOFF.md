@@ -8,11 +8,13 @@
 
 ## 接手者先做什么
 
-1. 完整阅读 [AGENTS.md](AGENTS.md)、[首页](README.md)、[维护流程](maintenance/README.md)、[扩库路线](maintenance/roadmap-2026-09-13-prompt-expansion.md)、[持续更新指令](maintenance/update-prompt.md)、[缺口队列](discovery/backlog.md)和[最近一批记录](maintenance/reviews/2026-10-01-category-and-production-entry.md)。遵守当前用户指令优先于旧文件结论。
+1. 完整阅读 [AGENTS.md](AGENTS.md)、[首页](README.md)、[维护流程](maintenance/README.md)、[扩库路线](maintenance/roadmap-2026-09-13-prompt-expansion.md)、[持续更新指令](maintenance/update-prompt.md)、[缺口队列](discovery/backlog.md)和[最近一批记录](maintenance/reviews/2026-10-01-production-expansion-batch-01.md)。遵守当前用户指令优先于旧文件结论。
 2. 2026-09-29 已完成下列两个 P1 修复：八套品类包都新增只引用图1的独立可复制正文，48段六步正文都改为直接服从《商品事实单》，检查脚本也增加对应语义约束。后续不要恢复固定示例SKU，也不要把结构检查通过当作实际生图通过。
 3. 2026-10-01用户明确恢复原路线：完整可复制提示词优先，生图实测可选；浏览器修复独立处理，不阻塞扩库。保留既有样板授权和待运行记录，但自动维护不调用浏览器或生图。故障单独见[浏览器问题](maintenance/browser-connection-issue.md)。
 
 ## 第一性原理：目标、约束、事实与假设
+
+**当前内容批。** 2026-10-01已实质修订EC49搜索主图、EC50详情首屏、EC52活动、T410编辑、EC12商业创意；五份示例和局部返工同步，新增无利益点首屏与无价格活动两个完整变体。当前548条基础提示词、528张JSON卡、134个完整变体（电商88个）。下面2026-09-29快照及早期批次数字作为历史保留，不作当前统计。参考图数量与运行状态不变，本批没有生图。
 
 **目标。** 这是独立的 GPT Image 2.5 中文提示词库，主要交付是完整可复制的提示词。电商用户应能按自己已有的商品证据，在一分钟内找到第一张图，随后按顺序做主图、场景、详情或活动素材，逐张核对商品事实，并对单个错误做局部返工。长期维护只收有独立任务差异的提示词；数量是覆盖面指标，不是质量证明。近期从来源核查、高频用户路径与现有卡片审查补真实缺口；样板实测是独立可选补充，不是收录、修订或发布前提。
 

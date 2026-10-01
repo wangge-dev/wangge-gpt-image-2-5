@@ -21,6 +21,10 @@
 
 OpenAI指南、Simon的9月8日原文及首页、BrushGlow原指南本轮可读；只核对参考职责、保留项与单变量编辑，不新增作者实测结论。未完整回扫所有作者文章，不把本轮日期当作全体来源成功核查日期；Reddit候选继续待追。EC01、EC02、EC11补官方方法链接，同时保留旧Image 2原模板固定提交出处，仍是面向2.5适配而非本库实测。
 
+### 2026-10-01成片补强批核查
+
+2026-10-01成片补强批再次读取官方2.5章节、Simon的9月8日原文及BrushGlow指南；只使用参考职责、单变量与保留项的提示方法，不新增作者测试或质量结论。四个已跟踪GitHub仓库HEAD与本日上批记录一致；没有完整回扫作者全部文章，Reddit等候选状态不变。具体版本及修订卡见[本批记录](../maintenance/reviews/2026-10-01-production-expansion-batch-01.md)。
+
 ## 2026-09-10新增作者
 
 - [Practical_Low29原帖](https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet/)：有完整一行提示词，作者自述Atlas Cloud上的2.5，具体子型号未知；已整理[C008](../cases/C008-combat-sprite-sheet.md)，后续追动作连贯、切图与实际型号记录。

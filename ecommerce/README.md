@@ -24,7 +24,7 @@
 - [EC05 中文促销海报](../prompts/ecommerce/EC05.md)：商品、活动文案和价格分区，适合活动主视觉。
 - [EC06 社媒种草与视频封面](../prompts/ecommerce/EC06.md)：生成社媒内容图片，文案可控。
 - [EC07 生活随拍广告风格](../prompts/ecommerce/EC07.md)：模拟随拍审美，用于广告创意和开箱封面。
-- [EC12 超现实商品创意广告](../prompts/ecommerce/EC12.md)：保留商品身份，围绕它构建视觉创意。
+- [EC12 超现实商品创意广告](../prompts/ecommerce/EC12.md)：用一个明确的空间机制制作商品商业创意，先锁商品占比、背景层和文案留白；纸艺、悬停或不可能几何只作用于布景。
 - [EC15 直播封面与布景概念](../prompts/ecommerce/EC15.md)：设计直播视觉素材，不伪造真实直播截图。
 - [EC21 四季与节日系列图](../prompts/ecommerce/EC21.md)：同一商品、统一机位，替换系列布景。
 - [EC25 运动商品广告与三联画](../prompts/ecommerce/EC25.md)：用动作、构图和字体表现运动感。
