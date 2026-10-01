@@ -1,5 +1,11 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-10-01定向复核与实质修订
+
+本批逐项重读buluslan固定提交`a3673fb6f316664280e6abd90a60a578c6fb2228`的01主图、02场景和11信息图JSON，并核对[OpenAI图像提示词指南](https://developers.openai.com/api/docs/guides/image-prompting)的参考职责、保留项和单变量编辑原则。EC01、EC02、EC11及11个完整变体已修订；原来源署名和source_key不变，不增加旧库已改写数量，不把原Image 2模板或未运行中文稿说成2.5实测。
+
+远端HEAD已读取：buluslan`73abd50bf2b689b5a453f28ddd7b0016415deec6`、freestylefly`b93c18ad45397c828fcc39a1ed347830433b3de4`、wangge-dev fork`b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`。三个公开主页可读；上游2.5专区仍明确说明精确工具型号未核实，不当作本库输出。本轮只是定向复核，不代表已精读全部新增提交。旧库存量盘点和CSV保持原口径。
+
 [首页](../README.md) · [完整CSV](inventory.csv)
 
 盘点日期：2026-09-09。覆盖源库结构化案例索引、模板索引与电商模板文件。全量索引不等于全量逐条精读或全量改写。

@@ -1,11 +1,13 @@
 {
   "EC01": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类"
   },
   "EC02": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类"
   },
   "EC03": {
     "reference": "需要",
@@ -42,7 +44,8 @@
   },
   "EC11": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类"
   },
   "EC12": {
     "reference": "需要",
