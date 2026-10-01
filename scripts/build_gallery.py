@@ -12,7 +12,7 @@ def build():
         e = dict(card)
         e['path'] = f"prompts/{e['group']}/{e['id']}.md"
         e['task'] = e.get('task', e['category'])
-        e['product_category'] = e.get('product_category', '通用品类' if e['group']=='ecommerce' else '非商品专项')
+        e['product_category'] = e.get('product_category', '通用品类' if e['group']=='ecommerce' or e['category']=='Products & E-commerce' else '非商品专项')
         e['reference'] = '需要' if e.get('requires_reference') or re.search(r'图[1一AB]|参考照|上传|参考图', e['prompt']) else '按卡片说明'
         e['has_result'] = e.get('preview_kind') == 'user_result'
         entries.append(e)
@@ -32,6 +32,8 @@ def build():
     metadata = json.loads((ROOT/'data/gallery-metadata.json').read_text(encoding='utf-8'))
     for entry in entries:
         entry.update(metadata.get(entry['id'], {}))
+        entry.setdefault('entry', '其他任务')
+        entry.setdefault('featured', False)
     payload = json.dumps(entries, ensure_ascii=False).replace('<','\\u003c')
     template = (ROOT/'scripts/gallery-template.html').read_text(encoding='utf-8')
     output = ROOT/'browse/index.html'

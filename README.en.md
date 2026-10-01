@@ -10,9 +10,9 @@ Eight category workflows turn the library into ordered production checklists: [b
 
 Ecommerce cards EC01–EC61 include filled, copy-ready Chinese examples alongside reusable variable templates.
 
-Latest revisions preserve the source product angle, keep scene props secondary, and accept only 1–3 approved detail-page claims. Prompt maintenance continues independently of optional image testing; this batch does not increase counts.
+The gallery now starts with 26 practical image-production cards, with separate routes for product shots, scenes, detail modules, campaigns, editing and commercial creative work. Structural checks remain available separately. Product-themed templates are no longer mislabeled as non-product tasks. Recent prompt revisions preserve source angles, secondary scene props and approved detail-page claims.
 
-[Filterable gallery](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/): search by task, product category, reference-image requirements and available results.
+[Image-production gallery](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/): choose an output route, then filter by task, product category, reference-image requirements and available results. Optional image testing does not block prompt maintenance.
 
 [One product, three workflows](ecommerce/evolink-product-story.md): scene replacement, creator-style product imagery and localized marketing assets. Includes EvoLink-supplied examples and Chinese adaptations.
 

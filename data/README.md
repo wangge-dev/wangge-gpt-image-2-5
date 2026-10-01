@@ -13,3 +13,5 @@
 ## 可筛选画廊
 
 `library.json` 的 `example` 与 `example_inputs` 保存具体示例；模板仍保存在 `prompt`。`gallery-metadata.json` 维护人工核对的筛选标签与官方图来源。`scripts/build_gallery.py` 同时读取来源卡与原创卡，生成 `browse/index.html`，不需要构建依赖或登录。
+
+`entry` 按实际交付区分主图、场景、详情、活动、编辑与一致性、商业创意、结构与资料核对及其他任务；`featured` 仅表示常用入口精选，不代表已实测。2026-10-01补齐全部548条画廊内容的导航元数据，其中528张为JSON卡。`product_category` 按可复用任务对象归类，不用填写示例中的商品限定通用卡；材质模板或跨品类工作流保留“通用品类”。商品类缺省标签也不得回落为“非商品专项”。

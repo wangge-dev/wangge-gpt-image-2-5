@@ -2,390 +2,620 @@
   "EC01": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "通用品类"
+    "product_category": "通用品类",
+    "entry": "主图成片",
+    "featured": true
   },
   "EC02": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "通用品类"
+    "product_category": "通用品类",
+    "entry": "场景成片",
+    "featured": true
   },
   "EC03": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "entry": "场景成片",
+    "featured": true
   },
   "EC04": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "featured": false
   },
   "EC05": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "活动成片",
+    "featured": true
   },
   "EC06": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "活动成片",
+    "featured": true
   },
   "EC07": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "entry": "场景成片",
+    "featured": false
   },
   "EC08": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "entry": "场景成片",
+    "featured": true
   },
   "EC09": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "featured": false
   },
   "EC10": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "包装"
+    "product_category": "包装",
+    "entry": "详情成片",
+    "featured": true
   },
   "EC11": {
     "reference": "需要",
     "task": "广告与详情",
-    "product_category": "通用品类"
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "featured": true
   },
   "EC12": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "featured": true
   },
   "EC13": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "featured": false
   },
   "EC14": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "entry": "主图成片",
+    "featured": true
   },
   "EC15": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "活动成片",
+    "featured": false
   },
   "EC16": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "服装"
+    "product_category": "通用品类",
+    "entry": "场景成片",
+    "featured": false
   },
   "EC17": {
     "reference": "需要",
-    "task": "概念设计"
+    "task": "概念设计",
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "featured": false
   },
   "EC18": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "服装"
+    "product_category": "服装",
+    "entry": "场景成片",
+    "featured": true
   },
   "EC19": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "entry": "主图成片",
+    "featured": false
   },
   "EC20": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "featured": false
   },
   "EC21": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "活动成片",
+    "featured": true
   },
   "EC22": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "entry": "场景成片",
+    "featured": false
   },
   "EC23": {
     "reference": "需要",
     "task": "概念设计",
-    "product_category": "数码与界面"
+    "product_category": "数码与界面",
+    "entry": "商业创意",
+    "featured": false
   },
   "EC24": {
     "reference": "需要",
-    "task": "空间设计"
+    "task": "空间设计",
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "featured": false
   },
   "EC25": {
     "reference": "需要",
     "task": "广告与详情",
-    "product_category": "运动用品"
+    "product_category": "运动用品",
+    "entry": "商业创意",
+    "featured": false
   },
   "T01": {
     "reference": "可选",
     "task": "界面设计",
-    "product_category": "数码与界面"
+    "product_category": "数码与界面",
+    "entry": "其他任务",
+    "featured": false
   },
   "T02": {
     "reference": "可选",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T03": {
     "reference": "不需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T04": {
     "reference": "不需要",
-    "task": "海报与字体"
+    "task": "海报与字体",
+    "product_category": "非商品专项",
+    "entry": "活动成片",
+    "featured": false
   },
   "T05": {
     "reference": "需要",
     "task": "海报与字体",
-    "product_category": "运动用品"
+    "product_category": "运动用品",
+    "entry": "商业创意",
+    "featured": false
   },
   "T06": {
     "reference": "不需要",
-    "task": "海报与字体"
+    "task": "海报与字体",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "T07": {
     "reference": "需要",
-    "task": "人物与角色"
+    "task": "人物与角色",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "T08": {
     "reference": "需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T09": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "entry": "主图成片",
+    "featured": false
   },
   "T10": {
     "reference": "需要",
     "task": "人物与角色",
-    "product_category": "美妆与玻璃包装"
+    "product_category": "美妆与玻璃包装",
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "T11": {
     "reference": "不需要",
-    "task": "品牌设计"
+    "task": "品牌设计",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "T12": {
     "reference": "需要",
-    "task": "品牌设计"
+    "task": "品牌设计",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "T13": {
     "reference": "需要",
-    "task": "空间设计"
+    "task": "空间设计",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T14": {
     "reference": "可选",
-    "task": "摄影与插画"
+    "task": "摄影与插画",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T15": {
     "reference": "不需要",
-    "task": "摄影与插画"
+    "task": "摄影与插画",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T16": {
     "reference": "可选",
-    "task": "摄影与插画"
+    "task": "摄影与插画",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T17": {
     "reference": "需要",
-    "task": "人物与角色"
+    "task": "人物与角色",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T18": {
     "reference": "需要",
-    "task": "人物与角色"
+    "task": "人物与角色",
+    "product_category": "收藏玩具",
+    "entry": "其他任务",
+    "featured": false
   },
   "T19": {
     "reference": "可选",
-    "task": "摄影与插画"
+    "task": "摄影与插画",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T20": {
     "reference": "不需要",
-    "task": "摄影与插画"
+    "task": "摄影与插画",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T21": {
     "reference": "需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "T22": {
     "reference": "可选",
-    "task": "概念设计"
+    "task": "概念设计",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G01": {
     "reference": "不需要",
-    "task": "海报与字体"
+    "task": "海报与字体",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "G02": {
     "reference": "需要",
-    "task": "海报与字体"
+    "task": "海报与字体",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "G03": {
     "reference": "不需要",
     "task": "界面设计",
-    "product_category": "数码与界面"
+    "product_category": "数码与界面",
+    "entry": "其他任务",
+    "featured": false
   },
   "G04": {
     "reference": "需要",
-    "task": "品牌设计"
+    "task": "品牌设计",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "G05": {
     "reference": "需要",
     "result_label": "用户 ChatGPT 网页版示例",
-    "task": "人物与角色"
+    "task": "人物与角色",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G06": {
     "reference": "需要",
-    "task": "人物与角色"
+    "task": "人物与角色",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G07": {
     "reference": "不需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G08": {
     "reference": "需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G09": {
     "reference": "需要",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G10": {
     "reference": "需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "G11": {
     "reference": "不需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G12": {
     "reference": "不需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G13": {
     "reference": "不需要",
-    "task": "摄影与插画"
+    "task": "摄影与插画",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G14": {
     "reference": "不需要",
     "task": "摄影与插画",
-    "product_category": "服装"
+    "product_category": "服装",
+    "entry": "其他任务",
+    "featured": false
   },
   "G15": {
     "reference": "需要",
     "task": "信息图与排版",
-    "product_category": "食品"
+    "product_category": "食品",
+    "entry": "商业创意",
+    "featured": false
   },
   "G16": {
     "reference": "需要",
-    "task": "品牌设计"
+    "task": "品牌设计",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "G17": {
     "reference": "可选",
-    "task": "人物与角色"
+    "task": "人物与角色",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G18": {
     "reference": "需要",
-    "task": "人物与角色"
+    "task": "人物与角色",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G19": {
     "reference": "需要",
-    "task": "海报与字体"
+    "task": "海报与字体",
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "featured": false
   },
   "G20": {
     "reference": "不需要",
-    "task": "海报与字体"
+    "task": "海报与字体",
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "featured": false
   },
   "G21": {
     "reference": "需要",
     "result_label": "用户 ChatGPT 网页版示例",
-    "task": "摄影与插画"
+    "task": "摄影与插画",
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "featured": false
   },
   "G22": {
     "reference": "不需要",
     "task": "广告与详情",
-    "product_category": "食品"
+    "product_category": "食品",
+    "entry": "商业创意",
+    "featured": true
   },
   "G23": {
     "reference": "需要",
     "result_label": "用户 ChatGPT 网页版示例",
     "task": "广告与详情",
-    "product_category": "美妆与玻璃包装"
+    "product_category": "美妆与玻璃包装",
+    "entry": "商业创意",
+    "featured": true
   },
   "G24": {
     "reference": "不需要",
     "task": "广告与详情",
-    "product_category": "食品"
+    "product_category": "食品",
+    "entry": "商业创意",
+    "featured": false
   },
   "G25": {
     "reference": "需要",
     "task": "人物与角色",
-    "product_category": "服装"
+    "product_category": "服装",
+    "entry": "商业创意",
+    "featured": false
   },
   "G26": {
     "reference": "需要",
     "task": "概念设计",
-    "product_category": "包装"
+    "product_category": "包装",
+    "entry": "商业创意",
+    "featured": false
   },
   "G27": {
     "reference": "需要",
     "task": "广告与详情",
-    "product_category": "美妆与玻璃包装"
+    "product_category": "美妆与玻璃包装",
+    "entry": "商业创意",
+    "featured": false
   },
   "G28": {
     "reference": "不需要",
     "task": "摄影与插画",
-    "product_category": "食品"
+    "product_category": "食品",
+    "entry": "商业创意",
+    "featured": false
   },
   "G29": {
     "reference": "需要",
     "task": "界面设计",
-    "product_category": "数码与界面"
+    "product_category": "数码与界面",
+    "entry": "其他任务",
+    "featured": false
   },
   "G30": {
     "reference": "需要",
     "task": "界面设计",
-    "product_category": "数码与界面"
+    "product_category": "数码与界面",
+    "entry": "其他任务",
+    "featured": false
   },
   "G31": {
     "reference": "需要",
     "task": "广告与详情",
-    "product_category": "食品"
+    "product_category": "食品",
+    "entry": "商业创意",
+    "featured": false
   },
   "EC26": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "美妆与玻璃包装"
+    "product_category": "透明与反光",
+    "entry": "详情成片",
+    "featured": false
   },
   "EC27": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "服装"
+    "product_category": "服装",
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "EC28": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "饰品"
+    "product_category": "饰品",
+    "entry": "详情成片",
+    "featured": false
   },
   "EC29": {
     "reference": "需要",
     "task": "商品展示",
-    "product_category": "食品"
+    "product_category": "食品",
+    "entry": "详情成片",
+    "featured": false
   },
   "EC30": {
     "reference": "需要",
     "task": "局部编辑",
-    "product_category": "包装"
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "C001": {
     "reference": "需要",
     "task": "人物与角色",
-    "product_category": "服装"
+    "product_category": "服装",
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "C002": {
     "reference": "需要",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "C003": {
     "reference": "需要",
     "task": "局部编辑",
-    "example_inputs": "上传一张英文信息图，文字清楚且完整；此示例将整张图译成简体中文。"
+    "example_inputs": "上传一张英文信息图，文字清楚且完整；此示例将整张图译成简体中文。",
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "C004": {
     "reference": "需要",
     "task": "摄影与插画",
-    "example_inputs": "上传一张包含河流、山体和植被的景观线稿。其他空间或材质使用下面的模板。"
+    "example_inputs": "上传一张包含河流、山体和植被的景观线稿。其他空间或材质使用下面的模板。",
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "C005": {
     "reference": "需要",
     "task": "局部编辑",
-    "example_inputs": "上传右下角有足够空白的图表；该区域不能包含坐标轴、图例、数字或曲线。"
+    "example_inputs": "上传右下角有足够空白的图表；该区域不能包含坐标轴、图例、数字或曲线。",
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "C006": {
     "reference": "需要",
@@ -403,7 +633,9 @@
         "url": "https://developers.openai.com/images/platform/guides/image-prompting/man-with-no-flower-gpt-image-2-5-sunburst.webp"
       }
     ],
-    "usage_note": "下方图片对应官方原提示词；本库中文模板是根据该任务整理的用法。"
+    "usage_note": "下方图片对应官方原提示词；本库中文模板是根据该任务整理的用法。",
+    "entry": "其他任务",
+    "featured": false
   },
   "C007": {
     "reference": "需要",
@@ -426,50 +658,72 @@
         "url": "https://developers.openai.com/images/platform/guides/image-prompting/billboard-winter-gpt-image-2-5-sunburst.webp"
       }
     ],
-    "usage_note": "下方图片对应官方原提示词；本库中文模板是根据该任务整理的用法。"
+    "usage_note": "下方图片对应官方原提示词；本库中文模板是根据该任务整理的用法。",
+    "entry": "其他任务",
+    "featured": false
   },
   "E001": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "entry": "其他任务",
+    "featured": false
   },
   "E002": {
     "reference": "需要",
-    "task": "广告与详情"
+    "task": "广告与详情",
+    "entry": "其他任务",
+    "featured": false
   },
   "E003": {
     "reference": "需要",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "entry": "其他任务",
+    "featured": false
   },
   "E004": {
     "reference": "需要",
-    "task": "商品展示"
+    "task": "商品展示",
+    "entry": "其他任务",
+    "featured": false
   },
   "E005": {
     "reference": "需要",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "entry": "其他任务",
+    "featured": false
   },
   "E006": {
     "reference": "需要",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "entry": "其他任务",
+    "featured": false
   },
   "E007": {
     "reference": "不需要",
-    "task": "信息图与排版"
+    "task": "信息图与排版",
+    "entry": "其他任务",
+    "featured": false
   },
   "E008": {
     "reference": "需要",
-    "task": "局部编辑"
+    "task": "局部编辑",
+    "entry": "其他任务",
+    "featured": false
   },
   "E009": {
     "reference": "可选",
-    "task": "海报与字体"
+    "task": "海报与字体",
+    "entry": "其他任务",
+    "featured": false
   },
   "C008": {
     "reference": "需要",
     "task": "人物与角色",
     "product_category": "非商品专项",
     "kind": "作者自述2.5 · 中文扩写",
-    "has_result": false
+    "has_result": false,
+    "entry": "其他任务",
+    "featured": false
   },
   "C009": {
     "reference": "需要",
@@ -506,7 +760,9 @@
       }
     ],
     "usage_note": "图片来自EvoLink原案例；本库中文正文为改写版本。",
-    "example_inputs": "上传一张商品完整、标签清楚的实拍照片；场景示例使用浴室台面，适合护肤品。其他商品请修改模板中的场景。"
+    "example_inputs": "上传一张商品完整、标签清楚的实拍照片；场景示例使用浴室台面，适合护肤品。其他商品请修改模板中的场景。",
+    "entry": "其他任务",
+    "featured": false
   },
   "C010": {
     "reference": "需要",
@@ -531,7 +787,9 @@
       }
     ],
     "usage_note": "图片来自EvoLink原案例；本库中文正文为改写版本。",
-    "example_inputs": "上传清晰的白底护肤品图。模板中的市场、语言和文案由你提供；具体示例不加营销文案，人物为虚构成年创作者。"
+    "example_inputs": "上传清晰的白底护肤品图。模板中的市场、语言和文案由你提供；具体示例不加营销文案，人物为虚构成年创作者。",
+    "entry": "其他任务",
+    "featured": false
   },
   "C011": {
     "reference": "需要",
@@ -592,223 +850,2030 @@
       }
     ],
     "usage_note": "图片来自EvoLink原案例；本库中文正文为改写版本。",
-    "example_inputs": "上传商品白底图，提供已经校对的目标语言文案和素材类型。具体示例使用日语标题“毎日のケアに”，只作为练习文案；实际投放前自行确认适用性。"
+    "example_inputs": "上传商品白底图，提供已经校对的目标语言文案和素材类型。具体示例使用日语标题“毎日のケアに”，只作为练习文案；实际投放前自行确认适用性。",
+    "entry": "其他任务",
+    "featured": false
   },
   "G32": {
     "reference": "可选",
     "task": "文创与旅行海报",
     "product_category": "文创",
-    "has_result": false
+    "has_result": false,
+    "entry": "商业创意",
+    "featured": false
   },
   "G33": {
     "reference": "需要",
     "task": "商品展示",
     "product_category": "收藏玩具",
-    "has_result": false
+    "has_result": false,
+    "entry": "商业创意",
+    "featured": false
   },
   "G34": {
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "食品",
-    "has_result": false
+    "has_result": false,
+    "entry": "商业创意",
+    "featured": false
   },
   "G35": {
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "饰品",
-    "has_result": false
+    "has_result": false,
+    "entry": "结构与资料核对",
+    "featured": false
   },
   "EC31": {
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "通用品类",
-    "has_result": false
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": true
   },
   "EC32": {
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "通用品类",
-    "has_result": false
+    "has_result": false,
+    "entry": "活动成片",
+    "featured": true
   },
   "EC33": {
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "鞋靴",
-    "has_result": false
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": false
   },
   "EC34": {
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "宠物用品",
-    "has_result": false
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": false
   },
   "EC35": {
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "汽车用品",
-    "has_result": false
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": false
   },
   "EC36": {
-    "reference": "需要", "task": "商品展示", "product_category": "透明与反光", "has_result": false
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "透明与反光",
+    "has_result": false,
+    "entry": "主图成片",
+    "featured": false
   },
   "EC37": {
-    "reference": "需要", "task": "商品展示", "product_category": "透明与反光", "has_result": false
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "透明与反光",
+    "has_result": false,
+    "entry": "编辑与一致性",
+    "featured": false
   },
   "EC38": {
-    "reference": "需要", "task": "商品展示", "product_category": "通用品类", "has_result": false
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "通用品类",
+    "has_result": false,
+    "entry": "主图成片",
+    "featured": false
   },
   "EC39": {
-    "reference": "需要", "task": "广告与详情", "product_category": "包装", "has_result": false
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "包装",
+    "has_result": false,
+    "entry": "结构与资料核对",
+    "featured": false
   },
   "EC40": {
-    "reference": "需要", "task": "广告与详情", "product_category": "家装五金", "has_result": false
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "家装五金",
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": false
   },
   "EC41": {
-    "reference": "需要", "task": "商品展示", "product_category": "饰品", "has_result": false
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "饰品",
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": false
   },
   "EC42": {
-    "reference": "需要", "task": "广告与详情", "product_category": "户外装备", "has_result": false
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "户外装备",
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": false
   },
   "EC43": {
-    "reference": "需要", "task": "广告与详情", "product_category": "数码配件", "has_result": false
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "数码配件",
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": false
   },
   "EC44": {
-    "reference": "需要", "task": "商品展示", "product_category": "纺织品", "has_result": false
+    "reference": "需要",
+    "task": "商品展示",
+    "product_category": "纺织品",
+    "has_result": false,
+    "entry": "详情成片",
+    "featured": false
   },
-  "EC45": {"title": "彩妆多色试色与膏体对照", "category": "电商", "tags": ["美妆", "色号", "试色", "参考图"]},
-  "EC46": {"title": "家具开合路径与空间尺寸", "category": "电商", "tags": ["家具", "尺寸", "空间", "开合"]},
-  "EC47": {"title": "厨具套装嵌套与配件归属", "category": "电商", "tags": ["厨具", "套装", "配件", "计数"]},
-  "EC48": {"title": "小家电面板状态与配件对应", "category": "电商", "tags": ["小家电", "面板", "配件", "参考图"]},
-  "T23": {"title": "成品图多处中文局部改字", "category": "模板", "tags": ["中文", "改字", "局部编辑", "排版"]},
-  "T24": {"title": "原版式中文本地化替换", "category": "模板", "tags": ["中文", "本地化", "翻译", "版式"]},
-  "T25": {"title": "线框草图驱动的图文版式", "category": "模板", "tags": ["草图", "版式", "多参考图", "中文"]},
-  "T26": {"title": "同一主视觉跨比例重排", "category": "模板", "tags": ["比例", "扩图", "重排", "海报"]},
-  "T27": {"title": "连续编辑的已验收状态锁定", "category": "模板", "tags": ["连续编辑", "状态锁定", "局部修改", "参考图"]},
-  "T28": {"title": "短中文规格对比表", "category": "模板", "tags": ["规格表", "中文", "数据", "对比"]},
-  "T29": {"title": "实拍步骤图与短中文说明", "category": "模板", "tags": ["步骤图", "中文", "流程", "实拍"]},
-  "T30": {"title": "系列页面跨页视觉一致性", "category": "模板", "tags": ["跨页", "母版", "视觉一致", "出版"]},
-  "T31": {"title": "多参考图冲突优先级表", "category": "模板", "tags": ["多参考图", "优先级", "冲突", "编辑"]},
-  "T32": {"title": "复杂中文层级海报", "category": "模板", "tags": ["中文", "层级", "海报", "排版"]},
-  "T33": {"title": "跨渠道系列视觉适配", "category": "模板", "tags": ["渠道", "品牌", "系列", "比例"]},
-  "T34": {"title": "技术标注引线防串位", "category": "模板", "tags": ["标注", "引线", "信息图", "结构"]},
-  "T35": {"title": "指定元素清除与底纹修复", "category": "模板", "tags": ["删除", "局部编辑", "遮罩", "修复"]},
-  "T36": {"title": "准确日期中文时间轴", "category": "模板", "tags": ["时间轴", "日期", "中文", "信息图"]},
-  "T37": {"title": "底图锚点式位置标注", "category": "模板", "tags": ["锚点", "地图", "位置", "标注"]},
-  "G36": {"title": "转角裸眼3D屏商品出框广告", "category": "精选创意", "tags": ["裸眼3D", "户外广告", "商品", "透视"]},
-  "G37": {"title": "原材料到成品的连续材质转译", "category": "精选创意", "tags": ["材质转译", "工艺", "商品", "概念广告"]},
-  "G38": {"title": "可拆装快闪店三阶段部署板", "category": "精选创意", "tags": ["快闪店", "模块", "空间", "品牌"]},
-  "G39": {"title": "实体投影形成品牌符号", "category": "精选创意", "tags": ["投影", "标志", "负空间", "品牌"]},
-  "G40": {"title": "眼镜镜片内外双场景广告", "category": "精选创意", "tags": ["眼镜", "镜片", "双场景", "商品"]},
-  "G41": {"title": "货架陈列规范与现场对照", "category": "精选创意", "tags": ["货架", "陈列", "零售", "对照"]},
-  "G42": {"title": "真实鞋底纹路运动轨迹广告", "category": "精选创意", "tags": ["鞋靴", "鞋底", "轨迹", "运动"]},
-  "G43": {"title": "双视角光栅海报成品概念", "category": "精选创意", "tags": ["光栅", "双视角", "海报", "线下物料"]},
-  "G44": {"title": "反光服饰闪光前后对照广告", "category": "精选创意", "tags": ["服饰", "反光材质", "对照", "摄影"]},
-  "G45": {"title": "防拆封签完整与开启状态对照", "category": "精选创意", "tags": ["包装", "封签", "状态", "对照"]},
-  "G46": {"title": "镭射包装多角度色移对照", "category": "精选创意", "tags": ["包装", "镭射", "角度", "材质"]},
-  "G47": {"title": "夜光表盘明暗状态序列", "category": "精选创意", "tags": ["腕表", "夜光", "状态", "时间"]},
-  "G48": {"title": "可刮涂层揭示三状态物料", "category": "精选创意", "tags": ["涂层", "刮开", "互动", "物料"]},
-  "G49": {"title": "遇水显纹伞面干湿对照", "category": "精选创意", "tags": ["雨伞", "遇水显纹", "干湿", "材质"]},
-  "G50": {"title": "击凸包装平光与掠射光对照", "category": "精选创意", "tags": ["包装", "击凸", "掠射光", "工艺"]},
-  "G51": {"title": "磁吸配件三阶段对位说明", "category": "精选创意", "tags": ["磁吸", "配件", "对位", "结构"]},
-  "G52": {"title": "双面夹克两面穿同人对照", "category": "精选创意", "tags": ["服饰", "双面穿", "人物", "对照"]},
-  "G53": {"title": "可转换饰品两种成品状态", "category": "精选创意", "tags": ["饰品", "组件", "转换", "清点"]},
-  "G54": {"title": "鞋带逐孔穿线路径说明", "category": "精选创意", "tags": ["鞋靴", "鞋带", "路径", "步骤"]},
-  "G55": {"title": "箱包肩带三档实测长度对照", "category": "精选创意", "tags": ["箱包", "肩带", "长度", "状态"]},
-  "T38": {"title": "商品参考素材职责清点板", "category": "模板", "tags": ["素材", "职责", "清点", "生产链"]},
-  "T39": {"title": "人工差异清单标注板", "category": "模板", "tags": ["验收", "差异", "标注", "返工"]},
-  "T40": {"title": "已验收主视觉渠道裁切预演板", "category": "模板", "tags": ["裁切", "安全区", "渠道", "预演"]},
-  "T41": {"title": "审定文案与上屏区域对应表", "category": "模板", "tags": ["文案", "区域", "换行", "定稿"]},
-  "T42": {"title": "商品素材版本状态交接板", "category": "模板", "tags": ["版本", "素材", "状态", "交接"]},
-  "T43": {"title": "单差异遮罩返工执行", "category": "模板", "tags": ["返工", "遮罩", "单问题", "锁定"]},
-  "T44": {"title": "系列成品人工锁定项核对板", "category": "模板", "tags": ["系列", "锁定项", "核对", "验收"]},
-  "T45": {"title": "失败轮次回退证据板", "category": "模板", "tags": ["版本", "失败", "回退", "证据"]},
-  "T46": {"title": "发布资产清单拼版", "category": "模板", "tags": ["发布", "资产", "清单", "交付"]},
-  "T47": {"title": "透明容器四层参考合成", "category": "模板", "tags": ["透明", "玻璃", "内容物", "遮挡"]},
-  "T48": {"title": "镜面金属允许反射清单布景", "category": "模板", "tags": ["镜面", "金属", "反射", "布光"]},
-  "T49": {"title": "宠物用品扣件闭合路径微距", "category": "模板", "tags": ["宠物用品", "扣件", "步骤", "微距"]},
-  "T50": {"title": "车载用品驾驶视野遮挡预演", "category": "模板", "tags": ["汽车用品", "视野", "遮挡", "预演"]},
-  "T51": {"title": "笔杆与替芯装配链对照", "category": "模板", "tags": ["文具", "替芯", "装配", "兼容"]},
-  "T52": {"title": "拼装玩具分袋与检查点追踪", "category": "模板", "tags": ["玩具", "分袋", "组件", "检查点"]},
-  "T53": {"title": "五金孔位模板重合预演", "category": "模板", "tags": ["五金", "孔位", "模板", "预演"]},
-  "T54": {"title": "帐篷风绳与地钉拓扑图", "category": "模板", "tags": ["户外", "帐篷", "风绳", "拓扑"]},
-  "T55": {"title": "珠宝镶口四方位旋转对照", "category": "模板", "tags": ["珠宝", "镶爪", "方位", "微距"]},
-  "T56": {"title": "食品整品与真实切面身份对应", "category": "模板", "tags": ["食品", "切面", "层次", "身份"]},
-  "T57": {"title": "纺织跨裁片纹样对花核对", "category": "模板", "tags": ["纺织", "对花", "接缝", "核对"]},
-  "T58": {"title": "多轮成品属性证据继承矩阵", "category": "模板", "tags": ["证据", "继承", "版本", "属性"]},
-  "T59": {"title": "软包装真实充填形变对照", "category": "模板", "tags": ["软包装", "充填", "褶皱", "形变"]},
-  "T60": {"title": "纸盒刀模与成盒面位映射", "category": "模板", "tags": ["包装", "刀模", "面位", "映射"]},
-  "T61": {"title": "货架价签与商品遮挡预演", "category": "模板", "tags": ["货架", "价签", "遮挡", "预演"]},
-  "T62": {"title": "精密防呆接口方向与到位标记对照", "category": "模板", "tags": ["接口", "防呆", "方向", "到位"]},
-  "T63": {"title": "冷冻食品三时点表面状态记录", "category": "模板", "tags": ["食品", "冷冻", "时点", "状态"]},
-  "T64": {"title": "卷材展开曲率与边缘回卷对照", "category": "模板", "tags": ["卷材", "曲率", "边缘", "回卷"]},
-  "T65": {"title": "线下吊旗吊点与成品方向映射", "category": "模板", "tags": ["吊旗", "吊点", "方向", "线下物料"]},
-  "T66": {"title": "螺纹旋合起扣与落座间隙对照", "category": "模板", "tags": ["螺纹", "旋合", "起扣", "间隙"]},
-  "T67": {"title": "贴标基准与局部气泡返工标注", "category": "模板", "tags": ["贴标", "基准", "气泡", "返工"]},
-  "T68": {"title": "食品分层装配顺序与用料守恒", "category": "模板", "tags": ["食品", "分层", "顺序", "守恒"]},
-  "T69": {"title": "实体折页面板与阅读方向映射", "category": "模板", "tags": ["折页", "面板", "阅读方向", "印刷物料"]},
-  "T70": {"title": "按压泵头锁止方向与回弹高度对照", "category": "模板", "tags": ["泵头", "锁止", "回弹", "包装"]},
-  "T71": {"title": "透明保护膜撕除边界与基材保护对照", "category": "模板", "tags": ["保护膜", "撕除", "边界", "表面"]},
-  "T72": {"title": "冲泡粉体四时点分散状态记录", "category": "模板", "tags": ["粉体", "冲泡", "时点", "分散"]},
-  "T73": {"title": "吸塑泡壳腔位与背卡方向映射", "category": "模板", "tags": ["吸塑", "泡壳", "背卡", "腔位"]},
-  "T74": {"title": "弹片卡扣锁止窗口与到位标记对照", "category": "模板", "tags": ["卡扣", "弹片", "锁止窗口", "到位"]},
-  "T75": {"title": "起绒面料顺逆毛四方向光泽对照", "category": "模板", "tags": ["起绒面料", "毛向", "光泽", "方向"]},
-  "T76": {"title": "可拆服装内胆结合点与左右归属映射", "category": "模板", "tags": ["服装", "内胆", "结合点", "左右"]},
-  "T77": {"title": "卷轴海报出画边界与底座方向对照", "category": "模板", "tags": ["卷轴海报", "出画边界", "底座", "线下物料"]},
-  "T78": {"title": "卷装标签出纸方向与首张定位对照", "category": "模板", "tags": ["卷装标签", "出纸方向", "首张", "办公耗材"]},
-  "T79": {"title": "纸箱封箱胶带路径与接缝覆盖映射", "category": "模板", "tags": ["纸箱", "封箱胶带", "路径", "物流包装"]},
-  "T80": {"title": "可拆拖布结合点与边角包覆映射", "category": "模板", "tags": ["拖布", "结合点", "包角", "清洁用品"]},
-  "T81": {"title": "冷热敷袋内袋与外套装入方向对照", "category": "模板", "tags": ["冷热敷袋", "内袋", "布套", "护理用品"]},
-  "T82": {"title": "订书机钉条方向与余量窗口对照", "category": "模板", "tags": ["订书机", "钉条", "余量窗口", "办公耗材"]},
-  "T83": {"title": "托盘护角与打包带交叉路径映射", "category": "模板", "tags": ["托盘", "护角", "打包带", "物流包装"]},
-  "T84": {"title": "扫地机左右边刷孔位与旋向归属对照", "category": "模板", "tags": ["扫地机", "边刷", "孔位", "左右"]},
-  "T85": {"title": "骑马钉册页页码与实体跨页顺序核对", "category": "模板", "tags": ["骑马钉", "册页", "页码", "出版物"]},
-  "T86": {"title": "打印耗材保护件拆除顺序与数量守恒", "category": "模板", "tags": ["打印耗材", "保护件", "顺序", "守恒"]},
-  "T87": {"title": "蜂窝纸缓冲角接触面与箱角方向映射", "category": "模板", "tags": ["蜂窝纸", "缓冲角", "箱角", "物流包装"]},
-  "T88": {"title": "清洁剂量杯刻度与人工液位记录", "category": "模板", "tags": ["量杯", "刻度", "液位", "清洁用品"]},
-  "T89": {"title": "机身外箱保修卡序列号逐字符核对", "category": "模板", "tags": ["序列号", "逐字符", "隐私", "交付核对"]},
-  "T90": {"title": "退货快递袋双封条与撕口路径对照", "category": "模板", "tags": ["退货袋", "双封条", "撕口", "物流包装"]},
-  "T91": {"title": "气柱缓冲袋腔体编号与充气边界对照", "category": "模板", "tags": ["气柱袋", "腔体", "充气边界", "缓冲包装"]},
-  "T92": {"title": "除尘滚筒耗材层号与撕纸断点追踪", "category": "模板", "tags": ["除尘滚筒", "层号", "撕纸", "清洁耗材"]},
-  "T93": {"title": "纸袋提绳穿孔与内外绳结归属映射", "category": "模板", "tags": ["纸袋", "提绳", "穿孔", "绳结"]},
-  "T94": {"title": "独立创可贴袋片数与批号载体守恒", "category": "模板", "tags": ["创可贴", "独立袋", "片数", "批号"]},
-  "T95": {"title": "修正带供带回收带路与余量窗对照", "category": "模板", "tags": ["修正带", "带路", "余量窗", "办公耗材"]},
-  "T96": {"title": "物流面单母联子联与撕线归属映射", "category": "模板", "tags": ["物流面单", "母联子联", "撕线", "隐私"]},
-  "T97": {"title": "活页索引签与实体分页归属核对", "category": "模板", "tags": ["活页册", "索引签", "分页", "实体出版"]},
-  "T98": {"title": "平面口罩内外面与耳带焊点归属对照", "category": "模板", "tags": ["口罩", "内外面", "耳带", "焊点"]},
-  "T99": {"title": "托盘缠绕膜起止边与标签窗口追踪", "category": "模板", "tags": ["托盘", "缠绕膜", "起止边", "标签窗口"]},
-  "T100": {"title": "魔术贴束线带穿孔与搭接面路径映射", "category": "模板", "tags": ["束线带", "穿孔", "搭接面", "线束"]},
-  "T101": {"title": "三联单据书写区与压痕跨联归属核对", "category": "模板", "tags": ["三联单", "压痕", "书写区", "实体单据"]},
-  "T102": {"title": "贴片分区离型纸与导线出口归属对照", "category": "模板", "tags": ["贴片", "离型纸", "分区", "导线出口"]},
-  "T103": {"title": "折叠周转箱面板铰接与锁扣状态追踪", "category": "模板", "tags": ["周转箱", "面板", "铰接", "锁扣"]},
-  "T104": {"title": "仓位码跨货架料箱与拣货单逐位映射", "category": "模板", "tags": ["仓位码", "货架", "料箱", "拣货单"]},
-  "T105": {"title": "瓶盖防拆环连接桥周向断开归属图", "category": "模板", "tags": ["瓶盖", "防拆环", "连接桥", "断点"]},
-  "T106": {"title": "瓦楞隔板插槽互锁与格口数量守恒", "category": "模板", "tags": ["瓦楞隔板", "插槽", "互锁", "格口"]},
-  "T107": {"title": "线缆旗形标签包裹区与双面阅读方向映射", "category": "模板", "tags": ["线缆标签", "旗形标签", "双面", "阅读方向"]},
-  "T108": {"title": "线缆盘首尾端与绑带固定点追踪", "category": "模板", "tags": ["线缆盘", "首尾端", "盘绕", "绑带"]},
-  "T109": {"title": "双轨密封袋轨道逐段啮合与端点对照", "category": "模板", "tags": ["密封袋", "双轨", "啮合", "端点"]},
-  "T110": {"title": "盒盖密封圈四象限入槽与接头位置对照", "category": "模板", "tags": ["密封圈", "沟槽", "入槽", "接头"]},
-  "T111": {"title": "日期章多字轮字符窗口与基准线核对", "category": "模板", "tags": ["日期章", "字轮", "字符窗口", "基准线"]},
-  "T112": {"title": "打孔器纸张基准与隐藏冲头孔位对照", "category": "模板", "tags": ["打孔器", "纸张基准", "冲头", "孔位"]},
-  "T113": {"title": "长尾夹双臂转轴与开合状态守恒", "category": "模板", "tags": ["长尾夹", "钢丝臂", "转轴", "开合"]},
-  "T114": {"title": "旋钮刻度环与固定指针逐档读数对照", "category": "模板", "tags": ["旋钮", "刻度环", "固定指针", "读数"]},
-  "T115": {"title": "裁纸刀基准挡板与刀路两侧区域归属", "category": "模板", "tags": ["裁纸刀", "基准挡板", "刀路", "区域归属"]},
-  "T116": {"title": "卷尺挂钩零点与尺带伸出状态对照", "category": "模板", "tags": ["卷尺", "挂钩零点", "尺带", "伸出状态"]},
-  "T117": {"title": "档案袋双扣盘与绕线闭合路径追踪", "category": "模板", "tags": ["档案袋", "扣盘", "绕线", "闭合路径"]},
-  "T118": {"title": "透明泵瓶吸管连续路径与喷嘴方向对照", "category": "模板", "tags": ["泵瓶", "吸管路径", "喷嘴方向", "透明包装"]},
-  "T119": {"title": "纸盒双易撕线与移除条带材料守恒", "category": "模板", "tags": ["纸盒", "易撕线", "条带", "材料守恒"]},
-  "T120": {"title": "真空泵瓶活塞高度与料体边界状态追踪", "category": "模板", "tags": ["真空泵瓶", "活塞", "料体边界", "状态追踪"]},
-  "T121": {"title": "软管尾封折层与批号阅读方向核对", "category": "模板", "tags": ["软管", "尾封", "批号", "阅读方向"]},
-  "T122": {"title": "精华滴管料柱与瓶内液面状态对应", "category": "模板", "tags": ["滴管瓶", "料柱", "液滴", "液面"]},
-  "T123": {"title": "补充袋角嘴焊接区与盖环组件归属", "category": "模板", "tags": ["补充袋", "角嘴", "焊接翼", "防拆环"]},
-  "T124": {"title": "面霜罐外盖内盖与拉片层级对照", "category": "模板", "tags": ["面霜罐", "外盖", "内盖", "拉片"]},
-  "T125": {"title": "滚珠瓶球体座圈与液面遮挡核对", "category": "模板", "tags": ["滚珠瓶", "球体", "座圈", "液面"]},
-  "T126": {"title": "旋出式膏体套筒基准与露出高度追踪", "category": "模板", "tags": ["旋出膏体", "套筒基准", "露出高度", "斜切面"]},
-  "T127": {"title": "翻盖瓶铰链塞柱与出液孔同轴核对", "category": "模板", "tags": ["翻盖瓶", "铰链", "塞柱", "出液孔"]},
-  "T128": {"title": "气垫盒镜面粉扑内盖与网面逐层清点", "category": "模板", "tags": ["气垫盒", "镜面", "粉扑", "内盖"]},
-  "T129": {"title": "连袋小包撕线边界与批号载体映射", "category": "模板", "tags": ["连袋包装", "撕线", "袋位", "批号"]},
-  "T130": {"title": "可替换内芯防转键与外壳窗口对位", "category": "模板", "tags": ["替换内芯", "防转键", "键槽", "观察窗口"]},
-  "T131": {"title": "面霜挖勺盖内卡槽与空位状态对照", "category": "模板", "tags": ["面霜挖勺", "卡槽", "空位", "回置"]},
-  "T132": {"title": "双腔泵瓶左右腔与双出口一一映射", "category": "模板", "tags": ["双腔泵瓶", "左右腔", "双出口", "通道映射"]},
+  "EC45": {
+    "title": "彩妆多色试色与膏体对照",
+    "category": "电商",
+    "tags": [
+      "美妆",
+      "色号",
+      "试色",
+      "参考图"
+    ],
+    "product_category": "美妆与玻璃包装",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "EC46": {
+    "title": "家具开合路径与空间尺寸",
+    "category": "电商",
+    "tags": [
+      "家具",
+      "尺寸",
+      "空间",
+      "开合"
+    ],
+    "product_category": "家居",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "EC47": {
+    "title": "厨具套装嵌套与配件归属",
+    "category": "电商",
+    "tags": [
+      "厨具",
+      "套装",
+      "配件",
+      "计数"
+    ],
+    "product_category": "厨具",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "EC48": {
+    "title": "小家电面板状态与配件对应",
+    "category": "电商",
+    "tags": [
+      "小家电",
+      "面板",
+      "配件",
+      "参考图"
+    ],
+    "product_category": "小家电",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "T23": {
+    "title": "成品图多处中文局部改字",
+    "category": "模板",
+    "tags": [
+      "中文",
+      "改字",
+      "局部编辑",
+      "排版"
+    ],
+    "product_category": "非商品专项",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T24": {
+    "title": "原版式中文本地化替换",
+    "category": "模板",
+    "tags": [
+      "中文",
+      "本地化",
+      "翻译",
+      "版式"
+    ],
+    "product_category": "非商品专项",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T25": {
+    "title": "线框草图驱动的图文版式",
+    "category": "模板",
+    "tags": [
+      "草图",
+      "版式",
+      "多参考图",
+      "中文"
+    ],
+    "product_category": "非商品专项",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T26": {
+    "title": "同一主视觉跨比例重排",
+    "category": "模板",
+    "tags": [
+      "比例",
+      "扩图",
+      "重排",
+      "海报"
+    ],
+    "product_category": "非商品专项",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T27": {
+    "title": "连续编辑的已验收状态锁定",
+    "category": "模板",
+    "tags": [
+      "连续编辑",
+      "状态锁定",
+      "局部修改",
+      "参考图"
+    ],
+    "product_category": "非商品专项",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T28": {
+    "title": "短中文规格对比表",
+    "category": "模板",
+    "tags": [
+      "规格表",
+      "中文",
+      "数据",
+      "对比"
+    ],
+    "product_category": "非商品专项",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "T29": {
+    "title": "实拍步骤图与短中文说明",
+    "category": "模板",
+    "tags": [
+      "步骤图",
+      "中文",
+      "流程",
+      "实拍"
+    ],
+    "product_category": "非商品专项",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "T30": {
+    "title": "系列页面跨页视觉一致性",
+    "category": "模板",
+    "tags": [
+      "跨页",
+      "母版",
+      "视觉一致",
+      "出版"
+    ],
+    "product_category": "非商品专项",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T31": {
+    "title": "多参考图冲突优先级表",
+    "category": "模板",
+    "tags": [
+      "多参考图",
+      "优先级",
+      "冲突",
+      "编辑"
+    ],
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "task": "Other Use Cases",
+    "featured": false
+  },
+  "T32": {
+    "title": "复杂中文层级海报",
+    "category": "模板",
+    "tags": [
+      "中文",
+      "层级",
+      "海报",
+      "排版"
+    ],
+    "product_category": "非商品专项",
+    "entry": "活动成片",
+    "task": "活动成片",
+    "featured": false
+  },
+  "T33": {
+    "title": "跨渠道系列视觉适配",
+    "category": "模板",
+    "tags": [
+      "渠道",
+      "品牌",
+      "系列",
+      "比例"
+    ],
+    "product_category": "非商品专项",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T34": {
+    "title": "技术标注引线防串位",
+    "category": "模板",
+    "tags": [
+      "标注",
+      "引线",
+      "信息图",
+      "结构"
+    ],
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "task": "Charts & Infographics",
+    "featured": false
+  },
+  "T35": {
+    "title": "指定元素清除与底纹修复",
+    "category": "模板",
+    "tags": [
+      "删除",
+      "局部编辑",
+      "遮罩",
+      "修复"
+    ],
+    "product_category": "非商品专项",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T36": {
+    "title": "准确日期中文时间轴",
+    "category": "模板",
+    "tags": [
+      "时间轴",
+      "日期",
+      "中文",
+      "信息图"
+    ],
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "task": "Charts & Infographics",
+    "featured": false
+  },
+  "T37": {
+    "title": "底图锚点式位置标注",
+    "category": "模板",
+    "tags": [
+      "锚点",
+      "地图",
+      "位置",
+      "标注"
+    ],
+    "product_category": "非商品专项",
+    "entry": "其他任务",
+    "task": "Charts & Infographics",
+    "featured": false
+  },
+  "G36": {
+    "title": "转角裸眼3D屏商品出框广告",
+    "category": "精选创意",
+    "tags": [
+      "裸眼3D",
+      "户外广告",
+      "商品",
+      "透视"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G37": {
+    "title": "原材料到成品的连续材质转译",
+    "category": "精选创意",
+    "tags": [
+      "材质转译",
+      "工艺",
+      "商品",
+      "概念广告"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G38": {
+    "title": "可拆装快闪店三阶段部署板",
+    "category": "精选创意",
+    "tags": [
+      "快闪店",
+      "模块",
+      "空间",
+      "品牌"
+    ],
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G39": {
+    "title": "实体投影形成品牌符号",
+    "category": "精选创意",
+    "tags": [
+      "投影",
+      "标志",
+      "负空间",
+      "品牌"
+    ],
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G40": {
+    "title": "眼镜镜片内外双场景广告",
+    "category": "精选创意",
+    "tags": [
+      "眼镜",
+      "镜片",
+      "双场景",
+      "商品"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G41": {
+    "title": "货架陈列规范与现场对照",
+    "category": "精选创意",
+    "tags": [
+      "货架",
+      "陈列",
+      "零售",
+      "对照"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "G42": {
+    "title": "真实鞋底纹路运动轨迹广告",
+    "category": "精选创意",
+    "tags": [
+      "鞋靴",
+      "鞋底",
+      "轨迹",
+      "运动"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G43": {
+    "title": "双视角光栅海报成品概念",
+    "category": "精选创意",
+    "tags": [
+      "光栅",
+      "双视角",
+      "海报",
+      "线下物料"
+    ],
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G44": {
+    "title": "反光服饰闪光前后对照广告",
+    "category": "精选创意",
+    "tags": [
+      "服饰",
+      "反光材质",
+      "对照",
+      "摄影"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G45": {
+    "title": "防拆封签完整与开启状态对照",
+    "category": "精选创意",
+    "tags": [
+      "包装",
+      "封签",
+      "状态",
+      "对照"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "G46": {
+    "title": "镭射包装多角度色移对照",
+    "category": "精选创意",
+    "tags": [
+      "包装",
+      "镭射",
+      "角度",
+      "材质"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G47": {
+    "title": "夜光表盘明暗状态序列",
+    "category": "精选创意",
+    "tags": [
+      "腕表",
+      "夜光",
+      "状态",
+      "时间"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "G48": {
+    "title": "可刮涂层揭示三状态物料",
+    "category": "精选创意",
+    "tags": [
+      "涂层",
+      "刮开",
+      "互动",
+      "物料"
+    ],
+    "product_category": "非商品专项",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G49": {
+    "title": "遇水显纹伞面干湿对照",
+    "category": "精选创意",
+    "tags": [
+      "雨伞",
+      "遇水显纹",
+      "干湿",
+      "材质"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "G50": {
+    "title": "击凸包装平光与掠射光对照",
+    "category": "精选创意",
+    "tags": [
+      "包装",
+      "击凸",
+      "掠射光",
+      "工艺"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": false
+  },
+  "G51": {
+    "title": "磁吸配件三阶段对位说明",
+    "category": "精选创意",
+    "tags": [
+      "磁吸",
+      "配件",
+      "对位",
+      "结构"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "G52": {
+    "title": "双面夹克两面穿同人对照",
+    "category": "精选创意",
+    "tags": [
+      "服饰",
+      "双面穿",
+      "人物",
+      "对照"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "G53": {
+    "title": "可转换饰品两种成品状态",
+    "category": "精选创意",
+    "tags": [
+      "饰品",
+      "组件",
+      "转换",
+      "清点"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "G54": {
+    "title": "鞋带逐孔穿线路径说明",
+    "category": "精选创意",
+    "tags": [
+      "鞋靴",
+      "鞋带",
+      "路径",
+      "步骤"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "G55": {
+    "title": "箱包肩带三档实测长度对照",
+    "category": "精选创意",
+    "tags": [
+      "箱包",
+      "肩带",
+      "长度",
+      "状态"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T38": {
+    "title": "商品参考素材职责清点板",
+    "category": "模板",
+    "tags": [
+      "素材",
+      "职责",
+      "清点",
+      "生产链"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T39": {
+    "title": "人工差异清单标注板",
+    "category": "模板",
+    "tags": [
+      "验收",
+      "差异",
+      "标注",
+      "返工"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T40": {
+    "title": "已验收主视觉渠道裁切预演板",
+    "category": "模板",
+    "tags": [
+      "裁切",
+      "安全区",
+      "渠道",
+      "预演"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T41": {
+    "title": "审定文案与上屏区域对应表",
+    "category": "模板",
+    "tags": [
+      "文案",
+      "区域",
+      "换行",
+      "定稿"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T42": {
+    "title": "商品素材版本状态交接板",
+    "category": "模板",
+    "tags": [
+      "版本",
+      "素材",
+      "状态",
+      "交接"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T43": {
+    "title": "单差异遮罩返工执行",
+    "category": "模板",
+    "tags": [
+      "返工",
+      "遮罩",
+      "单问题",
+      "锁定"
+    ],
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T44": {
+    "title": "系列成品人工锁定项核对板",
+    "category": "模板",
+    "tags": [
+      "系列",
+      "锁定项",
+      "核对",
+      "验收"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T45": {
+    "title": "失败轮次回退证据板",
+    "category": "模板",
+    "tags": [
+      "版本",
+      "失败",
+      "回退",
+      "证据"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T46": {
+    "title": "发布资产清单拼版",
+    "category": "模板",
+    "tags": [
+      "发布",
+      "资产",
+      "清单",
+      "交付"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T47": {
+    "title": "透明容器四层参考合成",
+    "category": "模板",
+    "tags": [
+      "透明",
+      "玻璃",
+      "内容物",
+      "遮挡"
+    ],
+    "product_category": "透明与反光",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T48": {
+    "title": "镜面金属允许反射清单布景",
+    "category": "模板",
+    "tags": [
+      "镜面",
+      "金属",
+      "反射",
+      "布光"
+    ],
+    "product_category": "透明与反光",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T49": {
+    "title": "宠物用品扣件闭合路径微距",
+    "category": "模板",
+    "tags": [
+      "宠物用品",
+      "扣件",
+      "步骤",
+      "微距"
+    ],
+    "product_category": "宠物用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T50": {
+    "title": "车载用品驾驶视野遮挡预演",
+    "category": "模板",
+    "tags": [
+      "汽车用品",
+      "视野",
+      "遮挡",
+      "预演"
+    ],
+    "product_category": "汽车用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T51": {
+    "title": "笔杆与替芯装配链对照",
+    "category": "模板",
+    "tags": [
+      "文具",
+      "替芯",
+      "装配",
+      "兼容"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T52": {
+    "title": "拼装玩具分袋与检查点追踪",
+    "category": "模板",
+    "tags": [
+      "玩具",
+      "分袋",
+      "组件",
+      "检查点"
+    ],
+    "product_category": "收藏玩具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T53": {
+    "title": "五金孔位模板重合预演",
+    "category": "模板",
+    "tags": [
+      "五金",
+      "孔位",
+      "模板",
+      "预演"
+    ],
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T54": {
+    "title": "帐篷风绳与地钉拓扑图",
+    "category": "模板",
+    "tags": [
+      "户外",
+      "帐篷",
+      "风绳",
+      "拓扑"
+    ],
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T55": {
+    "title": "珠宝镶口四方位旋转对照",
+    "category": "模板",
+    "tags": [
+      "珠宝",
+      "镶爪",
+      "方位",
+      "微距"
+    ],
+    "product_category": "饰品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T56": {
+    "title": "食品整品与真实切面身份对应",
+    "category": "模板",
+    "tags": [
+      "食品",
+      "切面",
+      "层次",
+      "身份"
+    ],
+    "product_category": "食品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T57": {
+    "title": "纺织跨裁片纹样对花核对",
+    "category": "模板",
+    "tags": [
+      "纺织",
+      "对花",
+      "接缝",
+      "核对"
+    ],
+    "product_category": "纺织品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T58": {
+    "title": "多轮成品属性证据继承矩阵",
+    "category": "模板",
+    "tags": [
+      "证据",
+      "继承",
+      "版本",
+      "属性"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T59": {
+    "title": "软包装真实充填形变对照",
+    "category": "模板",
+    "tags": [
+      "软包装",
+      "充填",
+      "褶皱",
+      "形变"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T60": {
+    "title": "纸盒刀模与成盒面位映射",
+    "category": "模板",
+    "tags": [
+      "包装",
+      "刀模",
+      "面位",
+      "映射"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T61": {
+    "title": "货架价签与商品遮挡预演",
+    "category": "模板",
+    "tags": [
+      "货架",
+      "价签",
+      "遮挡",
+      "预演"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T62": {
+    "title": "精密防呆接口方向与到位标记对照",
+    "category": "模板",
+    "tags": [
+      "接口",
+      "防呆",
+      "方向",
+      "到位"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T63": {
+    "title": "冷冻食品三时点表面状态记录",
+    "category": "模板",
+    "tags": [
+      "食品",
+      "冷冻",
+      "时点",
+      "状态"
+    ],
+    "product_category": "食品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T64": {
+    "title": "卷材展开曲率与边缘回卷对照",
+    "category": "模板",
+    "tags": [
+      "卷材",
+      "曲率",
+      "边缘",
+      "回卷"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T65": {
+    "title": "线下吊旗吊点与成品方向映射",
+    "category": "模板",
+    "tags": [
+      "吊旗",
+      "吊点",
+      "方向",
+      "线下物料"
+    ],
+    "product_category": "文创",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T66": {
+    "title": "螺纹旋合起扣与落座间隙对照",
+    "category": "模板",
+    "tags": [
+      "螺纹",
+      "旋合",
+      "起扣",
+      "间隙"
+    ],
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T67": {
+    "title": "贴标基准与局部气泡返工标注",
+    "category": "模板",
+    "tags": [
+      "贴标",
+      "基准",
+      "气泡",
+      "返工"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T68": {
+    "title": "食品分层装配顺序与用料守恒",
+    "category": "模板",
+    "tags": [
+      "食品",
+      "分层",
+      "顺序",
+      "守恒"
+    ],
+    "product_category": "食品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T69": {
+    "title": "实体折页面板与阅读方向映射",
+    "category": "模板",
+    "tags": [
+      "折页",
+      "面板",
+      "阅读方向",
+      "印刷物料"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T70": {
+    "title": "按压泵头锁止方向与回弹高度对照",
+    "category": "模板",
+    "tags": [
+      "泵头",
+      "锁止",
+      "回弹",
+      "包装"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T71": {
+    "title": "透明保护膜撕除边界与基材保护对照",
+    "category": "模板",
+    "tags": [
+      "保护膜",
+      "撕除",
+      "边界",
+      "表面"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T72": {
+    "title": "冲泡粉体四时点分散状态记录",
+    "category": "模板",
+    "tags": [
+      "粉体",
+      "冲泡",
+      "时点",
+      "分散"
+    ],
+    "product_category": "食品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T73": {
+    "title": "吸塑泡壳腔位与背卡方向映射",
+    "category": "模板",
+    "tags": [
+      "吸塑",
+      "泡壳",
+      "背卡",
+      "腔位"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T74": {
+    "title": "弹片卡扣锁止窗口与到位标记对照",
+    "category": "模板",
+    "tags": [
+      "卡扣",
+      "弹片",
+      "锁止窗口",
+      "到位"
+    ],
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T75": {
+    "title": "起绒面料顺逆毛四方向光泽对照",
+    "category": "模板",
+    "tags": [
+      "起绒面料",
+      "毛向",
+      "光泽",
+      "方向"
+    ],
+    "product_category": "纺织品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T76": {
+    "title": "可拆服装内胆结合点与左右归属映射",
+    "category": "模板",
+    "tags": [
+      "服装",
+      "内胆",
+      "结合点",
+      "左右"
+    ],
+    "product_category": "服装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T77": {
+    "title": "卷轴海报出画边界与底座方向对照",
+    "category": "模板",
+    "tags": [
+      "卷轴海报",
+      "出画边界",
+      "底座",
+      "线下物料"
+    ],
+    "product_category": "文创",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T78": {
+    "title": "卷装标签出纸方向与首张定位对照",
+    "category": "模板",
+    "tags": [
+      "卷装标签",
+      "出纸方向",
+      "首张",
+      "办公耗材"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T79": {
+    "title": "纸箱封箱胶带路径与接缝覆盖映射",
+    "category": "模板",
+    "tags": [
+      "纸箱",
+      "封箱胶带",
+      "路径",
+      "物流包装"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T80": {
+    "title": "可拆拖布结合点与边角包覆映射",
+    "category": "模板",
+    "tags": [
+      "拖布",
+      "结合点",
+      "包角",
+      "清洁用品"
+    ],
+    "product_category": "清洁用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T81": {
+    "title": "冷热敷袋内袋与外套装入方向对照",
+    "category": "模板",
+    "tags": [
+      "冷热敷袋",
+      "内袋",
+      "布套",
+      "护理用品"
+    ],
+    "product_category": "护理用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T82": {
+    "title": "订书机钉条方向与余量窗口对照",
+    "category": "模板",
+    "tags": [
+      "订书机",
+      "钉条",
+      "余量窗口",
+      "办公耗材"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T83": {
+    "title": "托盘护角与打包带交叉路径映射",
+    "category": "模板",
+    "tags": [
+      "托盘",
+      "护角",
+      "打包带",
+      "物流包装"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T84": {
+    "title": "扫地机左右边刷孔位与旋向归属对照",
+    "category": "模板",
+    "tags": [
+      "扫地机",
+      "边刷",
+      "孔位",
+      "左右"
+    ],
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T85": {
+    "title": "骑马钉册页页码与实体跨页顺序核对",
+    "category": "模板",
+    "tags": [
+      "骑马钉",
+      "册页",
+      "页码",
+      "出版物"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T86": {
+    "title": "打印耗材保护件拆除顺序与数量守恒",
+    "category": "模板",
+    "tags": [
+      "打印耗材",
+      "保护件",
+      "顺序",
+      "守恒"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T87": {
+    "title": "蜂窝纸缓冲角接触面与箱角方向映射",
+    "category": "模板",
+    "tags": [
+      "蜂窝纸",
+      "缓冲角",
+      "箱角",
+      "物流包装"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T88": {
+    "title": "清洁剂量杯刻度与人工液位记录",
+    "category": "模板",
+    "tags": [
+      "量杯",
+      "刻度",
+      "液位",
+      "清洁用品"
+    ],
+    "product_category": "清洁用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T89": {
+    "title": "机身外箱保修卡序列号逐字符核对",
+    "category": "模板",
+    "tags": [
+      "序列号",
+      "逐字符",
+      "隐私",
+      "交付核对"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T90": {
+    "title": "退货快递袋双封条与撕口路径对照",
+    "category": "模板",
+    "tags": [
+      "退货袋",
+      "双封条",
+      "撕口",
+      "物流包装"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T91": {
+    "title": "气柱缓冲袋腔体编号与充气边界对照",
+    "category": "模板",
+    "tags": [
+      "气柱袋",
+      "腔体",
+      "充气边界",
+      "缓冲包装"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T92": {
+    "title": "除尘滚筒耗材层号与撕纸断点追踪",
+    "category": "模板",
+    "tags": [
+      "除尘滚筒",
+      "层号",
+      "撕纸",
+      "清洁耗材"
+    ],
+    "product_category": "清洁用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T93": {
+    "title": "纸袋提绳穿孔与内外绳结归属映射",
+    "category": "模板",
+    "tags": [
+      "纸袋",
+      "提绳",
+      "穿孔",
+      "绳结"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T94": {
+    "title": "独立创可贴袋片数与批号载体守恒",
+    "category": "模板",
+    "tags": [
+      "创可贴",
+      "独立袋",
+      "片数",
+      "批号"
+    ],
+    "product_category": "护理用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T95": {
+    "title": "修正带供带回收带路与余量窗对照",
+    "category": "模板",
+    "tags": [
+      "修正带",
+      "带路",
+      "余量窗",
+      "办公耗材"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T96": {
+    "title": "物流面单母联子联与撕线归属映射",
+    "category": "模板",
+    "tags": [
+      "物流面单",
+      "母联子联",
+      "撕线",
+      "隐私"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T97": {
+    "title": "活页索引签与实体分页归属核对",
+    "category": "模板",
+    "tags": [
+      "活页册",
+      "索引签",
+      "分页",
+      "实体出版"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T98": {
+    "title": "平面口罩内外面与耳带焊点归属对照",
+    "category": "模板",
+    "tags": [
+      "口罩",
+      "内外面",
+      "耳带",
+      "焊点"
+    ],
+    "product_category": "护理用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T99": {
+    "title": "托盘缠绕膜起止边与标签窗口追踪",
+    "category": "模板",
+    "tags": [
+      "托盘",
+      "缠绕膜",
+      "起止边",
+      "标签窗口"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T100": {
+    "title": "魔术贴束线带穿孔与搭接面路径映射",
+    "category": "模板",
+    "tags": [
+      "束线带",
+      "穿孔",
+      "搭接面",
+      "线束"
+    ],
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T101": {
+    "title": "三联单据书写区与压痕跨联归属核对",
+    "category": "模板",
+    "tags": [
+      "三联单",
+      "压痕",
+      "书写区",
+      "实体单据"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T102": {
+    "title": "贴片分区离型纸与导线出口归属对照",
+    "category": "模板",
+    "tags": [
+      "贴片",
+      "离型纸",
+      "分区",
+      "导线出口"
+    ],
+    "product_category": "护理用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T103": {
+    "title": "折叠周转箱面板铰接与锁扣状态追踪",
+    "category": "模板",
+    "tags": [
+      "周转箱",
+      "面板",
+      "铰接",
+      "锁扣"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T104": {
+    "title": "仓位码跨货架料箱与拣货单逐位映射",
+    "category": "模板",
+    "tags": [
+      "仓位码",
+      "货架",
+      "料箱",
+      "拣货单"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T105": {
+    "title": "瓶盖防拆环连接桥周向断开归属图",
+    "category": "模板",
+    "tags": [
+      "瓶盖",
+      "防拆环",
+      "连接桥",
+      "断点"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T106": {
+    "title": "瓦楞隔板插槽互锁与格口数量守恒",
+    "category": "模板",
+    "tags": [
+      "瓦楞隔板",
+      "插槽",
+      "互锁",
+      "格口"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T107": {
+    "title": "线缆旗形标签包裹区与双面阅读方向映射",
+    "category": "模板",
+    "tags": [
+      "线缆标签",
+      "旗形标签",
+      "双面",
+      "阅读方向"
+    ],
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T108": {
+    "title": "线缆盘首尾端与绑带固定点追踪",
+    "category": "模板",
+    "tags": [
+      "线缆盘",
+      "首尾端",
+      "盘绕",
+      "绑带"
+    ],
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T109": {
+    "title": "双轨密封袋轨道逐段啮合与端点对照",
+    "category": "模板",
+    "tags": [
+      "密封袋",
+      "双轨",
+      "啮合",
+      "端点"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T110": {
+    "title": "盒盖密封圈四象限入槽与接头位置对照",
+    "category": "模板",
+    "tags": [
+      "密封圈",
+      "沟槽",
+      "入槽",
+      "接头"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T111": {
+    "title": "日期章多字轮字符窗口与基准线核对",
+    "category": "模板",
+    "tags": [
+      "日期章",
+      "字轮",
+      "字符窗口",
+      "基准线"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T112": {
+    "title": "打孔器纸张基准与隐藏冲头孔位对照",
+    "category": "模板",
+    "tags": [
+      "打孔器",
+      "纸张基准",
+      "冲头",
+      "孔位"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T113": {
+    "title": "长尾夹双臂转轴与开合状态守恒",
+    "category": "模板",
+    "tags": [
+      "长尾夹",
+      "钢丝臂",
+      "转轴",
+      "开合"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T114": {
+    "title": "旋钮刻度环与固定指针逐档读数对照",
+    "category": "模板",
+    "tags": [
+      "旋钮",
+      "刻度环",
+      "固定指针",
+      "读数"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T115": {
+    "title": "裁纸刀基准挡板与刀路两侧区域归属",
+    "category": "模板",
+    "tags": [
+      "裁纸刀",
+      "基准挡板",
+      "刀路",
+      "区域归属"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T116": {
+    "title": "卷尺挂钩零点与尺带伸出状态对照",
+    "category": "模板",
+    "tags": [
+      "卷尺",
+      "挂钩零点",
+      "尺带",
+      "伸出状态"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T117": {
+    "title": "档案袋双扣盘与绕线闭合路径追踪",
+    "category": "模板",
+    "tags": [
+      "档案袋",
+      "扣盘",
+      "绕线",
+      "闭合路径"
+    ],
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T118": {
+    "title": "透明泵瓶吸管连续路径与喷嘴方向对照",
+    "category": "模板",
+    "tags": [
+      "泵瓶",
+      "吸管路径",
+      "喷嘴方向",
+      "透明包装"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T119": {
+    "title": "纸盒双易撕线与移除条带材料守恒",
+    "category": "模板",
+    "tags": [
+      "纸盒",
+      "易撕线",
+      "条带",
+      "材料守恒"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T120": {
+    "title": "真空泵瓶活塞高度与料体边界状态追踪",
+    "category": "模板",
+    "tags": [
+      "真空泵瓶",
+      "活塞",
+      "料体边界",
+      "状态追踪"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T121": {
+    "title": "软管尾封折层与批号阅读方向核对",
+    "category": "模板",
+    "tags": [
+      "软管",
+      "尾封",
+      "批号",
+      "阅读方向"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T122": {
+    "title": "精华滴管料柱与瓶内液面状态对应",
+    "category": "模板",
+    "tags": [
+      "滴管瓶",
+      "料柱",
+      "液滴",
+      "液面"
+    ],
+    "product_category": "美妆与玻璃包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T123": {
+    "title": "补充袋角嘴焊接区与盖环组件归属",
+    "category": "模板",
+    "tags": [
+      "补充袋",
+      "角嘴",
+      "焊接翼",
+      "防拆环"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T124": {
+    "title": "面霜罐外盖内盖与拉片层级对照",
+    "category": "模板",
+    "tags": [
+      "面霜罐",
+      "外盖",
+      "内盖",
+      "拉片"
+    ],
+    "product_category": "美妆与玻璃包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T125": {
+    "title": "滚珠瓶球体座圈与液面遮挡核对",
+    "category": "模板",
+    "tags": [
+      "滚珠瓶",
+      "球体",
+      "座圈",
+      "液面"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T126": {
+    "title": "旋出式膏体套筒基准与露出高度追踪",
+    "category": "模板",
+    "tags": [
+      "旋出膏体",
+      "套筒基准",
+      "露出高度",
+      "斜切面"
+    ],
+    "product_category": "美妆与玻璃包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T127": {
+    "title": "翻盖瓶铰链塞柱与出液孔同轴核对",
+    "category": "模板",
+    "tags": [
+      "翻盖瓶",
+      "铰链",
+      "塞柱",
+      "出液孔"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T128": {
+    "title": "气垫盒镜面粉扑内盖与网面逐层清点",
+    "category": "模板",
+    "tags": [
+      "气垫盒",
+      "镜面",
+      "粉扑",
+      "内盖"
+    ],
+    "product_category": "美妆与玻璃包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T129": {
+    "title": "连袋小包撕线边界与批号载体映射",
+    "category": "模板",
+    "tags": [
+      "连袋包装",
+      "撕线",
+      "袋位",
+      "批号"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T130": {
+    "title": "可替换内芯防转键与外壳窗口对位",
+    "category": "模板",
+    "tags": [
+      "替换内芯",
+      "防转键",
+      "键槽",
+      "观察窗口"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T131": {
+    "title": "面霜挖勺盖内卡槽与空位状态对照",
+    "category": "模板",
+    "tags": [
+      "面霜挖勺",
+      "卡槽",
+      "空位",
+      "回置"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T132": {
+    "title": "双腔泵瓶左右腔与双出口一一映射",
+    "category": "模板",
+    "tags": [
+      "双腔泵瓶",
+      "左右腔",
+      "双出口",
+      "通道映射"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
   "T133": {
     "title": "睫毛膏刷杆刮口与料痕边界对照",
     "category": "模板",
@@ -817,7 +2882,11 @@
       "刷杆",
       "刮料内塞",
       "料痕"
-    ]
+    ],
+    "product_category": "美妆与玻璃包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T134": {
     "title": "散粉罐旋转筛孔与封闭扇区对位",
@@ -827,7 +2896,11 @@
       "旋转筛片",
       "孔阵",
       "开闭扇区"
-    ]
+    ],
+    "product_category": "美妆与玻璃包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T135": {
     "title": "美容胶囊泡罩腔位与背箔编号守恒",
@@ -837,7 +2910,11 @@
       "泡罩腔位",
       "背箔编号",
       "空腔"
-    ]
+    ],
+    "product_category": "美妆与玻璃包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T136": {
     "title": "旅行分装瓶盖色标签与托槽一一映射",
@@ -847,7 +2924,11 @@
       "盖色",
       "标签",
       "托槽"
-    ]
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T137": {
     "title": "喷雾按头锁夹与喷口方向状态对照",
@@ -857,7 +2938,11 @@
       "锁夹",
       "喷口方向",
       "按压状态"
-    ]
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T138": {
     "title": "连接器防尘帽端口归属与停放位对照",
@@ -867,7 +2952,11 @@
       "防尘帽",
       "系带",
       "停放位"
-    ]
+    ],
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T139": {
     "title": "五金分格盘规格标签与实物逐格映射",
@@ -877,7 +2966,11 @@
       "分格盘",
       "规格标签",
       "数量"
-    ]
+    ],
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T140": {
     "title": "纸箱提手冲孔翻片与材料去向对照",
@@ -887,7 +2980,11 @@
       "冲孔",
       "翻片",
       "材料守恒"
-    ]
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T141": {
     "title": "湿巾翻盖内封与首抽片穿口对照",
@@ -897,7 +2994,11 @@
       "翻盖",
       "内封膜",
       "首抽片"
-    ]
+    ],
+    "product_category": "清洁用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T142": {
     "title": "片装标签离型格位与移除空位守恒",
@@ -907,7 +3008,11 @@
       "离型底纸",
       "格位",
       "空位"
-    ]
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T143": {
     "title": "双抽绳袋出口止绳扣与尾端路径映射",
@@ -917,7 +3022,11 @@
       "双绳",
       "出口",
       "止绳扣"
-    ]
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T144": {
     "title": "抽取式纸巾当前片与下一片首端继承",
@@ -927,7 +3036,11 @@
       "交错搭接",
       "下一片首端",
       "盒口"
-    ]
+    ],
+    "product_category": "清洁用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
   "T145": {
     "title": "抽屉式包装内托滑移与止挡边界对照",
@@ -937,74 +3050,2234 @@
       "内托",
       "拉片",
       "止挡"
-    ]
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
   },
-  "T146": {"title":"书型礼盒双限位带与开盖角度对照","category":"模板","tags":["书型礼盒","限位带","铰接","开盖角度"]},
-  "T147": {"title":"风琴侧褶包装展开层序与底角归属对照","category":"模板","tags":["风琴侧褶","峰谷线","底角","层序"]},
-  "T148": {"title":"可揭回贴袋口标签与开窗复位对照","category":"模板","tags":["回贴标签","永久连接区","袋口开窗","复位"]},
-  "T149":{"title":"拉链袋双牙链滑块与端止点路径对照","category":"模板","tags":["拉链袋","双牙链","滑块","端止点"]},
-  "T150":{"title":"礼盒提拉带绕底抬升与商品归位对照","category":"模板","tags":["礼盒","提拉带","绕底","抬升"]},
-  "T151":{"title":"插舌纸盒多层盖片闭合顺序与槽口归属","category":"模板","tags":["插舌纸盒","防尘翼","盖片层序","槽口"]},
-  "T152":{"title":"按压旋转瓶盖双动作标记与状态对照","category":"模板","tags":["按压旋转盖","双动作","标记对位","轴向状态"]},
-  "T153":{"title":"瓶口封膜盖内垫片与揭除载体归属对照","category":"模板","tags":["瓶口封膜","盖内垫片","拉片","载体归属"]},
-  "T154":{"title":"圆柱环绕标签首尾接缝与图文连续核对","category":"模板","tags":["圆柱标签","首尾接缝","环绕图文","四方位"]},
-  "T155":{"title":"纸盒粘合舌内外接缝与印刷禁区映射","category":"模板","tags":["纸盒","粘合舌","内外接缝","印刷禁区"]},
-  "T156":{"title":"包装挂孔加强片双层孔位与边界对照","category":"模板","tags":["挂孔","加强片","双层孔位","背卡"]},
-  "T157":{"title":"货架展示箱撕除面板与保留前唇材料守恒","category":"模板","tags":["展示箱","易撕面板","桥点","前唇"]},
-  "T158":{"title":"仓储料箱隔板导轨槽位与分区标签映射","category":"模板","tags":["仓储料箱","隔板","导轨槽位","分区标签"]},
-  "T159":{"title":"周转筐同向堆叠与反向套叠承接点对照","category":"模板","tags":["周转筐","堆叠","套叠","承接点"]},
-  "T160":{"title":"伸缩拉杆按钮孔位与套管级次状态对照","category":"模板","tags":["伸缩拉杆","套管级次","按钮","孔位"]},
-  "T161":{"title":"料箱透明卡套纸卡插入与可读窗口对照","category":"模板","tags":["料箱","透明卡套","纸卡","可读窗口"]},
-  "T162":{"title":"托盘箱可拆角柱插座与顶帽逐角归属","category":"模板","tags":["托盘箱","角柱","插座","顶帽"]},
-  "T163":{"title":"仓储网车层板四角挂钩与同高孔列映射","category":"模板","tags":["仓储网车","层板","四角挂钩","孔列"]},
-  "T164":{"title":"仓储脚轮叉架转向与制动踏板状态对照","category":"模板","tags":["仓储脚轮","叉架","轮体","制动踏板"]},
-  "T165":{"title":"仓储网车安全链固定端脱钩端与跨口状态","category":"模板","tags":["仓储网车","安全链","挂钩","跨口"]},
-  "T166":{"title":"立体包装正侧顶三面中文局部改字锁定","category":"模板","tags":["中文改字","立体包装","多面遮罩","透视"]},
-  "T167":{"title":"仓储网车双门铰链转轴与中央锁扣对合","category":"模板","tags":["仓储网车","双门","铰链","锁扣"]},
-  "T168":{"title":"棘轮绑带穿轴回折与余带路径状态对照","category":"模板","tags":["棘轮绑带","连续路径","卷轴","余带"]},
-  "T169":{"title":"包装密集表格单元格局部改字与网格保护","category":"模板","tags":["中文改字","包装表格","单元格","网格保护"]},
-  "T170":{"title":"仓储牵引杆铰轴插销与停放卡位状态对照","category":"模板","tags":["仓储牵引杆","铰轴","插销","停放卡位"]},
-  "T171":{"title":"透明反印标签正反层局部中文改字锁定","category":"模板","tags":["透明标签","反印","中文改字","白墨层"]},
-  "T172":{"title":"烫金包装标题局部改字与金属高光继承","category":"模板","tags":["烫金包装","中文改字","金属高光","压痕"]},
-  "T173":{"title":"仓储料架横梁端钩与双侧安全销归属核对","category":"模板","tags":["仓储料架","横梁","端钩","安全销"]},
-  "T174":{"title":"笼车折叠层板铰边支撑臂与停靠扣状态对照","category":"模板","tags":["笼车层板","折叠","支撑臂","停靠扣"]},
-  "T175":{"title":"纸箱塑料提手双端穿孔与内侧锁片归属映射","category":"模板","tags":["纸箱提手","穿孔","内锁片","端点"]},
-  "T176":{"title":"磨砂半透明瓶身局部中文改字与雾度继承","category":"模板","tags":["磨砂瓶","中文改字","半透明","雾度"]},
-  "T177":{"title":"圆柱包装跨接缝中文标题局部改字与分段透视","category":"模板","tags":["圆柱包装","跨接缝","中文改字","曲率"]},
-  "T178":{"title":"仓储台车可拆扶手双插管与弹簧按钮同步对位","category":"模板","tags":["仓储台车","可拆扶手","双插管","弹簧按钮"]},
-  "T179":{"title":"玻璃瓶直接丝印中文局部改字与折射高光继承","category":"模板","tags":["玻璃瓶","丝印","中文改字","折射"]},
-  "T180":{"title":"软包装尾封喷码局部改字与褶皱透视继承","category":"模板","tags":["软包装","尾封喷码","中文改字","褶皱"]},
-  "T181":{"title":"瓶身收缩套标纵向接缝与横向易撕线交点追踪","category":"模板","tags":["收缩套标","纵向接缝","易撕线","膜层"]},
-  "T182":{"title":"双层揭开标签上层开窗与下层字段对应核对","category":"模板","tags":["双层标签","揭开层","开窗","字段对应"]},
-  "T183":{"title":"包装盲文点阵单元局部修正与压凸光影继承","category":"模板","tags":["包装盲文","点阵","局部修正","压凸"]},
-  "T184":{"title":"阳极氧化金属激光蚀刻型号局部改字与纹理继承","category":"模板","tags":["阳极氧化金属","激光蚀刻","型号改字","拉丝"]},
-  "T185":{"title":"服装织唛单行中文改字与经纬纱结构继承","category":"模板","tags":["服装织唛","中文改字","经纬纱","织造"]},
-  "T186":{"title":"皮革压凹标题局部改字与皮纹形变继承","category":"模板","tags":["皮革","压凹","中文改字","皮纹"]},
-  "T187":{"title":"瓦楞纸箱喷墨中文局部改字与纸纤维渗边继承","category":"模板","tags":["瓦楞纸箱","喷墨改字","纸纤维","折线"]},
-  "T188":{"title":"陶瓷釉上贴花中文局部改字与釉面反光继承","category":"模板","tags":["陶瓷","釉上贴花","中文改字","釉面反光"]},
-  "T189":{"title":"木质包装激光灼刻标题局部改字与木纹贯穿继承","category":"模板","tags":["木质包装","激光灼刻","中文改字","木纹"]},
-  "T190":{"title":"模压橡胶凸字局部改字与一体圆角继承","category":"模板","tags":["模压橡胶","凸字","中文改字","圆角"]},
-  "T191":{"title":"刺绣贴布中文局部改字与针路层次继承","category":"模板","tags":["刺绣贴布","中文改字","针路","底布"]},
-  "T192":{"title":"反光热转印膜中文局部改字与闪光双状态继承","category":"模板","tags":["反光膜","热转印","中文改字","闪光对照"]},
-  "T193":{"title":"透明亚克力内部激光字局部改字与体内散射继承","category":"模板","task":"局部编辑","product_category":"透明与反光","tags":["透明亚克力","内部激光字","中文改字","体内散射"]},
-  "T194":{"title":"注塑塑料凹字局部改字与流痕光泽继承","category":"模板","task":"局部编辑","product_category":"包装","tags":["注塑塑料","凹字","中文改字","流痕光泽"]},
-  "T195":{"title":"植绒热转印中文局部改字与绒毛倒伏继承","category":"模板","task":"局部编辑","product_category":"纺织品","tags":["植绒热转印","中文改字","绒毛倒伏","织物"]},
-  "T196":{"title":"金属凹槽填漆字局部改字与漆面弯月边继承","category":"模板","task":"局部编辑","product_category":"通用品类","tags":["金属凹槽","填漆字","中文改字","漆面弯月边"]},
-  "T197":{"title":"全息转印箔中文局部改字与双角度虹彩继承","category":"模板","task":"局部编辑","product_category":"透明与反光","tags":["全息转印箔","中文改字","虹彩","双角度"]},
-  "EC49":{"title":"搜索列表主图主体占比与缩略图可读性","category":"电商","tags":["搜索主图","主体占比","安全区","缩略图"]},
-  "EC50":{"title":"详情页首屏标题商品与利益点三层动线","category":"电商","tags":["详情首屏","阅读动线","单利益点","中文排版"]},
-  "EC51":{"title":"单商品换背景与边缘反射冻结","category":"电商","tags":["换背景","商品保护区","透明边缘","局部编辑"]},
-  "EC52":{"title":"活动主视觉商品价格与行动区四层排版","category":"电商","tags":["活动主视觉","价格","行动区","四层排版"]},
-  "EC53":{"title":"商品、模特与氛围三参考图职责绑定","category":"电商","tags":["三参考图","模特展示","箱包","职责绑定"]},
-  "EC54":{"title":"数码主机、屏幕截图与配件清单一页对应","category":"电商","tags":["数码","屏幕截图","配件清单","详情图"]},
-  "T410":{"title":"同一电商成片单变量返工与保留清单","category":"模板","tags":["电商返工","单变量","保留清单","一致性"]},
-  "EC55":{"title":"食品包装三证据区：白底、配料语境与成品场景","category":"电商","tags":["食品饮料","三段详情","包装一致性","场景证据"]},
-  "EC56":{"title":"配料丰盛构图与包装垂直阅读通道","category":"电商","tags":["食品饮料","配料环绕","垂直通道","标签可读"]},
-  "G56":{"title":"童鞋巨物比例欢乐广告","category":"创意","tags":["童鞋广告","巨物比例","儿童模特","安全区"]},
-  "EC57":{"title":"三口味系列主次陈列与身份隔离","category":"电商","tags":["系列选款","三口味","商品身份","主次陈列"]},
-  "EC58":{"title":"腕表右侧主视觉与左侧短文案广告","category":"电商","tags":["腕表","短文案","左右分区","广告"]},
-  "G57":{"title":"商品跨出广告牌内框的立体主视觉","category":"创意","tags":["广告牌","出框","接触阴影","空间关系"]},
-  "EC59":{"title":"整套参考图保版式逐张换入新商品","category":"电商","tags":["批量换品","版式保护","商品身份","Listing"]},
-  "EC60":{"title":"整套Listing保版式逐图本地化","category":"电商","tags":["跨境本地化","批量翻译","版式保护","审定译文"]},
-  "EC61":{"title":"商品环绕动图的十六帧连续源图","category":"电商","tags":["商品动图","十六帧","连续源图","多角度"]}
+  "T146": {
+    "title": "书型礼盒双限位带与开盖角度对照",
+    "category": "模板",
+    "tags": [
+      "书型礼盒",
+      "限位带",
+      "铰接",
+      "开盖角度"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T147": {
+    "title": "风琴侧褶包装展开层序与底角归属对照",
+    "category": "模板",
+    "tags": [
+      "风琴侧褶",
+      "峰谷线",
+      "底角",
+      "层序"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T148": {
+    "title": "可揭回贴袋口标签与开窗复位对照",
+    "category": "模板",
+    "tags": [
+      "回贴标签",
+      "永久连接区",
+      "袋口开窗",
+      "复位"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T149": {
+    "title": "拉链袋双牙链滑块与端止点路径对照",
+    "category": "模板",
+    "tags": [
+      "拉链袋",
+      "双牙链",
+      "滑块",
+      "端止点"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T150": {
+    "title": "礼盒提拉带绕底抬升与商品归位对照",
+    "category": "模板",
+    "tags": [
+      "礼盒",
+      "提拉带",
+      "绕底",
+      "抬升"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T151": {
+    "title": "插舌纸盒多层盖片闭合顺序与槽口归属",
+    "category": "模板",
+    "tags": [
+      "插舌纸盒",
+      "防尘翼",
+      "盖片层序",
+      "槽口"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T152": {
+    "title": "按压旋转瓶盖双动作标记与状态对照",
+    "category": "模板",
+    "tags": [
+      "按压旋转盖",
+      "双动作",
+      "标记对位",
+      "轴向状态"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T153": {
+    "title": "瓶口封膜盖内垫片与揭除载体归属对照",
+    "category": "模板",
+    "tags": [
+      "瓶口封膜",
+      "盖内垫片",
+      "拉片",
+      "载体归属"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T154": {
+    "title": "圆柱环绕标签首尾接缝与图文连续核对",
+    "category": "模板",
+    "tags": [
+      "圆柱标签",
+      "首尾接缝",
+      "环绕图文",
+      "四方位"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T155": {
+    "title": "纸盒粘合舌内外接缝与印刷禁区映射",
+    "category": "模板",
+    "tags": [
+      "纸盒",
+      "粘合舌",
+      "内外接缝",
+      "印刷禁区"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T156": {
+    "title": "包装挂孔加强片双层孔位与边界对照",
+    "category": "模板",
+    "tags": [
+      "挂孔",
+      "加强片",
+      "双层孔位",
+      "背卡"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T157": {
+    "title": "货架展示箱撕除面板与保留前唇材料守恒",
+    "category": "模板",
+    "tags": [
+      "展示箱",
+      "易撕面板",
+      "桥点",
+      "前唇"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T158": {
+    "title": "仓储料箱隔板导轨槽位与分区标签映射",
+    "category": "模板",
+    "tags": [
+      "仓储料箱",
+      "隔板",
+      "导轨槽位",
+      "分区标签"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T159": {
+    "title": "周转筐同向堆叠与反向套叠承接点对照",
+    "category": "模板",
+    "tags": [
+      "周转筐",
+      "堆叠",
+      "套叠",
+      "承接点"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T160": {
+    "title": "伸缩拉杆按钮孔位与套管级次状态对照",
+    "category": "模板",
+    "tags": [
+      "伸缩拉杆",
+      "套管级次",
+      "按钮",
+      "孔位"
+    ],
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T161": {
+    "title": "料箱透明卡套纸卡插入与可读窗口对照",
+    "category": "模板",
+    "tags": [
+      "料箱",
+      "透明卡套",
+      "纸卡",
+      "可读窗口"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T162": {
+    "title": "托盘箱可拆角柱插座与顶帽逐角归属",
+    "category": "模板",
+    "tags": [
+      "托盘箱",
+      "角柱",
+      "插座",
+      "顶帽"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T163": {
+    "title": "仓储网车层板四角挂钩与同高孔列映射",
+    "category": "模板",
+    "tags": [
+      "仓储网车",
+      "层板",
+      "四角挂钩",
+      "孔列"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T164": {
+    "title": "仓储脚轮叉架转向与制动踏板状态对照",
+    "category": "模板",
+    "tags": [
+      "仓储脚轮",
+      "叉架",
+      "轮体",
+      "制动踏板"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T165": {
+    "title": "仓储网车安全链固定端脱钩端与跨口状态",
+    "category": "模板",
+    "tags": [
+      "仓储网车",
+      "安全链",
+      "挂钩",
+      "跨口"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T166": {
+    "title": "立体包装正侧顶三面中文局部改字锁定",
+    "category": "模板",
+    "tags": [
+      "中文改字",
+      "立体包装",
+      "多面遮罩",
+      "透视"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T167": {
+    "title": "仓储网车双门铰链转轴与中央锁扣对合",
+    "category": "模板",
+    "tags": [
+      "仓储网车",
+      "双门",
+      "铰链",
+      "锁扣"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T168": {
+    "title": "棘轮绑带穿轴回折与余带路径状态对照",
+    "category": "模板",
+    "tags": [
+      "棘轮绑带",
+      "连续路径",
+      "卷轴",
+      "余带"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T169": {
+    "title": "包装密集表格单元格局部改字与网格保护",
+    "category": "模板",
+    "tags": [
+      "中文改字",
+      "包装表格",
+      "单元格",
+      "网格保护"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T170": {
+    "title": "仓储牵引杆铰轴插销与停放卡位状态对照",
+    "category": "模板",
+    "tags": [
+      "仓储牵引杆",
+      "铰轴",
+      "插销",
+      "停放卡位"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T171": {
+    "title": "透明反印标签正反层局部中文改字锁定",
+    "category": "模板",
+    "tags": [
+      "透明标签",
+      "反印",
+      "中文改字",
+      "白墨层"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T172": {
+    "title": "烫金包装标题局部改字与金属高光继承",
+    "category": "模板",
+    "tags": [
+      "烫金包装",
+      "中文改字",
+      "金属高光",
+      "压痕"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T173": {
+    "title": "仓储料架横梁端钩与双侧安全销归属核对",
+    "category": "模板",
+    "tags": [
+      "仓储料架",
+      "横梁",
+      "端钩",
+      "安全销"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T174": {
+    "title": "笼车折叠层板铰边支撑臂与停靠扣状态对照",
+    "category": "模板",
+    "tags": [
+      "笼车层板",
+      "折叠",
+      "支撑臂",
+      "停靠扣"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T175": {
+    "title": "纸箱塑料提手双端穿孔与内侧锁片归属映射",
+    "category": "模板",
+    "tags": [
+      "纸箱提手",
+      "穿孔",
+      "内锁片",
+      "端点"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T176": {
+    "title": "磨砂半透明瓶身局部中文改字与雾度继承",
+    "category": "模板",
+    "tags": [
+      "磨砂瓶",
+      "中文改字",
+      "半透明",
+      "雾度"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T177": {
+    "title": "圆柱包装跨接缝中文标题局部改字与分段透视",
+    "category": "模板",
+    "tags": [
+      "圆柱包装",
+      "跨接缝",
+      "中文改字",
+      "曲率"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T178": {
+    "title": "仓储台车可拆扶手双插管与弹簧按钮同步对位",
+    "category": "模板",
+    "tags": [
+      "仓储台车",
+      "可拆扶手",
+      "双插管",
+      "弹簧按钮"
+    ],
+    "product_category": "仓储物流",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T179": {
+    "title": "玻璃瓶直接丝印中文局部改字与折射高光继承",
+    "category": "模板",
+    "tags": [
+      "玻璃瓶",
+      "丝印",
+      "中文改字",
+      "折射"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T180": {
+    "title": "软包装尾封喷码局部改字与褶皱透视继承",
+    "category": "模板",
+    "tags": [
+      "软包装",
+      "尾封喷码",
+      "中文改字",
+      "褶皱"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T181": {
+    "title": "瓶身收缩套标纵向接缝与横向易撕线交点追踪",
+    "category": "模板",
+    "tags": [
+      "收缩套标",
+      "纵向接缝",
+      "易撕线",
+      "膜层"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T182": {
+    "title": "双层揭开标签上层开窗与下层字段对应核对",
+    "category": "模板",
+    "tags": [
+      "双层标签",
+      "揭开层",
+      "开窗",
+      "字段对应"
+    ],
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T183": {
+    "title": "包装盲文点阵单元局部修正与压凸光影继承",
+    "category": "模板",
+    "tags": [
+      "包装盲文",
+      "点阵",
+      "局部修正",
+      "压凸"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T184": {
+    "title": "阳极氧化金属激光蚀刻型号局部改字与纹理继承",
+    "category": "模板",
+    "tags": [
+      "阳极氧化金属",
+      "激光蚀刻",
+      "型号改字",
+      "拉丝"
+    ],
+    "product_category": "数码配件",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T185": {
+    "title": "服装织唛单行中文改字与经纬纱结构继承",
+    "category": "模板",
+    "tags": [
+      "服装织唛",
+      "中文改字",
+      "经纬纱",
+      "织造"
+    ],
+    "product_category": "服装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T186": {
+    "title": "皮革压凹标题局部改字与皮纹形变继承",
+    "category": "模板",
+    "tags": [
+      "皮革",
+      "压凹",
+      "中文改字",
+      "皮纹"
+    ],
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T187": {
+    "title": "瓦楞纸箱喷墨中文局部改字与纸纤维渗边继承",
+    "category": "模板",
+    "tags": [
+      "瓦楞纸箱",
+      "喷墨改字",
+      "纸纤维",
+      "折线"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T188": {
+    "title": "陶瓷釉上贴花中文局部改字与釉面反光继承",
+    "category": "模板",
+    "tags": [
+      "陶瓷",
+      "釉上贴花",
+      "中文改字",
+      "釉面反光"
+    ],
+    "product_category": "文创",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T189": {
+    "title": "木质包装激光灼刻标题局部改字与木纹贯穿继承",
+    "category": "模板",
+    "tags": [
+      "木质包装",
+      "激光灼刻",
+      "中文改字",
+      "木纹"
+    ],
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T190": {
+    "title": "模压橡胶凸字局部改字与一体圆角继承",
+    "category": "模板",
+    "tags": [
+      "模压橡胶",
+      "凸字",
+      "中文改字",
+      "圆角"
+    ],
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T191": {
+    "title": "刺绣贴布中文局部改字与针路层次继承",
+    "category": "模板",
+    "tags": [
+      "刺绣贴布",
+      "中文改字",
+      "针路",
+      "底布"
+    ],
+    "product_category": "纺织品",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T192": {
+    "title": "反光热转印膜中文局部改字与闪光双状态继承",
+    "category": "模板",
+    "tags": [
+      "反光膜",
+      "热转印",
+      "中文改字",
+      "闪光对照"
+    ],
+    "product_category": "服装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T193": {
+    "title": "透明亚克力内部激光字局部改字与体内散射继承",
+    "category": "模板",
+    "task": "局部编辑",
+    "product_category": "透明与反光",
+    "tags": [
+      "透明亚克力",
+      "内部激光字",
+      "中文改字",
+      "体内散射"
+    ],
+    "entry": "编辑与一致性",
+    "featured": false
+  },
+  "T194": {
+    "title": "注塑塑料凹字局部改字与流痕光泽继承",
+    "category": "模板",
+    "task": "局部编辑",
+    "product_category": "包装",
+    "tags": [
+      "注塑塑料",
+      "凹字",
+      "中文改字",
+      "流痕光泽"
+    ],
+    "entry": "编辑与一致性",
+    "featured": false
+  },
+  "T195": {
+    "title": "植绒热转印中文局部改字与绒毛倒伏继承",
+    "category": "模板",
+    "task": "局部编辑",
+    "product_category": "纺织品",
+    "tags": [
+      "植绒热转印",
+      "中文改字",
+      "绒毛倒伏",
+      "织物"
+    ],
+    "entry": "编辑与一致性",
+    "featured": false
+  },
+  "T196": {
+    "title": "金属凹槽填漆字局部改字与漆面弯月边继承",
+    "category": "模板",
+    "task": "局部编辑",
+    "product_category": "通用品类",
+    "tags": [
+      "金属凹槽",
+      "填漆字",
+      "中文改字",
+      "漆面弯月边"
+    ],
+    "entry": "编辑与一致性",
+    "featured": false
+  },
+  "T197": {
+    "title": "全息转印箔中文局部改字与双角度虹彩继承",
+    "category": "模板",
+    "task": "局部编辑",
+    "product_category": "透明与反光",
+    "tags": [
+      "全息转印箔",
+      "中文改字",
+      "虹彩",
+      "双角度"
+    ],
+    "entry": "编辑与一致性",
+    "featured": false
+  },
+  "EC49": {
+    "title": "搜索列表主图主体占比与缩略图可读性",
+    "category": "电商",
+    "tags": [
+      "搜索主图",
+      "主体占比",
+      "安全区",
+      "缩略图"
+    ],
+    "product_category": "通用品类",
+    "entry": "主图成片",
+    "task": "主图成片",
+    "featured": true
+  },
+  "EC50": {
+    "title": "详情页首屏标题商品与利益点三层动线",
+    "category": "电商",
+    "tags": [
+      "详情首屏",
+      "阅读动线",
+      "单利益点",
+      "中文排版"
+    ],
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": true
+  },
+  "EC51": {
+    "title": "单商品换背景与边缘反射冻结",
+    "category": "电商",
+    "tags": [
+      "换背景",
+      "商品保护区",
+      "透明边缘",
+      "局部编辑"
+    ],
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "EC52": {
+    "title": "活动主视觉商品价格与行动区四层排版",
+    "category": "电商",
+    "tags": [
+      "活动主视觉",
+      "价格",
+      "行动区",
+      "四层排版"
+    ],
+    "product_category": "通用品类",
+    "entry": "活动成片",
+    "task": "活动成片",
+    "featured": true
+  },
+  "EC53": {
+    "title": "商品、模特与氛围三参考图职责绑定",
+    "category": "电商",
+    "tags": [
+      "三参考图",
+      "模特展示",
+      "箱包",
+      "职责绑定"
+    ],
+    "product_category": "通用品类",
+    "entry": "场景成片",
+    "task": "场景成片",
+    "featured": true
+  },
+  "EC54": {
+    "title": "数码主机、屏幕截图与配件清单一页对应",
+    "category": "电商",
+    "tags": [
+      "数码",
+      "屏幕截图",
+      "配件清单",
+      "详情图"
+    ],
+    "product_category": "数码与界面",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "T410": {
+    "title": "同一电商成片单变量返工与保留清单",
+    "category": "模板",
+    "tags": [
+      "电商返工",
+      "单变量",
+      "保留清单",
+      "一致性"
+    ],
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "EC55": {
+    "title": "食品包装三证据区：白底、配料语境与成品场景",
+    "category": "电商",
+    "tags": [
+      "食品饮料",
+      "三段详情",
+      "包装一致性",
+      "场景证据"
+    ],
+    "product_category": "食品",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": true
+  },
+  "EC56": {
+    "title": "配料丰盛构图与包装垂直阅读通道",
+    "category": "电商",
+    "tags": [
+      "食品饮料",
+      "配料环绕",
+      "垂直通道",
+      "标签可读"
+    ],
+    "product_category": "食品",
+    "entry": "主图成片",
+    "task": "主图成片",
+    "featured": true
+  },
+  "G56": {
+    "title": "童鞋巨物比例欢乐广告",
+    "category": "创意",
+    "tags": [
+      "童鞋广告",
+      "巨物比例",
+      "儿童模特",
+      "安全区"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": true
+  },
+  "EC57": {
+    "title": "三口味系列主次陈列与身份隔离",
+    "category": "电商",
+    "tags": [
+      "系列选款",
+      "三口味",
+      "商品身份",
+      "主次陈列"
+    ],
+    "product_category": "食品",
+    "entry": "主图成片",
+    "task": "主图成片",
+    "featured": true
+  },
+  "EC58": {
+    "title": "腕表右侧主视觉与左侧短文案广告",
+    "category": "电商",
+    "tags": [
+      "腕表",
+      "短文案",
+      "左右分区",
+      "广告"
+    ],
+    "product_category": "饰品",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": true
+  },
+  "G57": {
+    "title": "商品跨出广告牌内框的立体主视觉",
+    "category": "创意",
+    "tags": [
+      "广告牌",
+      "出框",
+      "接触阴影",
+      "空间关系"
+    ],
+    "product_category": "通用品类",
+    "entry": "商业创意",
+    "task": "商业创意",
+    "featured": true
+  },
+  "EC59": {
+    "title": "整套参考图保版式逐张换入新商品",
+    "category": "电商",
+    "tags": [
+      "批量换品",
+      "版式保护",
+      "商品身份",
+      "Listing"
+    ],
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "EC60": {
+    "title": "整套Listing保版式逐图本地化",
+    "category": "电商",
+    "tags": [
+      "跨境本地化",
+      "批量翻译",
+      "版式保护",
+      "审定译文"
+    ],
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "EC61": {
+    "title": "商品环绕动图的十六帧连续源图",
+    "category": "电商",
+    "tags": [
+      "商品动图",
+      "十六帧",
+      "连续源图",
+      "多角度"
+    ],
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T198": {
+    "product_category": "透明与反光",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T199": {
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T200": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T201": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T202": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T203": {
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T204": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T205": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T206": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T207": {
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T208": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T209": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T210": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T211": {
+    "product_category": "透明与反光",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T212": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T213": {
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T214": {
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T215": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T216": {
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T217": {
+    "product_category": "纺织品",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T218": {
+    "product_category": "包装",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T219": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T220": {
+    "product_category": "厨具",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T221": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T222": {
+    "product_category": "文创",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T223": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T224": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T225": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T226": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T227": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T228": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T229": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T230": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T231": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T232": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T233": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T234": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T235": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T236": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T237": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T238": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T239": {
+    "product_category": "透明与反光",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T240": {
+    "product_category": "透明与反光",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T241": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T242": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T243": {
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T244": {
+    "product_category": "服装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T245": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T246": {
+    "product_category": "厨具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T247": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T248": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T249": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T250": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T251": {
+    "product_category": "厨具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T252": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T253": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T254": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T255": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T256": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T257": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T258": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T259": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T260": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T261": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T262": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T263": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T264": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T265": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T266": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T267": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T268": {
+    "product_category": "厨具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T269": {
+    "product_category": "厨具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T270": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T271": {
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T272": {
+    "product_category": "厨具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T273": {
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T274": {
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T275": {
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T276": {
+    "product_category": "厨具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T277": {
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T278": {
+    "product_category": "饰品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T279": {
+    "product_category": "宠物用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T280": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T281": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T282": {
+    "product_category": "饰品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T283": {
+    "product_category": "箱包",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T284": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T285": {
+    "product_category": "箱包",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T286": {
+    "product_category": "箱包",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T287": {
+    "product_category": "纺织品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T288": {
+    "product_category": "纺织品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T289": {
+    "product_category": "纺织品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T290": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T291": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T292": {
+    "product_category": "纺织品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T293": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T294": {
+    "product_category": "厨具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T295": {
+    "product_category": "母婴",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T296": {
+    "product_category": "运动用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T297": {
+    "product_category": "汽车用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T298": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T299": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T300": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T301": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T302": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T303": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T304": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T305": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T306": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T307": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T308": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T309": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T310": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T311": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T312": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T313": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T314": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T315": {
+    "product_category": "箱包",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T316": {
+    "product_category": "厨具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T317": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T318": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T319": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T320": {
+    "product_category": "透明与反光",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T321": {
+    "product_category": "数码与界面",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T322": {
+    "product_category": "数码与界面",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T323": {
+    "product_category": "数码与界面",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T324": {
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T325": {
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T326": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T327": {
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T328": {
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T329": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T330": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T331": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T332": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T333": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T334": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T335": {
+    "product_category": "透明与反光",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T336": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T337": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T338": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T339": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T340": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T341": {
+    "product_category": "通用品类",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T342": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T343": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T344": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T345": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T346": {
+    "product_category": "通用品类",
+    "entry": "主图成片",
+    "task": "主图成片",
+    "featured": false
+  },
+  "T347": {
+    "product_category": "通用品类",
+    "entry": "主图成片",
+    "task": "主图成片",
+    "featured": false
+  },
+  "T348": {
+    "product_category": "通用品类",
+    "entry": "主图成片",
+    "task": "主图成片",
+    "featured": false
+  },
+  "T349": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T350": {
+    "product_category": "透明与反光",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T351": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T352": {
+    "product_category": "纺织品",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T353": {
+    "product_category": "通用品类",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T354": {
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "T355": {
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "T356": {
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "T357": {
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "task": "详情成片",
+    "featured": false
+  },
+  "T358": {
+    "product_category": "服装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T359": {
+    "product_category": "饰品",
+    "entry": "编辑与一致性",
+    "task": "编辑与一致性",
+    "featured": false
+  },
+  "T360": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T361": {
+    "product_category": "宠物用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T362": {
+    "product_category": "收藏玩具",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T363": {
+    "product_category": "汽车用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T364": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T365": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T366": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T367": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T368": {
+    "product_category": "饰品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T369": {
+    "product_category": "美妆与玻璃包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T370": {
+    "product_category": "饰品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T371": {
+    "product_category": "饰品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T372": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T373": {
+    "product_category": "运动用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T374": {
+    "product_category": "纺织品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T375": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T376": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T377": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T378": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T379": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T380": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T381": {
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T382": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T383": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T384": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T385": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T386": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T387": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T388": {
+    "product_category": "家装五金",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T389": {
+    "product_category": "箱包",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T390": {
+    "product_category": "护理用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T391": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T392": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T393": {
+    "product_category": "文创",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T394": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T395": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T396": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T397": {
+    "product_category": "办公耗材",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T398": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T399": {
+    "product_category": "家居",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T400": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T401": {
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T402": {
+    "product_category": "服装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T403": {
+    "product_category": "运动用品",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T404": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T405": {
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T406": {
+    "product_category": "数码配件",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T407": {
+    "product_category": "户外装备",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T408": {
+    "product_category": "小家电",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  },
+  "T409": {
+    "product_category": "包装",
+    "entry": "结构与资料核对",
+    "task": "结构与资料核对",
+    "featured": false
+  }
 }
