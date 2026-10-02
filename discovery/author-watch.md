@@ -33,6 +33,10 @@ OpenAI指南、Simon的9月8日原文及首页、BrushGlow原指南本轮可读�
 
 - [Practical_Low29原帖](https://www.reddit.com/r/aigamedev/comments/1wbmvnm/gpt_image_25_nailed_a_16_frame_combat_sprite_sheet/)：有完整一行提示词，作者自述Atlas Cloud上的2.5，具体子型号未知；已整理[C008](../cases/C008-combat-sprite-sheet.md)，后续追动作连贯、切图与实际型号记录。
 
+### 2026-10-02成片批定向核查
+
+公开搜索覆盖Simon的2.5文章线索和BrushGlow编辑／一致性指南，并读取Simon当前主页及BrushGlow原指南相关段落。没有本批值得新增的完整独立案例；未全面回扫全部文章或Reddit，候选不变。官方2.5参考职责与文字原则用于EC05、EC14、EC31修订，不把第三方质量或测试结论计入本库结果。见[本批记录](../maintenance/reviews/2026-10-02-production-expansion-batch-02.md)。
+
 ## EvoLink持续跟进
 
 [EvoLink新版案例数据](https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/blob/main/data/gpt-image-2.5-cases.json)：2026-09-10核查三个作者提供的2.5案例，已整理C009–C011。下轮优先比较此数据文件；旧30章与41段保留提示词作为旧创意，不能因仓库更名就归为新版输出。

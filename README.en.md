@@ -4,9 +4,9 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 548 base prompts (91 adapted cards, 446 originals and 11 prompts developed from documented 2.5 examples), plus 136 complete variations. The collection includes 410 general templates, 61 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 89 variations, from clean product shots to seasonal campaigns.
+Explore 548 base prompts (91 adapted cards, 446 originals and 11 prompts developed from documented 2.5 examples), plus 137 complete variations. The collection includes 410 general templates, 61 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 90 variations, from clean product shots to seasonal campaigns.
 
-This editing batch strengthens [aspect-ratio reflow](prompts/templates/T26.md), [series-page consistency](prompts/templates/T30.md), [product versus campaign color](prompts/templates/T343.md) and [background replacement](prompts/ecommerce/EC51.md). Two new complete variants cover product-only color correction and localized optical adaptation for transparent or reflective products.
+This batch strengthens [short campaign posters](prompts/ecommerce/EC05.md), [bundle product shots](prompts/ecommerce/EC14.md) and [single detail-page modules](prompts/ecommerce/EC31.md). It clarifies approved price conditions, SKU counts and ordering, and optional master references. One new complete variant combines a real detail photograph with a product-location view.
 
 Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Fill and submit one product fact sheet first, then use either the single-image minimum path or the complete-materials path. Each package provides six prompts, required references, acceptance checks, and a focused repair instruction.
 

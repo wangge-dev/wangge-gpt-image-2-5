@@ -28,6 +28,7 @@
     "featured": false
   },
   "EC05": {
+    "tags": ["短中文促销", "价格条件", "空项省略"],
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "通用品类",
@@ -92,6 +93,7 @@
     "featured": false
   },
   "EC14": {
+    "tags": ["套装主图", "实测比例", "SKU席位", "使用顺序"],
     "reference": "需要",
     "task": "商品展示",
     "product_category": "通用品类",
@@ -888,6 +890,7 @@
     "featured": false
   },
   "EC31": {
+    "tags": ["单模块详情", "固定母版", "首张单图", "真实细节近照"],
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "通用品类",
