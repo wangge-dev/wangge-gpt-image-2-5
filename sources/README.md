@@ -1,5 +1,13 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-10-03缺图分支与构图示意来源复核
+
+重读buluslan固定提交`a3673fb6f316664280e6abd90a60a578c6fb2228`的[13尺寸模板](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/13-size-spec.json)与[19网格模板](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/19-multi-angle-grid.json)。保留署名、source_key与六个来源变体键；尺寸冲突属于本库填写示例，不归责原模板。新增单图尺寸、单图可见外观两个本库变体，仍标旧创意面向2.5适配、未生图实测。官方[提示词指南](https://developers.openai.com/api/docs/guides/image-prompting)的构图、参考分工与单点修改原则用于修订，不是能力或实测保证。
+
+四仓HEAD本轮实读：freestylefly `65a9c57a1968a13f2f1997c58409cac9aa146bc7`（相较上次3个提交仅修改middleware.ts和vercel.json的防盗链／缓存，无提示词文件变化），fork `b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`，buluslan `73abd50bf2b689b5a453f28ddd7b0016415deec6`，EvoLink `963b1f40bfbe5ff81f0c9684587face6a500bc9a`。未追账号、支付或平台部署功能。来源盘点541／35／506不变，基础词548、完整变体139（电商92个）。
+
+为EC49、EC50、EC52新增[本库原创SVG示意](../assets/layouts/README.md)，适用根目录MIT许可，不使用第三方图片；画廊有预览条目37→40，三张标为构图示意而非实测。其余图片归属不变，未下载、生成或付费采集新图。作者定向跟进与候选不转化原因见[本批记录](../maintenance/reviews/2026-10-03-missing-input-branches-and-layouts.md)。
+
 ## 2026-10-02高频成片补强批来源复核
 
 逐项重读buluslan固定提交`a3673fb6f316664280e6abd90a60a578c6fb2228`的05促销与14套装JSON；EC05／EC14保留原署名、source_key及七个来源变体键，不增加旧库改写数量。EC31仍为本库原创，新增细节近照／商品定位完整变体；当前548条基础提示词、137个完整变体（电商90个）。方法依据为[官方GPT Image 2.5章节](https://developers.openai.com/api/docs/guides/image-prompting)的参考职责、准确文字和成品布局，旧模板只标面向2.5适配，不算本库实测。
@@ -36,7 +44,7 @@ EC49、EC50、EC52、T410与EC12完成实质修订；方法依据为[官方GPT I
 
 来源版本：awesome `b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`；ecommerce 当前 `73abd50bf2b689b5a453f28ddd7b0016415deec6`（本轮仅恢复作者署名与版本号，模板正文仍以 `a3673fb6f316664280e6abd90a60a578c6fb2228` 链接追溯）。版本用于追溯原文，不限制未来更新。
 
-案例索引541项，编号1至544，缺12、169、170。模板JSON有22项；其Markdown正文还有未独立进入JSON的签名、品牌人格等扩展，列入待补充，不宣传为全文所有模板均已迁移。电商25个文件中的88个变体方向均已处理，其中2个重复方向合并到基础正文，提供86个来源变体；另有本库新增的4个变体（无利益点首屏、无价格活动、局部光学适配、细节证据模块），当前电商合计90个。
+案例索引541项，编号1至544，缺12、169、170。模板JSON有22项；其Markdown正文还有未独立进入JSON的签名、品牌人格等扩展，列入待补充，不宣传为全文所有模板均已迁移。电商25个文件中的88个变体方向均已处理，其中2个重复方向合并到基础正文，提供86个来源变体；另有本库新增的6个变体（无利益点首屏、无价格活动、局部光学适配、细节证据模块、单图尺寸、单图可见外观），当前电商合计92个。
 
 ## 已改写条目
 

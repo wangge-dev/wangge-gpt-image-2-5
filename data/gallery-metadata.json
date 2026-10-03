@@ -86,7 +86,7 @@
     "featured": true
   },
   "EC13": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "广告与详情",
     "product_category": "通用品类",
     "entry": "详情成片",
@@ -129,7 +129,7 @@
     "featured": true
   },
   "EC19": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "商品展示",
     "product_category": "通用品类",
     "entry": "主图成片",
@@ -3802,7 +3802,8 @@
     "product_category": "通用品类",
     "entry": "主图成片",
     "task": "主图成片",
-    "featured": true
+    "featured": true,
+    "preview_label": "本库构图示意 · 非实测成图"
   },
   "EC50": {
     "title": "详情页首屏标题商品与利益点三层动线",
@@ -3818,7 +3819,8 @@
     "product_category": "通用品类",
     "entry": "详情成片",
     "task": "详情成片",
-    "featured": true
+    "featured": true,
+    "preview_label": "本库构图示意 · 非实测成图"
   },
   "EC51": {
     "title": "单商品换背景与边缘反射分区保护",
@@ -3849,7 +3851,8 @@
     "product_category": "通用品类",
     "entry": "活动成片",
     "task": "活动成片",
-    "featured": true
+    "featured": true,
+    "preview_label": "本库构图示意 · 非实测成图"
   },
   "EC53": {
     "title": "商品、模特与氛围三参考图职责绑定",

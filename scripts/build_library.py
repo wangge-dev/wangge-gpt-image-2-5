@@ -38,8 +38,9 @@ def render(entry):
     lines += [f"- [{s['label']}]({s['url']})" for s in entry['sources']]
     if entry.get('preview'):
         own = entry.get('preview_kind') == 'user_result'
-        label = '生成示例 · wangge-dev / ChatGPT 网页版' if own else '原库参考'
-        url = '../../' + entry['preview'] if own else entry['preview']
+        diagram = entry.get('preview_kind') == 'layout_diagram'
+        label = '本库构图示意 · 非实测成图' if diagram else '生成示例 · wangge-dev / ChatGPT 网页版' if own else '原库参考'
+        url = '../../' + entry['preview'] if own or diagram else entry['preview']
         lines += ['', label, '', f"![{entry['title']} · {label}]({url})"]
     updated_at = entry.get('updated_at', '2026-09-09')
     lines += ['', f'整理日期：{updated_at}。上游许可及第三方素材边界见[署名说明](../../ATTRIBUTIONS.md)。']

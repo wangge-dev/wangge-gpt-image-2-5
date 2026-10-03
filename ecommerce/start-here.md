@@ -6,8 +6,9 @@
 
 | 手头素材 | 先做 | 下一张 | 可以继续 | 暂时跳过 |
 | --- | --- | --- | --- | --- |
-| 只有一张正面商品图 | [EC01 白底主图](../prompts/ecommerce/EC01.md) | [EC02 场景图](../prompts/ecommerce/EC02.md)：不露未知背面 | 有了待编辑成片和清楚保护边界后，再用 [EC51 换背景](../prompts/ecommerce/EC51.md)；取得同款细节近照和平台安全区后可用 [EC49 搜索主图](../prompts/ecommerce/EC49.md) | 微距、尺寸、结构拆解、真假功效对比 |
-| 商品图＋已确认卖点和文案 | 先完成主图 | [EC11 卖点模块](../prompts/ecommerce/EC11.md) | 取得包装文字近照和批准标题后做 [EC50 详情首屏](../prompts/ecommerce/EC50.md)；有准确价格和活动规则时做 [EC52 活动图](../prompts/ecommerce/EC52.md) | 未核实的参数、优惠、认证和功效 |
+| 只有一张正面商品图 | [EC01 白底主图](../prompts/ecommerce/EC01.md)或[EC49 搜索主图](../prompts/ecommerce/EC49.md) | [EC02 场景图](../prompts/ecommerce/EC02.md)：不露未知背面 | [EC19 单图外观分支](../prompts/ecommerce/EC19.md)：人工指定可读裁切，无可读局部就只展示完整外观；已有成片和保护边界后可用[EC51 换背景](../prompts/ecommerce/EC51.md) | 无证据微距、尺寸、结构拆解、真假功效对比 |
+| 商品图＋人工实测尺寸 | [EC13 单图仅尺寸分支](../prompts/ecommerce/EC13.md) | 已有逐步操作实拍后再用同卡步骤版 | 不可见轴有实测值时仅列文字，不补第三轴引线；缺值省略该轴 | 无参考动作、隐藏结构、由照片推算尺寸 |
+| 商品图＋已确认卖点和文案 | 先完成主图 | [EC11 卖点模块](../prompts/ecommerce/EC11.md) | 有批准标题可做[EC50 详情首屏](../prompts/ecommerce/EC50.md)，缺利益点证据用无利益点版；[EC52 活动图](../prompts/ecommerce/EC52.md)缺批准价格用无价格版 | 未核实的参数、优惠、认证和功效 |
 | 商品图＋获准人物或真实空间照 | 先完成主图 | [EC08 人物持用](../prompts/ecommerce/EC08.md) 或 [EC16 空间融入](../prompts/ecommerce/EC16.md) | 另有独立氛围图后用 [EC53 三参考](../prompts/ecommerce/EC53.md)；已有成片只需改一处时用 [T410 单变量返工](../prompts/templates/T410.md) | 从氛围参考图借用另一件商品，或凭空改变人物身份、空间尺寸 |
 | 多个真实 SKU，各有外观与文字依据 | [EC14 系列陈列](../prompts/ecommerce/EC14.md) | [EC57 三款主次陈列](../prompts/ecommerce/EC57.md)（确有三款时） | [EC38 规格对照](../prompts/ecommerce/EC38.md)（有逐款规格时）；[EC19 多色网格](../prompts/ecommerce/EC19.md)（有逐款参考时） | 缺照片的 SKU、推测的颜色或规格 |
 
@@ -19,11 +20,13 @@
 
 | 当前交付 | 优先卡片 | 必须有的材料 |
 | --- | --- | --- |
-| 干净商品主图 | [EC01](../prompts/ecommerce/EC01.md)；列表适配选[EC49](../prompts/ecommerce/EC49.md) | 商品原图；EC49还需识别细节与平台安全区 |
+| 干净商品主图 | [EC01](../prompts/ecommerce/EC01.md)；列表适配选[EC49](../prompts/ecommerce/EC49.md) | 一张完整商品原图即可；细节近照与真实平台覆盖区可选，缺覆盖信息只留通用边距 |
 | 生活场景图 | [EC02](../prompts/ecommerce/EC02.md) | 商品原图，不借场景补未知面 |
-| 详情首屏／卖点模块 | [EC50](../prompts/ecommerce/EC50.md)／[EC11](../prompts/ecommerce/EC11.md) | 商品证据及审定标题、卖点；依卡片补清楚文字近照 |
-| 活动主视觉 | [EC52](../prompts/ecommerce/EC52.md) | 商品图、审定文案、准确价格与活动规则 |
+| 详情首屏／卖点模块 | [EC50](../prompts/ecommerce/EC50.md)／[EC11](../prompts/ecommerce/EC11.md) | 商品原图、审定文案；包装近照可选，利益点缺证据用EC50无利益点版 |
+| 活动主视觉 | [EC52](../prompts/ecommerce/EC52.md) | 商品图、审定活动文案；有价格时必须附必要条件，无批准价格用无价格版 |
 | 成片局部返工 | [T410](../prompts/templates/T410.md) | 当前批准成片、原商品图、唯一修改与保留清单 |
 | 商业创意广告 | [EC12](../prompts/ecommerce/EC12.md)或[精选创意](../gallery/README.md) | 商品或品牌资料，分清真实身份与概念布景 |
 
-高频成片优先从上表进入。材质、结构、安装、尺寸和状态核对类卡片保留在[完整电商索引](README.md#按任务找提示词)中，只有相应实拍、数据或说明书齐全时再打开。相似用途的卡片不是制作清单：EC01偏干净白底，EC49还需要同款识别细节和平台角标安全区；EC02是一般生活场景，EC16需要真实空间参考；EC05是通用促销，EC52明确分配标题、商品、价格和行动区。每次只选符合当前交付的一张。
+高频成片优先从上表进入。材质、结构、安装、尺寸和状态核对类卡片保留在[完整电商索引](README.md#按任务找提示词)中，只有相应实拍、数据或说明书齐全时再打开。相似用途的卡片不是制作清单：EC01偏干净白底，EC49偏缩略图轮廓和真实覆盖区适配；EC02是一般生活场景，EC16需要真实空间参考；EC05是通用促销，EC52明确分配标题、商品、价格和行动区。每次只选符合当前交付的一张。
+
+EC49、EC50、EC52已附[本库原创构图示意](../assets/layouts/README.md)，帮助读懂主体、留白和信息顺序；这些示意不是商品证据或实测成图，不需要作为商品参考上传。生图实测仍可选。

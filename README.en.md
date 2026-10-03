@@ -4,9 +4,9 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 548 base prompts (91 adapted cards, 446 originals and 11 prompts developed from documented 2.5 examples), plus 137 complete variations. The collection includes 410 general templates, 61 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 90 variations, from clean product shots to seasonal campaigns.
+Explore 548 base prompts (91 adapted cards, 446 originals and 11 prompts developed from documented 2.5 examples), plus 139 complete variations. The collection includes 410 general templates, 61 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 92 variations, from clean product shots to seasonal campaigns.
 
-This batch strengthens [short campaign posters](prompts/ecommerce/EC05.md), [bundle product shots](prompts/ecommerce/EC14.md) and [single detail-page modules](prompts/ecommerce/EC31.md). It clarifies approved price conditions, SKU counts and ordering, and optional master references. One new complete variant combines a real detail photograph with a product-location view.
+This batch corrects the dimension axes in [EC13](prompts/ecommerce/EC13.md) and adds a product-photo-plus-manual-measurements variant. [EC19](prompts/ecommerce/EC19.md) now offers a single-photo branch with approved visible crops, without inventing other views or colors. [Product-shot EC49](prompts/ecommerce/EC49.md), [detail-header EC50](prompts/ecommerce/EC50.md) and [campaign EC52](prompts/ecommerce/EC52.md) each include an [original layout diagram](assets/layouts/README.md), explicitly labeled as a schematic rather than a tested model output. Image testing remains optional.
 
 Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Fill and submit one product fact sheet first, then use either the single-image minimum path or the complete-materials path. Each package provides six prompts, required references, acceptance checks, and a focused repair instruction.
 

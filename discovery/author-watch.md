@@ -39,4 +39,8 @@ OpenAI指南、Simon的9月8日原文及首页、BrushGlow原指南本轮可读�
 
 ## EvoLink持续跟进
 
+### 2026-10-03缺图分支批定向核查
+
+读取官方2.5参考职责与局部编辑段、BrushGlow指南以及Simon的[9月9日.blend查看器文章](https://simonwillison.net/2026/Sep/9/blender-viewer/)。Simon文章有单行图像提示词但主要是图像转Blender工具展示，与本批尺寸／缺图机制无关，本批不转化、不复制图像、不扩成平台功能；不宣称该线索不存在或已全量收齐作者文章。BrushGlow署名测试仍属第三方自述，不计本库结果。上游awesome新增提交仅涉及防盗链／缓存；定向来源与筛选见[维护记录](../maintenance/reviews/2026-10-03-missing-input-branches-and-layouts.md)。
+
 [EvoLink新版案例数据](https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/blob/main/data/gpt-image-2.5-cases.json)：2026-09-10核查三个作者提供的2.5案例，已整理C009–C011。下轮优先比较此数据文件；旧30章与41段保留提示词作为旧创意，不能因仓库更名就归为新版输出。

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1320" viewBox="0 0 960 1320" role="img" aria-labelledby="title desc">
+  <title id="title">EC52 活动主视觉构图示意</title>
+  <desc id="desc">四比五画布，百分之六安全边距，安全区内按百分之十八标题、五十商品、二十二价格条件、十行动文字排列。价格与必要条件同一区，无价格使用无价格分支。本库示意，不是实测。</desc>
+  <rect width="960" height="1320" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="36" font-weight="700">EC52 · 活动主视觉</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1050" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="223" width="739.2" height="924" fill="none" stroke="#79716a" stroke-width="3" stroke-dasharray="12 10"/>
+    <rect x="114" y="227" width="732" height="158" fill="#faf7f2"/>
+    <text x="145" y="277" font-size="26" fill="#5a5a5a">6% 边距 · 内部区域比例</text>
+    <text x="480" y="341" text-anchor="middle" font-size="40" font-weight="700">① 标题区 · 18%</text>
+    <rect x="302" y="422" width="356" height="365" rx="36" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="572" text-anchor="middle" font-size="44" font-weight="700">② 商品区</text>
+    <text x="480" y="633" text-anchor="middle" font-size="32">区域 50%</text>
+    <text x="480" y="686" text-anchor="middle" font-size="26">单件 · 本色 · 原比例</text>
+    <path d="M310 820 Q480 838 650 820" fill="none" stroke="#79716a" stroke-width="6"/>
+    <rect x="132" y="867" width="696" height="174" rx="16" fill="#faf7f2" stroke="#111111" stroke-width="2"/>
+    <text x="480" y="930" text-anchor="middle" font-size="36" font-weight="700">③ 批准价格与必要条件</text>
+    <text x="480" y="987" text-anchor="middle" font-size="28">同区展示 · 22% · 不填假金额</text>
+    <text x="480" y="1105" text-anchor="middle" font-size="32" font-weight="700">④ 行动文字 · 10%</text>
+    <text x="480" y="1264" text-anchor="middle" font-size="28">无批准价格 → 使用无价格活动版</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1120" viewBox="0 0 960 1120" role="img" aria-labelledby="title desc">
+  <title id="title">EC49 搜索主图构图示意</title>
+  <desc id="desc">一比一画布，四周百分之六安全边距，中央单个抽象商品区域，保留完整轮廓和底部阴影空间。仅为本库线框示意，不是商品照片或模型输出。</desc>
+  <rect width="960" height="1120" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="36" font-weight="700">EC49 · 搜索列表主图</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="840" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="210.4" width="739.2" height="739.2" fill="none" stroke="#79716a" stroke-width="3" stroke-dasharray="12 10"/>
+    <text x="138" y="258" font-size="28" fill="#5a5a5a">6% 安全边距</text>
+    <rect x="300" y="272" width="360" height="638" rx="36" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="527" text-anchor="middle" font-size="48" font-weight="700">单件商品区</text>
+    <text x="480" y="586" text-anchor="middle" font-size="32">原角度 · 原比例</text>
+    <text x="480" y="635" text-anchor="middle" font-size="28">高度约画布 76%</text>
+    <text x="480" y="684" text-anchor="middle" font-size="26">宽度随实物比例联动</text>
+    <path d="M310 934 Q480 950 650 934" fill="none" stroke="#79716a" stroke-width="6"/>
+    <text x="480" y="1052" text-anchor="middle" font-size="28">完整轮廓 → 缩略图可识别；不加价格或角标</text>
+  </g>
+</svg>
