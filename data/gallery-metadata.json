@@ -503,7 +503,7 @@
     "featured": false
   },
   "G25": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "人物与角色",
     "product_category": "服装",
     "entry": "商业创意",
@@ -899,7 +899,7 @@
     "featured": true
   },
   "EC32": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "广告与详情",
     "product_category": "通用品类",
     "has_result": false,

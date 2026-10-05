@@ -10,7 +10,7 @@
 
 - [EC01 白底与纯色商品主图](../prompts/ecommerce/EC01.md)：让商品轮廓和真实材质在搜索列表中清楚可见。
 - [EC02 生活场景商品图](../prompts/ecommerce/EC02.md)：把同一商品放进适合使用的真实生活环境。
-- [EC03 俯拍平铺静物](../prompts/ecommerce/EC03.md)：适合套装预热、生活方式配图和品牌社媒。
+- [EC03 俯拍平铺静物](../prompts/ecommerce/EC03.md)：以已提供的俯拍商品为主角，分清布景与随售组件，保留上方留白。
 - [EC04 材质与工艺微距](../prompts/ecommerce/EC04.md)：突出真实材质、膏体或接缝，不凭空制造产品细节。
 - [EC08 模特持用与穿戴展示](../prompts/ecommerce/EC08.md)：让模特与商品自然互动，并明确两张参考图的职责。
 - [EC14 套装与产品线陈列](../prompts/ecommerce/EC14.md)：将真实多SKU按清单、数量和实测比例制作套装主图；礼盒、使用顺序与产品线分别使用独立变体。
@@ -28,7 +28,7 @@
 - [EC15 直播封面与布景概念](../prompts/ecommerce/EC15.md)：设计直播视觉素材，不伪造真实直播截图。
 - [EC21 四季与节日系列图](../prompts/ecommerce/EC21.md)：同一商品、统一机位，替换系列布景。
 - [EC25 运动商品广告与三联画](../prompts/ecommerce/EC25.md)：用动作、构图和字体表现运动感。
-- [EC32 同SKU跨活动视觉系列](../prompts/ecommerce/EC32.md)：同一商品逐张制作不同活动视觉，只改变主题布景与已确认画外文案。
+- [EC32 同SKU跨活动视觉系列](../prompts/ecommerce/EC32.md)：以固定批准母版逐张制作同SKU活动系列，首张无母版时可独立建立构图。
 
 ### 商品解释
 
@@ -43,7 +43,7 @@
 
 ### 品牌表达
 
-- [EC10 包装与开箱陈列](../prompts/ecommerce/EC10.md)：展示已有包装，或明确制作概念包装方案。
+- [EC10 包装与开箱陈列](../prompts/ecommerce/EC10.md)：按真实组件数量、可见状态与指定参考制作包装陈列，开箱分格需独立状态实拍。
 - [EC20 品牌杂志封面与内页](../prompts/ecommerce/EC20.md)：将商品和人物组织成自有品牌编辑视觉。
 - [EC22 奢华氛围商品大片](../prompts/ecommerce/EC22.md)：用光、烟雾或花瓣构建氛围，保持标签可见。
 - [EC23 设备屏幕展示样机](../prompts/ecommerce/EC23.md)：把已有界面置入设备展示场景。

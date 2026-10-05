@@ -4,7 +4,7 @@
 
 字段说明：`id` 是稳定卡片编号；`group` 对应 ecommerce、templates、gallery；`source_key` 是原库条目ID或文件名；`sources` 含具体版本链接；`preview_kind=user_result` 表示用户提供的生成图，`preview_kind=layout_diagram` 表示本库原创构图示意（不是实测成图），旧来源预览仍标为原库参考；`settings_note` 用于透明输出等特殊设置，`usage_note` 保存实际使用限制。示意许可与职责见[说明](../assets/layouts/README.md)。
 
-`variants` 存放完整独立提示词，`variants_format=complete` 时直接渲染，不再拼接基础正文与覆盖说明。变体标题保留原来源键，以便对应；合并的重复方向记在 `merged_variant_directions`，不计入变体数量。修改指令中的变量由使用者按具体问题填写，不与基础提示词变量混用。2026-10-03缺图分支批后为139个完整变体，其中电商92个；EC13新增单图尺寸、EC19新增单图外观分支，不重复计为基础提示词。每段只填写自身引用的变量，单图分支无需填写多图清单。
+`variants` 存放完整独立提示词，`variants_format=complete` 时直接渲染，不再拼接基础正文与覆盖说明。变体标题保留原来源键，以便对应；合并的重复方向记在 `merged_variant_directions`，不计入变体数量。修改指令中的变量由使用者按具体问题填写，不与基础提示词变量混用。2026-10-05批后为141个完整变体，其中电商93个；EC32新增首张无母版、G25新增单照片目录分支，不重复计为基础提示词。每段只填写自身引用的变量，单图分支无需填写多图清单。EC13单图尺寸、EC19单图外观及三张原创构图示意继续保留。
 
 9条原创提示词维护在 `experiments/`，11条明确来源的中文提示词维护在 `cases/`；这两组不重复放入本JSON。
 

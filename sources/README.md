@@ -1,5 +1,13 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-10-05成片、系列一致性与目录拼贴来源复核
+
+重读buluslan固定提交`a3673fb6f316664280e6abd90a60a578c6fb2228`的[03俯拍模板](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/03-flat-lay.json)与[10包装模板](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/10-packaging.json)，以及awesome固定版本中G25对应的Case485正文与作者署名。保留EC03／EC10六个原变体键、三张适配卡原source_key和出处；旧创意仅标面向2.5适配，不将旧图当本轮结果。EC32保持本库原创，新增首张无母版完整分支；G25新增单照片目录完整分支。
+
+四仓HEAD与10-03记录一致：freestylefly `65a9c57a1968a13f2f1997c58409cac9aa146bc7`，fork `b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`，buluslan `73abd50bf2b689b5a453f28ddd7b0016415deec6`，EvoLink `963b1f40bfbe5ff81f0c9684587face6a500bc9a`。来源盘点541／35／506不变；基础词548、完整变体141（电商93个）。本轮没有新增来源图片或许可范围；40条预览及原归属不变。
+
+方法依据为[官方提示词指南](https://developers.openai.com/api/docs/guides/image-prompting)的参考职责、布局和编辑边界。定向读取Simon当前主页及BrushGlow指南的参考分工／局部返工段，没有转化独立新案例；不宣称作者全量检索或原作者X帖已直接可读。详见[维护记录](../maintenance/reviews/2026-10-05-production-consistency-catalog.md)。
+
 ## 2026-10-03缺图分支与构图示意来源复核
 
 重读buluslan固定提交`a3673fb6f316664280e6abd90a60a578c6fb2228`的[13尺寸模板](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/13-size-spec.json)与[19网格模板](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/19-multi-angle-grid.json)。保留署名、source_key与六个来源变体键；尺寸冲突属于本库填写示例，不归责原模板。新增单图尺寸、单图可见外观两个本库变体，仍标旧创意面向2.5适配、未生图实测。官方[提示词指南](https://developers.openai.com/api/docs/guides/image-prompting)的构图、参考分工与单点修改原则用于修订，不是能力或实测保证。
@@ -44,7 +52,7 @@ EC49、EC50、EC52、T410与EC12完成实质修订；方法依据为[官方GPT I
 
 来源版本：awesome `b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`；ecommerce 当前 `73abd50bf2b689b5a453f28ddd7b0016415deec6`（本轮仅恢复作者署名与版本号，模板正文仍以 `a3673fb6f316664280e6abd90a60a578c6fb2228` 链接追溯）。版本用于追溯原文，不限制未来更新。
 
-案例索引541项，编号1至544，缺12、169、170。模板JSON有22项；其Markdown正文还有未独立进入JSON的签名、品牌人格等扩展，列入待补充，不宣传为全文所有模板均已迁移。电商25个文件中的88个变体方向均已处理，其中2个重复方向合并到基础正文，提供86个来源变体；另有本库新增的6个变体（无利益点首屏、无价格活动、局部光学适配、细节证据模块、单图尺寸、单图可见外观），当前电商合计92个。
+案例索引541项，编号1至544，缺12、169、170。模板JSON有22项；其Markdown正文还有未独立进入JSON的签名、品牌人格等扩展，列入待补充，不宣传为全文所有模板均已迁移。电商25个文件中的88个变体方向均已处理，其中2个重复方向合并到基础正文，提供86个来源变体；另有本库新增的7个变体（无利益点首屏、无价格活动、局部光学适配、细节证据模块、单图尺寸、单图可见外观、首张无母版活动），当前电商合计93个。
 
 ## 已改写条目
 
