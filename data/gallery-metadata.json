@@ -21,7 +21,7 @@
     "featured": true
   },
   "EC04": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "商品展示",
     "product_category": "通用品类",
     "entry": "详情成片",
@@ -580,7 +580,7 @@
     "featured": false
   },
   "EC30": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "局部编辑",
     "product_category": "包装",
     "entry": "编辑与一致性",
