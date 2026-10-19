@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1010" viewBox="0 0 960 1010" role="img" aria-labelledby="title desc">
+  <title id="title">EC14 套装与产品线陈列构图示意</title>
+  <desc id="desc">三比二画布，百分之六安全边距，主商品靠中心与留白突出，其他席位按真实清单陈列，共同支撑面，不猜实物大小或赠品数量。三块区域仅示意，不等于固定三个商品。本库原创示意，非实测成图。</desc>
+  <rect width="960" height="1010" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="36" font-weight="700">EC14 · 套装与产品线陈列</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="560" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="193.6" width="739.2" height="492.8" fill="none" stroke="#79716a" stroke-width="3" stroke-dasharray="12 10"/>
+    <text x="480" y="247" text-anchor="middle" font-size="28" fill="#5a5a5a">6% 安全边距 · 原商品完整轮廓</text>
+    <rect x="150" y="360" width="177" height="225" rx="16" fill="#faf7f2" stroke="#111111" stroke-width="3"/>
+    <rect x="375" y="316" width="210" height="269" rx="20" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <rect x="633" y="360" width="177" height="225" rx="16" fill="#faf7f2" stroke="#111111" stroke-width="3"/>
+    <text x="238" y="455" text-anchor="middle" font-size="28">真实清单</text>
+    <text x="238" y="501" text-anchor="middle" font-size="28">其他席位</text>
+    <text x="480" y="430" text-anchor="middle" font-size="34" font-weight="700">主商品区</text>
+    <text x="480" y="480" text-anchor="middle" font-size="27">中心与留白</text>
+    <text x="480" y="526" text-anchor="middle" font-size="27">突出层级</text>
+    <text x="721" y="455" text-anchor="middle" font-size="28">真实清单</text>
+    <text x="721" y="501" text-anchor="middle" font-size="28">其他席位</text>
+    <path d="M140 599 H820" stroke="#79716a" stroke-width="4"/>
+    <text x="480" y="648" text-anchor="middle" font-size="28">共同支撑面 · 组合不超过可用宽度 90%</text>
+    <text x="48" y="784" font-size="29" font-weight="700">区域不是实物大小，也不等于固定三个SKU</text>
+    <text x="48" y="836" font-size="27">数量、顺序与席位以实际套装清单为准，不补赠品。</text>
+    <text x="48" y="886" font-size="27">相对大小依人工尺寸或真实同框照，不靠放大主品。</text>
+    <text x="48" y="936" font-size="27">缺比例证据先补材料；教学框线和说明不进入成图。</text>
+  </g>
+</svg>

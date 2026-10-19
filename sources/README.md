@@ -1,5 +1,13 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-10-19模特参考、静态分镜与构图示意复核
+
+重读buluslan固定`a3673fb6f316664280e6abd90a60a578c6fb2228`的[08-model-showcase](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/08-model-showcase.json)全文，以及awesome固定fork中[Case487](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-487)全文和@AIwithSynthia署名。保留EC08三个原变体键、G27原预览与作者出处；旧视频创意仅转静态布局并面向2.5适配，不核定原帖2.5型号。来源CSV仍588行，gallery组541项、35已精选／506待选；同步两行改写说明，G27新增本库完整分支不是来源新增案例。
+
+四仓HEAD实读：freestylefly `63e6176fa01be51c000108dacd72716d3e46784b`，相较10-12仅一个赞助品牌更新提交，三语README及一张赞助图片变化，无案例数据更新；fork `b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`、buluslan `73abd50bf2b689b5a453f28ddd7b0016415deec6`、EvoLink `963b1f40bfbe5ff81f0c9684587face6a500bc9a`均未变。未迁移赞助、账号或支付功能。
+
+读取[官方2.5指南](https://developers.openai.com/api/docs/guides/image-prompting)的构图、人物、参考职责与局部编辑限制，定向读取Simon主页与BrushGlow原指南，不宣称全量作者回扫或X帖直接可读；没有转化独立新作者案例。EC53保持本库原创；新增EC05／EC14原创SVG遵循本库MIT，无外部图像素材，现42条预览含五张示意，三张历史用户结果不变。基础词548／完整变体146（电商97个），未生图或采集第三方照片。详见[本批记录](../maintenance/reviews/2026-10-19-model-reference-and-layouts.md)。
+
 ## 2026-10-12材质详情、季节活动与局部改字来源复核
 
 逐项重读buluslan固定`a3673fb6f316664280e6abd90a60a578c6fb2228`的[04真实细节模板](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/04-detail-macro.json)、[21季节网格模板](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/21-seasonal-campaign.json)。保留两卡来源、source_key与六个来源变体键，EC21四季方向仍合并于基础正文，不重复计数；EC30仍为本库原创。新增单图可读细节、单张主题、仅底图改字三个完整分支，基础词548／变体144（电商96个）。旧创意只标面向2.5适配，未生图。

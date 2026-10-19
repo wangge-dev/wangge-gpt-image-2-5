@@ -33,7 +33,8 @@
     "task": "广告与详情",
     "product_category": "通用品类",
     "entry": "活动成片",
-    "featured": true
+    "featured": true,
+    "preview_label": "本库构图示意 · 非实测成图"
   },
   "EC06": {
     "reference": "需要",
@@ -50,6 +51,7 @@
     "featured": false
   },
   "EC08": {
+    "tags": ["模特持握", "半身与全身", "比例依据", "参考职责"],
     "reference": "需要",
     "task": "商品展示",
     "product_category": "通用品类",
@@ -98,7 +100,8 @@
     "task": "商品展示",
     "product_category": "通用品类",
     "entry": "主图成片",
-    "featured": true
+    "featured": true,
+    "preview_label": "本库构图示意 · 非实测成图"
   },
   "EC15": {
     "reference": "需要",
@@ -517,6 +520,7 @@
     "featured": false
   },
   "G27": {
+    "tags": ["静态分镜", "已拍状态", "单图三格", "非使用证据"],
     "reference": "需要",
     "task": "广告与详情",
     "product_category": "美妆与玻璃包装",
@@ -3861,8 +3865,11 @@
       "三参考图",
       "模特展示",
       "箱包",
-      "职责绑定"
+      "职责绑定",
+      "真实上身",
+      "单图文字背景"
     ],
+    "reference": "需要",
     "product_category": "通用品类",
     "entry": "场景成片",
     "task": "场景成片",
