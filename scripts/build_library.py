@@ -36,12 +36,15 @@ def render(entry):
     lines += ['', '修改前，将修改指令中的双花括号内容按实际问题填写；每次只处理一个位置。']
     lines += ['', '## 接着修改', '', '上传上一轮结果；涉及商品或人物时，同时保留原始参考图。', '', '```text', entry['edit'], '```', '', '## 来源', '']
     lines += [f"- [{s['label']}]({s['url']})" for s in entry['sources']]
-    if entry.get('preview'):
+    if entry.get('preview') and not entry.get('licensed_references'):
         own = entry.get('preview_kind') == 'user_result'
         diagram = entry.get('preview_kind') == 'layout_diagram'
-        label = '本库构图示意 · 非实测成图' if diagram else '生成示例 · wangge-dev / ChatGPT 网页版' if own else '原库参考'
-        url = '../../' + entry['preview'] if own or diagram else entry['preview']
+        licensed = entry.get('preview_kind') == 'licensed_reference'
+        label = entry.get('preview_label', '真实输入参考' if licensed else '本库构图示意 · 非实测成图' if diagram else '生成示例 · wangge-dev / ChatGPT 网页版' if own else '原库参考')
+        url = entry['preview'] if entry['preview'].startswith('https://') else '../../' + entry['preview'] if own or diagram or licensed else entry['preview']
         lines += ['', label, '', f"![{entry['title']} · {label}]({url})"]
+    for ref in entry.get('licensed_references', []):
+        lines += ['', f"### 真实输入参考 · {ref['label']}", '', f"![{ref['label']}](../../{ref['path']})", '', f"摄影／作者：{ref['author']} · [{ref['license']}]({ref['license_url']}) · [原始文件页]({ref['source']})。", '', ref['role'], '', ref['change_note'], '', f"许可核查：{ref['verified_at']}。这是输入素材，不是本卡生成效果；照片及其改编不自动适用本库MIT，公开改编须保留署名、许可和改动说明，并遵守适用的相同方式共享条件。"]
     updated_at = entry.get('updated_at', '2026-09-09')
     lines += ['', f'整理日期：{updated_at}。上游许可及第三方素材边界见[署名说明](../../ATTRIBUTIONS.md)。']
     return '\n'.join(lines)

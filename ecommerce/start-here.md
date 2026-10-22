@@ -12,11 +12,13 @@
 | 商品图＋获准人物或真实空间照 | 先完成主图 | [EC08 人物持用](../prompts/ecommerce/EC08.md) 或 [EC16 空间融入](../prompts/ecommerce/EC16.md) | 另有独立氛围图后用 [EC53 三参考](../prompts/ecommerce/EC53.md)；已有成片只需改一处时用 [T410 单变量返工](../prompts/templates/T410.md) | 从氛围参考图借用另一件商品，或凭空改变人物身份、空间尺寸 |
 | 多个真实 SKU，各有外观与文字依据 | [EC14 系列陈列](../prompts/ecommerce/EC14.md) | [EC57 三款主次陈列](../prompts/ecommerce/EC57.md)（确有三款时） | [EC38 规格对照](../prompts/ecommerce/EC38.md)（有逐款规格时）；[EC19 多色网格](../prompts/ecommerce/EC19.md)（有逐款参考时） | 缺照片的 SKU、推测的颜色或规格 |
 
+需要直接准备公开授权原照时，见[真实参考照片](licensed-references.md)。中古商品披露用[EC62](../prompts/ecommerce/EC62.md)，两个独立选购入口用[EC63](../prompts/ecommerce/EC63.md)；导航按钮仅是图面，店铺链接另设。
+
 最短路径只解决“下一张做什么”。需要连续制作时，先填写对应的[品类商品事实单](README.md#按品类执行)，再逐张复制任务包中的完整提示词。商品原图负责商品身份；上一张已确认成图只负责允许沿用的视觉系统。每轮重新附原图；发现错误只改有问题的区域。
 
-## 61 套场景如何使用
+## 63 套场景如何使用
 
-先在[高频成片画廊](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/)选择主图、场景、详情、活动、编辑或商业创意入口，默认精选26张常用卡。需要特定部件或资料核对时再切换“结构核对”；它不是每件商品都必须制作的一套图片。
+先在[高频成片画廊](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/)选择主图、场景、详情、活动、编辑或商业创意入口，默认精选28张常用卡。需要特定部件或资料核对时再切换“结构核对”；它不是每件商品都必须制作的一套图片。
 
 | 当前交付 | 优先卡片 | 必须有的材料 |
 | --- | --- | --- |

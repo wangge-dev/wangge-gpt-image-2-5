@@ -15,6 +15,8 @@ def build():
         e['product_category'] = e.get('product_category', '通用品类' if e['group']=='ecommerce' or e['category']=='Products & E-commerce' else '非商品专项')
         e['reference'] = '需要' if e.get('requires_reference') or re.search(r'图[1一AB]|参考照|上传|参考图', e['prompt']) else '按卡片说明'
         e['has_result'] = e.get('preview_kind') == 'user_result'
+        if e.get('licensed_references'):
+            e['images'] = [dict(ref, url='../' + ref['path'], label=f"真实输入参考 · {ref['label']} · {ref['author']} · {ref['license']}") for ref in e['licensed_references']]
         entries.append(e)
     for folder in ['cases', 'experiments']:
         for path in sorted((ROOT/folder).glob('[CE][0-9]*.md')):

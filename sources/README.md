@@ -1,5 +1,11 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-10-22独立成片任务与真实输入参考
+
+新增EC62、EC63为本库原创，不占旧库541／35／506盘点。EC07固定07-ugc-style原文重读，保留四个来源变体键，修正商品机位、强偏色和人物／开箱缺真实关系照的问题；同步CSV该行说明，仍588来源行。
+
+真实照片复用既有原件，逐图复核作者、许可和输入职责：方桌Juhan Sonin／CC BY 2.0、历史铁盒Berthold Werner／CC BY-SA 4.0、键盘System76／CC BY-SA 4.0。前两文件页可读；System76网页读取失败后由Commons imageinfo接口取得作者与许可元数据。许可正文可读，原件本地打开并核尺寸；没有改色、裁切或新增副本。照片和改编不归本库MIT，不暗示品牌认可。见[三图参考页](../ecommerce/licensed-references.md)与[本批记录](../maintenance/reviews/2026-10-22-independent-tasks-and-licensed-references.md)。当前64预览含三张输入参考预览与24示意，3历史用户结果不变；未生图。
+
 ## 2026-10-22原库重新对标与常用视觉入口补齐
 
 重新读取原作者`freestylefly/awesome-gpt-image-2`固定HEAD `63e6176fa01be51c000108dacd72716d3e46784b`的`data/cases.json`、`data/style-library.json`、中文README及`docs/design/gpt-image-2-5/real-cases.md`：541案例均有图片字段、13类、22模板；四组新旧对比保留了提示词和记录，但记录明示工具没有返回具体模型ID，不能升级为本库型号实测。fork、buluslan、EvoLink HEAD与10-19一致；来源CSV仍588行、gallery组541／35／506，不批量复制506条待选内容。

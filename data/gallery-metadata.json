@@ -5349,4 +5349,21 @@
     "task": "结构与资料核对",
     "featured": false
   }
+  ,
+  "EC62": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "详情成片",
+    "featured": true,
+    "preview_label": "真实输入参考 · CC BY-SA 4.0"
+  },
+  "EC63": {
+    "reference": "需要",
+    "task": "广告与详情",
+    "product_category": "通用品类",
+    "entry": "活动成片",
+    "featured": true,
+    "preview_label": "真实输入参考 · CC BY-SA 4.0"
+  }
 }
