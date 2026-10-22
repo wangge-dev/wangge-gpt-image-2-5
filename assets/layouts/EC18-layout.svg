@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1625" viewBox="0 0 960 1625" role="img" aria-labelledby="title desc">
+  <title id="title">EC18 服装隐形模特构图示意</title>
+  <desc id="desc">衣物正面、肩线与下摆完整，撑形不改版型；领口内侧只能用真实近照，不补领标。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1625" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC18 · 服装隐形模特</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1260" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="235.6" width="739.2" height="1108.8" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="228" y="336.4" width="504" height="907.2" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="781" font-size="29" text-anchor="middle" font-weight="700">衣物原版型</text>
+    <text x="480" y="819" font-size="29" text-anchor="middle" font-weight="700">无人体／衣架</text>
+    <rect x="366.6" y="349" width="226.8" height="170.1" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="444.05" font-size="27" text-anchor="middle" font-weight="400">真实领口内侧</text>
+    <text x="48" y="1480" font-size="27">衣物正面、肩线与下摆完整，撑形不改版型</text>
+    <text x="48" y="1526" font-size="27">领口内侧只能用真实近照，不补领标</text>
+    <text x="48" y="1572" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

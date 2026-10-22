@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="838" viewBox="0 0 960 838" role="img" aria-labelledby="title desc">
+  <title id="title">G57 商品跨出广告牌内框的立体主视觉构图示意</title>
+  <desc id="desc">16:9，左35%文字，商品跨内框而非整罐悬空；遮挡与接触阴影表达概念，不代表可施工。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="838" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">G57 · 商品跨出广告牌内框的立体主视觉</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="472.5" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="188.35" width="739.2" height="415.8" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="144" y="240.32" width="630" height="307.13" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="459" y="403.89" font-size="27" text-anchor="middle" font-weight="400">广告牌内框</text>
+    <rect x="177.6" y="297.02" width="235.2" height="165.38" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="295.2" y="389.71" font-size="27" text-anchor="middle" font-weight="400">批准标题</text>
+    <rect x="572.4" y="275.76" width="268.8" height="248.06" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="706.8" y="390.79" font-size="29" text-anchor="middle" font-weight="700">单件商品</text>
+    <text x="706.8" y="428.79" font-size="29" text-anchor="middle" font-weight="700">部分越内框</text>
+    <path d="M564 533.27 L849.6 533.27" stroke="#79716a" stroke-width="4"/>
+    <text x="48" y="692.5" font-size="27">16:9，左35%文字，商品跨内框而非整罐悬空</text>
+    <text x="48" y="738.5" font-size="27">遮挡与接触阴影表达概念，不代表可施工</text>
+    <text x="48" y="784.5" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

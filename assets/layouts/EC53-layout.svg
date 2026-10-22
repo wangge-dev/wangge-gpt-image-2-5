@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1415" viewBox="0 0 960 1415" role="img" aria-labelledby="title desc">
+  <title id="title">EC53 商品、模特与氛围三参考图职责绑定构图示意</title>
+  <desc id="desc">人物与商品整组等比例平移，不变姿态遮挡；氛围只管背景；精确保留需外部合成。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1415" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC53 · 商品、模特与氛围三参考图职责绑定</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1050" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="223" width="739.2" height="924" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="127.2" y="244" width="705.6" height="882" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="307" font-size="26" text-anchor="middle" font-weight="400">背景氛围编辑区</text>
+    <ellipse cx="433.8" cy="479.2" rx="72.24" ry="95.55000000000001" fill="#faf7f2" stroke="#79716a" stroke-width="3"/>
+    <rect x="253.2" y="608.88" width="361.2" height="443.63" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="345.6" y="979" font-size="26" text-anchor="middle" font-weight="400">原人物</text>
+    <rect x="459" y="622" width="235.2" height="346.5" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="576.6" y="786.25" font-size="29" text-anchor="middle" font-weight="700">原商品</text>
+    <text x="576.6" y="824.25" font-size="29" text-anchor="middle" font-weight="700">接触不变</text>
+    <text x="48" y="1270" font-size="27">人物与商品整组等比例平移，不变姿态遮挡</text>
+    <text x="48" y="1316" font-size="27">氛围只管背景；精确保留需外部合成</text>
+    <text x="48" y="1362" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

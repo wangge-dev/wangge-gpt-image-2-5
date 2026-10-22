@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1415" viewBox="0 0 960 1415" role="img" aria-labelledby="title desc">
+  <title id="title">EC57 三口味系列主次陈列与身份隔离构图示意</title>
+  <desc id="desc">上18%标题／中72%陈列／下10%留白；中央靠席位与留白突出，不伪造更大规格。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1415" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC57 · 三口味系列主次陈列与身份隔离</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1050" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="223" width="739.2" height="924" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="110.4" y="223" width="739.2" height="165.9" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="315.95" font-size="27" text-anchor="middle" font-weight="400">批准选款标题</text>
+    <rect x="144" y="580" width="184.8" height="420" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="236.4" y="781" font-size="27" text-anchor="middle" font-weight="400">左款</text>
+    <text x="236.4" y="819" font-size="27" text-anchor="middle" font-weight="400">独立身份</text>
+    <rect x="387.6" y="580" width="184.8" height="420" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="781" font-size="29" text-anchor="middle" font-weight="700">主款</text>
+    <text x="480" y="819" font-size="29" text-anchor="middle" font-weight="700">独立身份</text>
+    <rect x="631.2" y="580" width="184.8" height="420" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="723.6" y="781" font-size="27" text-anchor="middle" font-weight="400">右款</text>
+    <text x="723.6" y="819" font-size="27" text-anchor="middle" font-weight="400">独立身份</text>
+    <path d="M127.2 1012.6 L832.8 1012.6" stroke="#79716a" stroke-width="4"/>
+    <text x="480" y="1094.5" font-size="26" text-anchor="middle" font-weight="400">同一支撑面 · 人工尺寸依据</text>
+    <text x="48" y="1270" font-size="27">上18%标题／中72%陈列／下10%留白</text>
+    <text x="48" y="1316" font-size="27">中央靠席位与留白突出，不伪造更大规格</text>
+    <text x="48" y="1362" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

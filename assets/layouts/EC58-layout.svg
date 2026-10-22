@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1485" viewBox="0 0 960 1485" role="img" aria-labelledby="title desc">
+  <title id="title">EC58 腕表右侧主视觉与左侧短文案广告构图示意</title>
+  <desc id="desc">3:4，内部左30%文字／中15%间隔／右55%商品；完整原照适配右区，不拉伸、不裁表带。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1485" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC58 · 腕表右侧主视觉与左侧短文案广告</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1120" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="227.2" width="739.2" height="985.6" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="110.4" y="328" width="221.76" height="616" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="221.28" y="627" font-size="27" text-anchor="middle" font-weight="400">短标题</text>
+    <text x="221.28" y="665" font-size="27" text-anchor="middle" font-weight="400">事实短文</text>
+    <rect x="443.04" y="350.4" width="406.56" height="739.2" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="646.32" y="711" font-size="29" text-anchor="middle" font-weight="700">完整腕表</text>
+    <text x="646.32" y="749" font-size="29" text-anchor="middle" font-weight="700">原可见面与时刻</text>
+    <text x="48" y="1340" font-size="27">3:4，内部左30%文字／中15%间隔／右55%商品</text>
+    <text x="48" y="1386" font-size="27">完整原照适配右区，不拉伸、不裁表带</text>
+    <text x="48" y="1432" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

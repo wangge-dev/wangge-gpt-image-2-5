@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="925" viewBox="0 0 960 925" role="img" aria-labelledby="title desc">
+  <title id="title">EC10 包装与开箱陈列构图示意</title>
+  <desc id="desc">3:2共同支撑面，清单逐项对应真实组件；缺包装图只做商品，不留假盒子或补赠品。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="925" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC10 · 包装与开箱陈列</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="560" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="193.6" width="739.2" height="492.8" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="152.4" y="272" width="243.6" height="190.4" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="274.2" y="358.2" font-size="27" text-anchor="middle" font-weight="400">真实包装</text>
+    <text x="274.2" y="396.2" font-size="27" text-anchor="middle" font-weight="400">批准状态</text>
+    <rect x="610.2" y="288.8" width="184.8" height="134.4" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="702.6" y="366" font-size="27" text-anchor="middle" font-weight="400">清单组件</text>
+    <rect x="387.6" y="389.6" width="210" height="235.2" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="492.6" y="517.2" font-size="29" text-anchor="middle" font-weight="700">单件商品</text>
+    <path d="M123 636 L837 636" stroke="#79716a" stroke-width="4"/>
+    <text x="48" y="780" font-size="27">3:2共同支撑面，清单逐项对应真实组件</text>
+    <text x="48" y="826" font-size="27">缺包装图只做商品，不留假盒子或补赠品</text>
+    <text x="48" y="872" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

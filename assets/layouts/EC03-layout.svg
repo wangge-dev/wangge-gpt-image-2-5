@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1205" viewBox="0 0 960 1205" role="img" aria-labelledby="title desc">
+  <title id="title">EC03 俯拍平铺静物构图示意</title>
+  <desc id="desc">1:1真实俯拍，上方三分之一安静留白；道具只按批准数量与位置，不代表赠品。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1205" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC03 · 俯拍平铺静物</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="840" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="210.4" width="739.2" height="739.2" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="118.8" y="218.8" width="722.4" height="239.4" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="348.5" font-size="27" text-anchor="middle" font-weight="400">上方安静留白</text>
+    <rect x="320.4" y="504.4" width="319.2" height="428.4" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="728.6" font-size="29" text-anchor="middle" font-weight="700">真实俯拍商品</text>
+    <rect x="148.2" y="680.8" width="121.8" height="151.2" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="209.1" y="747.4" font-size="27" text-anchor="middle" font-weight="400">批准</text>
+    <text x="209.1" y="785.4" font-size="27" text-anchor="middle" font-weight="400">道具</text>
+    <rect x="698.4" y="680.8" width="121.8" height="151.2" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="759.3" y="747.4" font-size="27" text-anchor="middle" font-weight="400">批准</text>
+    <text x="759.3" y="785.4" font-size="27" text-anchor="middle" font-weight="400">道具</text>
+    <text x="48" y="1060" font-size="27">1:1真实俯拍，上方三分之一安静留白</text>
+    <text x="48" y="1106" font-size="27">道具只按批准数量与位置，不代表赠品</text>
+    <text x="48" y="1152" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

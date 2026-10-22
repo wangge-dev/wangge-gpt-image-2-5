@@ -77,14 +77,17 @@ def main():
     outputs['ecommerce/README.md'] = '\n'.join(lines)
     gallery = groups.get('gallery', [])
     category_names = {'Architecture & Spaces':'建筑与空间','Brand & Logos':'品牌与标志','Characters & People':'人物与角色','Charts & Infographics':'图表与科普','Documents & Publishing':'文档与出版','History & Classical Themes':'历史与古典','Illustration & Art':'插画与艺术','Other Use Cases':'其他创意','Photography & Realism':'摄影与写实','Posters & Typography':'海报与字体','Products & E-commerce':'商品与电商','Scenes & Storytelling':'场景与叙事','UI & Interfaces':'界面与资料卡'}
-    lines = ['# 精选创意画廊', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(gallery)} 条独立改写提示词，覆盖 {len(set(e["category"] for e in gallery))} 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。', '', '图片分别标注生成示例或原库参考，点击标题查看完整提示词。']
+    lines = ['# 精选创意画廊', '', '[首页](../README.md) · [全部提示词](../prompts/README.md)', '', f'{len(gallery)} 条独立改写提示词，覆盖 {len(set(e["category"] for e in gallery))} 类创意。每张卡有完整正文、准备材料、后续修改与原作者来源。', '', '图片分别标注生成示例、本库构图示意或原库参考，点击标题查看完整提示词。']
     for cat in dict.fromkeys(e['category'] for e in gallery):
         lines += ['', f'## {category_names.get(cat,cat)}', '']
         for e in gallery:
             if e['category'] == cat:
                 lines += [f"### [{e['id']} {e['title']}](../prompts/gallery/{e['id']}.md)", '']
                 if e.get('preview'):
-                    lines += [f"![{e['title']}]({'../' + e['preview'] if e.get('preview_kind') == 'user_result' else e['preview']})", '', ("生成示例：wangge-dev / ChatGPT 网页版" if e.get("preview_kind") == "user_result" else f"原库参考：{e['sources'][0]['label']}"), '']
+                    kind = e.get('preview_kind')
+                    url = '../' + e['preview'] if kind in {'user_result', 'layout_diagram'} else e['preview']
+                    caption = '本库构图示意 · 非实测成图' if kind == 'layout_diagram' else '生成示例：wangge-dev / ChatGPT 网页版' if kind == 'user_result' else f"原库参考：{e['sources'][0]['label']}"
+                    lines += [f"![{e['title']}]({url})", '', caption, '']
                 else:
                     lines += ['暂无配图，打开卡片可复制完整提示词。', '']
     outputs['gallery/README.md'] = '\n'.join(lines)

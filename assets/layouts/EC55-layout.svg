@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1415" viewBox="0 0 960 1415" role="img" aria-labelledby="title desc">
+  <title id="title">EC55 食品包装三证据区：白底、配料语境与成品场景构图示意</title>
+  <desc id="desc">默认4:5，30%包装／32%配料／38%成品；三区各自有真实证据，不生成未知食材。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1415" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC55 · 食品包装三证据区：白底、配料语境与成品场景</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1050" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="223" width="739.2" height="924" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="110.4" y="223" width="739.2" height="277.2" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="371.6" font-size="27" text-anchor="middle" font-weight="400">包装识别 · 30%</text>
+    <rect x="110.4" y="500.2" width="739.2" height="296.1" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="658.25" font-size="29" text-anchor="middle" font-weight="700">包装 + 真实配料 · 32%</text>
+    <rect x="110.4" y="796.3" width="739.2" height="350.7" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="981.65" font-size="27" text-anchor="middle" font-weight="400">包装 + 已提供成品 · 38%</text>
+    <text x="48" y="1270" font-size="27">默认4:5，30%包装／32%配料／38%成品</text>
+    <text x="48" y="1316" font-size="27">三区各自有真实证据，不生成未知食材</text>
+    <text x="48" y="1362" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

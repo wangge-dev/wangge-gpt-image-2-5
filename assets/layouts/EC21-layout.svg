@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1205" viewBox="0 0 960 1205" role="img" aria-labelledby="title desc">
+  <title id="title">EC21 四季与节日系列图构图示意</title>
+  <desc id="desc">1:1四格，同SKU各格尺度和席位一致；四格为系列概念，不代表出售四件。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1205" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC21 · 四季与节日系列图</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="840" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="210.4" width="739.2" height="739.2" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="114.6" y="214.6" width="352.8" height="352.8" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="291" y="269.2" font-size="26" text-anchor="middle" font-weight="400">主题1</text>
+    <rect x="219.6" y="302.8" width="142.8" height="218.4" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="291" y="422" font-size="29" text-anchor="middle" font-weight="700">同款</text>
+    <rect x="492.6" y="214.6" width="352.8" height="352.8" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="669" y="269.2" font-size="26" text-anchor="middle" font-weight="400">主题2</text>
+    <rect x="597.6" y="302.8" width="142.8" height="218.4" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="669" y="422" font-size="29" text-anchor="middle" font-weight="700">同款</text>
+    <rect x="114.6" y="592.6" width="352.8" height="352.8" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="291" y="647.2" font-size="26" text-anchor="middle" font-weight="400">主题3</text>
+    <rect x="219.6" y="680.8" width="142.8" height="218.4" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="291" y="800" font-size="29" text-anchor="middle" font-weight="700">同款</text>
+    <rect x="492.6" y="592.6" width="352.8" height="352.8" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="669" y="647.2" font-size="26" text-anchor="middle" font-weight="400">主题4</text>
+    <rect x="597.6" y="680.8" width="142.8" height="218.4" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="669" y="800" font-size="29" text-anchor="middle" font-weight="700">同款</text>
+    <text x="48" y="1060" font-size="27">1:1四格，同SKU各格尺度和席位一致</text>
+    <text x="48" y="1106" font-size="27">四格为系列概念，不代表出售四件</text>
+    <text x="48" y="1152" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

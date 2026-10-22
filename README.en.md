@@ -4,9 +4,9 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 548 base prompts (91 adapted cards, 446 originals and 11 prompts developed from documented 2.5 examples), plus 146 complete variations. The collection includes 410 general templates, 61 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 97 variations, from clean product shots to seasonal campaigns.
+Explore 548 base prompts (91 adapted cards, 446 originals and 11 prompts developed from documented 2.5 examples), plus 149 complete variations. The collection includes 410 general templates, 61 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 100 variations, from clean product shots to seasonal campaigns.
 
-This batch separates half-body and full-body input requirements in [EC08 model displays](prompts/ecommerce/EC08.md). [EC53 worn-product background edits](prompts/ecommerce/EC53.md) preserve photographed contact and occlusion, with a single-worn-photo variant. [G27 commercial storyboards](prompts/gallery/G27.md) use only supplied states and add a product-only three-panel concept. Two original [layout diagrams](assets/layouts/README.md), for EC05 promotions and EC14 product sets, bring the total to five. These are schematics, not tested outputs. References are added gradually; image testing remains optional.
+All 26 featured production cards now have a schematic or existing preview. This batch adds 19 original diagrams and strengthens [EC06 social covers](prompts/ecommerce/EC06.md), [EC56 ingredient layouts](prompts/ecommerce/EC56.md), [EC57 SKU lineups](prompts/ecommerce/EC57.md), and [EC58 watch advertisements](prompts/ecommerce/EC58.md). Three complete variants cover a product-only pouch, a two-SKU lineup, and a single-photo watch ad. The [24 original layout diagrams](assets/layouts/README.md) are schematics, not generated outputs; image testing remains optional.
 
 Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Fill and submit one product fact sheet first, then use either the single-image minimum path or the complete-materials path. Each package provides six prompts, required references, acceptance checks, and a focused repair instruction.
 
@@ -17,6 +17,16 @@ The gallery now starts with 26 practical image-production cards, with separate r
 [Image-production gallery](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/): choose an output route, then filter by task, product category, reference-image requirements and available results. Optional image testing does not block prompt maintenance.
 
 [One product, three workflows](ecommerce/evolink-product-story.md): scene replacement, creator-style product imagery and localized marketing assets. Includes EvoLink-supplied examples and Chinese adaptations.
+
+## Choose a layout, then copy the prompt
+
+Original Chinese schematics below link to the complete prompts. These are not generated results.
+
+| [Product shot](prompts/ecommerce/EC01.md) | [Lifestyle scene](prompts/ecommerce/EC02.md) | [Detail module](prompts/ecommerce/EC11.md) |
+| --- | --- | --- |
+| ![Product layout schematic](assets/layouts/EC01-layout.svg) | ![Scene layout schematic](assets/layouts/EC02-layout.svg) | ![Detail layout schematic](assets/layouts/EC11-layout.svg) |
+| [Social cover](prompts/ecommerce/EC06.md) | [SKU selection](prompts/ecommerce/EC57.md) | [Watch advertisement](prompts/ecommerce/EC58.md) |
+| ![Social cover schematic](assets/layouts/EC06-layout.svg) | ![SKU lineup schematic](assets/layouts/EC57-layout.svg) | ![Watch advertisement schematic](assets/layouts/EC58-layout.svg) |
 
 ## Explore
 

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1415" viewBox="0 0 960 1415" role="img" aria-labelledby="title desc">
+  <title id="title">EC02 生活场景商品图构图示意</title>
+  <desc id="desc">商品约画高50%，道具最多两件且在外侧；背景不证明使用、赠品或实际拍摄地点。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1415" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC02 · 生活场景商品图</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1050" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="223" width="739.2" height="924" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="123" y="249.25" width="714" height="315" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="416.75" font-size="27" text-anchor="middle" font-weight="400">后景环境 · 适度虚化</text>
+    <rect x="295.2" y="611.5" width="369.6" height="525" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="865" font-size="29" text-anchor="middle" font-weight="700">唯一商品</text>
+    <text x="480" y="903" font-size="29" text-anchor="middle" font-weight="700">约画高50%</text>
+    <path d="M123 1144.9 L837 1144.9" stroke="#79716a" stroke-width="4"/>
+    <text x="48" y="1270" font-size="27">商品约画高50%，道具最多两件且在外侧</text>
+    <text x="48" y="1316" font-size="27">背景不证明使用、赠品或实际拍摄地点</text>
+    <text x="48" y="1362" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1625" viewBox="0 0 960 1625" role="img" aria-labelledby="title desc">
+  <title id="title">EC08 模特持用与穿戴展示构图示意</title>
+  <desc id="desc">默认半身，脸与商品为双焦点，6%安全边距；全身版需全身素材；比例来自人工依据。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1625" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC08 · 模特持用与穿戴展示</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1260" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="235.6" width="739.2" height="1108.8" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <ellipse cx="480" cy="469.46" rx="63.84" ry="116.42400000000002" fill="#faf7f2" stroke="#79716a" stroke-width="3"/>
+    <rect x="320.4" y="627.46" width="319.2" height="540.54" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="764.8" font-size="26" text-anchor="middle" font-weight="400">成年人物区</text>
+    <rect x="488.4" y="865.6" width="218.4" height="340.2" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="597.6" y="1026.7" font-size="29" text-anchor="middle" font-weight="700">商品区</text>
+    <text x="597.6" y="1064.7" font-size="29" text-anchor="middle" font-weight="700">不挡标签</text>
+    <text x="480" y="1268.8" font-size="26" text-anchor="middle" font-weight="400">只画已提供的人体范围</text>
+    <text x="48" y="1480" font-size="27">默认半身，脸与商品为双焦点，6%安全边距</text>
+    <text x="48" y="1526" font-size="27">全身版需全身素材；比例来自人工依据</text>
+    <text x="48" y="1572" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

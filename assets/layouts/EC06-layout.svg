@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1485" viewBox="0 0 960 1485" role="img" aria-labelledby="title desc">
+  <title id="title">EC06 社媒种草与视频封面构图示意</title>
+  <desc id="desc">默认3:4，内部24%标题／64%商品／12%留白；方图、9:16分支另用正文，不套本图。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1485" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC06 · 社媒种草与视频封面</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1120" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="227.2" width="739.2" height="985.6" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="110.4" y="227.2" width="739.2" height="236.32" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="355.36" font-size="27" text-anchor="middle" font-weight="400">批准短标题 · 24%</text>
+    <rect x="295.2" y="473.6" width="411.6" height="616" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="501" y="772.6" font-size="29" text-anchor="middle" font-weight="700">完整商品</text>
+    <text x="501" y="810.6" font-size="29" text-anchor="middle" font-weight="700">中段64%</text>
+    <rect x="110.4" y="1095.2" width="739.2" height="117.6" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="1164" font-size="27" text-anchor="middle" font-weight="400">下段留白 · 12%</text>
+    <text x="48" y="1340" font-size="27">默认3:4，内部24%标题／64%商品／12%留白</text>
+    <text x="48" y="1386" font-size="27">方图、9:16分支另用正文，不套本图</text>
+    <text x="48" y="1432" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

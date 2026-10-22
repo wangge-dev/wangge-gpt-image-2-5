@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1205" viewBox="0 0 960 1205" role="img" aria-labelledby="title desc">
+  <title id="title">EC01 白底与纯色商品主图构图示意</title>
+  <desc id="desc">商品高约75%，宽商品优先保全轮廓；不加道具或画外字，原角度与原比例。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1205" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC01 · 白底与纯色商品主图</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="840" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="127.2" y="227.2" width="705.6" height="705.6" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="274.2" y="265" width="411.6" height="630" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="571" font-size="29" text-anchor="middle" font-weight="700">单件商品</text>
+    <text x="480" y="609" font-size="29" text-anchor="middle" font-weight="700">完整轮廓 · 原角度</text>
+    <text x="48" y="1060" font-size="27">商品高约75%，宽商品优先保全轮廓</text>
+    <text x="48" y="1106" font-size="27">不加道具或画外字，原角度与原比例</text>
+    <text x="48" y="1152" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

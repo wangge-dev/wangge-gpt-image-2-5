@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1415" viewBox="0 0 960 1415" role="img" aria-labelledby="title desc">
+  <title id="title">EC32 同SKU跨活动视觉系列构图示意</title>
+  <desc id="desc">标题左上、商品居右，逐张同一固定母版；首张可无母版；道具不继承旧活动。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1415" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC32 · 同SKU跨活动视觉系列</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1050" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="223" width="739.2" height="924" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="127.2" y="286" width="277.2" height="315" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="265.8" y="434.5" font-size="27" text-anchor="middle" font-weight="400">本轮标题</text>
+    <text x="265.8" y="472.5" font-size="27" text-anchor="middle" font-weight="400">批准说明</text>
+    <rect x="454.8" y="443.5" width="310.8" height="682.5" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="610.2" y="775.75" font-size="29" text-anchor="middle" font-weight="700">同一SKU</text>
+    <text x="610.2" y="813.75" font-size="29" text-anchor="middle" font-weight="700">高约65%</text>
+    <rect x="135.6" y="895" width="201.6" height="178.5" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="236.4" y="994.25" font-size="27" text-anchor="middle" font-weight="400">批准道具</text>
+    <text x="48" y="1270" font-size="27">标题左上、商品居右，逐张同一固定母版</text>
+    <text x="48" y="1316" font-size="27">首张可无母版；道具不继承旧活动</text>
+    <text x="48" y="1362" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

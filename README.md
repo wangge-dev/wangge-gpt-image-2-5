@@ -6,15 +6,15 @@
 
 独立整理，以 OpenAI GPT Image 2.5 为目标，对照官方说明改写创意与电商提示词。保留原作者的创意和出处，补齐中文使用方式、参考图分工、准确文案与连续修改指令。
 
-**548 条基础提示词 · 146 个完整变体 · 电商、中文编辑与独特商业创意持续扩充。**
+**548 条基础提示词 · 149 个完整变体 · 电商、中文编辑与独特商业创意持续扩充。**
 
 电商 EC01–EC61 均提供“拿来就用”的完整示例，同时保留可替换商品、文案和场景的变量模板；八个重点品类提供六步任务包。
 
 最新入口：画廊默认展示26张常用成片卡，可切换主图、场景、详情、活动、编辑与商业创意；结构核对单独查找。商品主题模板不再误归“非商品专项”。白底、场景与详情正文继续保留原视角、明确主体和已审定卖点。
 
-包含 91 张适配卡、446 条原创提示词和11条来源明确的中文提示词；61 套电商场景提供97个变体。
+包含 91 张适配卡、446 条原创提示词和11条来源明确的中文提示词；61 套电商场景提供100个变体。
 
-本批补强[EC08模特持握](prompts/ecommerce/EC08.md)：半身与全身素材条件分开；[EC53真实上身换背景](prompts/ecommerce/EC53.md)保留接触和遮挡，新增单张上身照分支；[G27商业静态分镜](prompts/gallery/G27.md)不再强造开盖或人物过程，只有商品图可做三格概念板。新增[EC05促销海报](assets/layouts/EC05-layout.svg)、[EC14套装主图](assets/layouts/EC14-layout.svg)两张原创构图示意，现共五张，均非实测成图；参考图渐进补、生图实测可选。
+26张常用成片卡现均有示意或既有预览，新增19张原创构图示意，方便先看布局再选词。本批补强[EC06社媒封面](prompts/ecommerce/EC06.md)的三比例版式、[EC56配料广告](prompts/ecommerce/EC56.md)的包装保护通道、[EC57系列选款](prompts/ecommerce/EC57.md)的SKU身份和真实比例、[EC58腕表广告](prompts/ecommerce/EC58.md)的单图路径。新增单图无配料、双款选款、单图腕表三条完整分支。
 
 
 [打开高频成片画廊](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/) · 先选想做的图，再按任务、品类、参考图与生成示例筛选，展开即可复制。提示词维护与可选实测分开推进。
@@ -34,6 +34,16 @@
 | 一次填写商品事实，再按品类从主图做到详情 | [美妆](ecommerce/kits/beauty.md) · [服饰](ecommerce/kits/apparel.md) · [食品](ecommerce/kits/food.md) · [家居](ecommerce/kits/home.md) · [数码](ecommerce/kits/digital.md) · [小家电](ecommerce/kits/appliance.md) · [箱包](ecommerce/kits/bags.md) · [母婴](ecommerce/kits/baby.md) |
 | 换装、透明商品、换语言、草图与图表编辑 | [明确2.5来源 · 11条完整提示词](cases/README.md) |
 | 浏览全部适配卡 | [完整索引](prompts/README.md) |
+
+## 先选构图，再复制正文
+
+以下为本库原创构图示意，点击标题打开完整提示词；示意不是生成效果图。[查看全部24张示意](assets/layouts/README.md)。
+
+| [白底主图](prompts/ecommerce/EC01.md) | [生活场景](prompts/ecommerce/EC02.md) | [卖点详情](prompts/ecommerce/EC11.md) |
+| --- | --- | --- |
+| ![白底主图构图示意](assets/layouts/EC01-layout.svg) | ![生活场景构图示意](assets/layouts/EC02-layout.svg) | ![卖点详情构图示意](assets/layouts/EC11-layout.svg) |
+| [社媒封面](prompts/ecommerce/EC06.md) | [系列选款](prompts/ecommerce/EC57.md) | [腕表商业广告](prompts/ecommerce/EC58.md) |
+| ![社媒封面构图示意](assets/layouts/EC06-layout.svg) | ![系列选款构图示意](assets/layouts/EC57-layout.svg) | ![腕表广告构图示意](assets/layouts/EC58-layout.svg) |
 
 ## 先看几个方向
 

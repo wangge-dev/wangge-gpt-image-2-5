@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1415" viewBox="0 0 960 1415" role="img" aria-labelledby="title desc">
+  <title id="title">EC12 超现实商品创意广告构图示意</title>
+  <desc id="desc">单一空间机制，顶部24%干净留白；幻想只作用于布景，不能改变商品事实。抽象区域不是商品、人物或模型实测。</desc>
+  <rect width="960" height="1415" fill="#faf7f2"/>
+  <g font-family="Microsoft YaHei, Noto Sans CJK SC, sans-serif" fill="#111111">
+    <text x="48" y="60" font-size="32" font-weight="700">EC12 · 超现实商品创意广告</text>
+    <text x="48" y="107" font-size="28" fill="#5a5a5a">本库构图示意 · 非实测成图</text>
+    <rect x="60" y="160" width="840" height="1050" rx="8" fill="#ffffff" stroke="#111111" stroke-width="3"/>
+    <rect x="110.4" y="223" width="739.2" height="924" fill="none" stroke="#79716a" stroke-width="2" stroke-dasharray="12 10"/>
+    <rect x="110.4" y="223" width="739.2" height="210" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="480" y="338" font-size="27" text-anchor="middle" font-weight="400">顶部文案留白 · 本轮无字</text>
+    <rect x="139.8" y="653.5" width="142.8" height="420" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="211.2" y="854.5" font-size="27" text-anchor="middle" font-weight="400">布景</text>
+    <text x="211.2" y="892.5" font-size="27" text-anchor="middle" font-weight="400">不遮挡</text>
+    <rect x="677.4" y="653.5" width="142.8" height="420" rx="14" fill="#faf7f2" stroke="#b5ada4" stroke-width="2"/>
+    <text x="748.8" y="854.5" font-size="27" text-anchor="middle" font-weight="400">布景</text>
+    <text x="748.8" y="892.5" font-size="27" text-anchor="middle" font-weight="400">不遮挡</text>
+    <rect x="324.6" y="590.5" width="310.8" height="504" rx="14" fill="#ffe2db" stroke="#111111" stroke-width="4"/>
+    <text x="480" y="833.5" font-size="29" text-anchor="middle" font-weight="700">唯一商品</text>
+    <text x="480" y="871.5" font-size="29" text-anchor="middle" font-weight="700">高约48%</text>
+    <text x="48" y="1270" font-size="27">单一空间机制，顶部24%干净留白</text>
+    <text x="48" y="1316" font-size="27">幻想只作用于布景，不能改变商品事实</text>
+    <text x="48" y="1362" font-size="25" fill="#5a5a5a">区域、框线与说明是教学标记，不进入成图。</text>
+  </g>
+</svg>

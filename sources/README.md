@@ -1,5 +1,13 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-10-22原库重新对标与常用视觉入口补齐
+
+重新读取原作者`freestylefly/awesome-gpt-image-2`固定HEAD `63e6176fa01be51c000108dacd72716d3e46784b`的`data/cases.json`、`data/style-library.json`、中文README及`docs/design/gpt-image-2-5/real-cases.md`：541案例均有图片字段、13类、22模板；四组新旧对比保留了提示词和记录，但记录明示工具没有返回具体模型ID，不能升级为本库型号实测。fork、buluslan、EvoLink HEAD与10-19一致；来源CSV仍588行、gallery组541／35／506，不批量复制506条待选内容。
+
+本批重读固定buluslan 06社媒JSON及AtlasCloud固定`6c9f79d29082c083b94804a52991d36b1295d5b0`[中文数据](https://github.com/AtlasCloudAI/awesome-gpt-image-2.5-prompts/blob/6c9f79d29082c083b94804a52991d36b1295d5b0/data/prompts_by_locale/zh.json)中的582／590／192及作者链接。582、590原文本为片段，192为短句，不能称取得作者完整生产流程；本库已有正文是任务重构而非逐字翻译。本批修订EC06／EC56／EC57／EC58，保留来源身份与三个社媒变体键，新增三条完整分支；Atlas聚合URL固定到已读版本，不声称X帖本轮直接可读或型号已独立核验。官方2.5方法、Simon主页与BrushGlow指南定向复核，无独立新作者案例转化。
+
+新增19张本库原创MIT示意，不下载或复制新第三方图片。当前24示意、61预览，26张精选均有示意或既有预览；三张历史用户结果不变，未生图或付费采集。逐图默认比例与职责见[示意目录](../assets/layouts/README.md)，对标数据、剩余差距及验证见[本批记录](../maintenance/reviews/2026-10-22-upstream-gap-and-visual-entry.md)。
+
 ## 2026-10-19模特参考、静态分镜与构图示意复核
 
 重读buluslan固定`a3673fb6f316664280e6abd90a60a578c6fb2228`的[08-model-showcase](https://github.com/buluslan/gpt-image2-ecommerce/blob/a3673fb6f316664280e6abd90a60a578c6fb2228/references/templates/08-model-showcase.json)全文，以及awesome固定fork中[Case487](https://github.com/wangge-dev/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md#case-487)全文和@AIwithSynthia署名。保留EC08三个原变体键、G27原预览与作者出处；旧视频创意仅转静态布局并面向2.5适配，不核定原帖2.5型号。来源CSV仍588行，gallery组541项、35已精选／506待选；同步两行改写说明，G27新增本库完整分支不是来源新增案例。
