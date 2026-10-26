@@ -75,7 +75,7 @@
     "preview_label": "本库构图示意 · 非实测成图"
   },
   "EC09": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "广告与详情",
     "product_category": "通用品类",
     "entry": "详情成片",
@@ -128,7 +128,7 @@
     "preview_label": "本库构图示意 · 非实测成图"
   },
   "EC15": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "广告与详情",
     "product_category": "通用品类",
     "entry": "活动成片",
@@ -164,7 +164,7 @@
     "featured": false
   },
   "EC20": {
-    "reference": "需要",
+    "reference": "按分支准备",
     "task": "广告与详情",
     "product_category": "通用品类",
     "entry": "商业创意",
@@ -1121,7 +1121,8 @@
     "product_category": "非商品专项",
     "entry": "编辑与一致性",
     "task": "编辑与一致性",
-    "featured": false
+    "featured": false,
+    "reference": "按分支准备"
   },
   "T25": {
     "title": "线框草图驱动的图文版式",

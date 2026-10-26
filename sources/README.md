@@ -1,5 +1,13 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-10-26真实对照、直播、编辑封面与本地化
+
+原作者HEAD `63e6176fa01be51c000108dacd72716d3e46784b`、个人fork `b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`、buluslan `73abd50bf2b689b5a453f28ddd7b0016415deec6`、EvoLink `963b1f40bfbe5ff81f0c9684587face6a500bc9a`均与上次相同。Atlas从6c9f79d至`6f85d1a96b9fcfb32c7f40c06420f4582c6389ee`的4提交只改20份README，中文数据仍418项、无新ID，不按提交标题声称新案例。
+
+重读buluslan固定a3673fb的09-before-after、15-livestream、20-magazine-editorial三份完整模板；EC09／EC15／EC20保留clinical等10个来源变体键，修正真实照片曝光、人物接触和半身扩造，并各补一条本库少素材分支。CSV仍588行，source_variants／adapted_variants仍表示原来源方向映射；新增原创分支只记改写说明与正文，不冒充上游新增。T24仍本库原创，新增单图本地化，不进入旧库盘点。gallery541／35／506不变。
+
+官方2.5指南支持清晰构图、逐图职责、准确文案及局部修改方法，不证明本库实测。Simon主页与BrushGlow指南定向可读，无独立新案例转化，未全量作者回扫。既有三张许可照片和64条预览记录不变，本轮不新增采集或生图。完整证据及边界见[本批记录](../maintenance/reviews/2026-10-26-comparison-live-editorial-localization.md)。
+
 ## 2026-10-22独立成片任务与真实输入参考
 
 新增EC62、EC63为本库原创，不占旧库541／35／506盘点。EC07固定07-ugc-style原文重读，保留四个来源变体键，修正商品机位、强偏色和人物／开箱缺真实关系照的问题；同步CSV该行说明，仍588来源行。

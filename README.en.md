@@ -4,7 +4,9 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 550 base prompts (91 adapted cards, 448 originals and 11 prompts developed from documented 2.5 examples), plus 149 complete variations. The collection includes 410 general templates, 63 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 100 variations, from clean product shots to seasonal campaigns.
+Explore 550 base prompts (91 adapted cards, 448 originals and 11 prompts developed from documented 2.5 examples), plus 153 complete variations. The collection includes 410 general templates, 63 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 103 variations, from clean product shots to seasonal campaigns.
+
+Revised [EC09 factual before/after layouts](prompts/ecommerce/EC09.md), [EC15 livestream announcements](prompts/ecommerce/EC15.md), [EC20 editorial covers](prompts/ecommerce/EC20.md) and [T24 Chinese localization](prompts/templates/T24.md) include four complete reduced-input routes. Missing evidence is not replaced with invented outcomes, contact poses or body details.
 
 New independent tasks cover [EC62 used-item condition disclosure](prompts/ecommerce/EC62.md) and [EC63 two-category shop navigation](prompts/ecommerce/EC63.md). [EC07 candid-style advertising](prompts/ecommerce/EC07.md) now separates its single-photo still life from people and unboxing routes. [Three licensed real input photographs](ecommerce/licensed-references.md) include authors, licenses and explicit roles; they are not generated outputs. All 28 featured cards have a preview; the collection has 64 previews, including 24 original schematics. Image testing remains optional.
 
