@@ -2,6 +2,10 @@
 
 每轮先检查已确认来源的后续文章和原帖，再扩展作者。来源案例和旧创意分别记录；同一原帖被转载多次只保留一个条目。
 
+### 2026-10-26后续人工批
+
+再次读取官方2.5指南、Simon主页与BrushGlow指南，近期条目与本日上一批一致，无新增独立原生2.5案例，不把裁切工具或作者自述测试当本库效果。EC64／EC65为本库原创，T35为原卡实质修订，不计作者来源转化。五仓HEAD已实际复读且未变，许可复核方式见[本批记录](../maintenance/reviews/2026-10-26-faq-delivery-scope-and-removal.md)。
+
 ### 2026-10-26定向核查
 
 读取[OpenAI当前2.5指南](https://developers.openai.com/api/docs/guides/image-prompting)、[Simon主页](https://simonwillison.net/)与[BrushGlow公开指南](https://gptimage2-5.art/blog/gpt-image-2-5-prompt-guide)。Simon近期SeamCutter裁切工具与QuickStudy画布文章不是可直接入库的完整2.5成片提示；BrushGlow页仍标9-11，角色与Keep／Change方法可参照，不把作者自述测试计本库结果。未全量作者／X回扫、无新增原生2.5案例。实际转化为现有四卡素材职责与文字边界修订，见[本批记录](../maintenance/reviews/2026-10-26-comparison-live-editorial-localization.md)。

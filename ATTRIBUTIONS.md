@@ -44,6 +44,8 @@ C006、C007使用OpenAI提示词指南的外链输入与Sunburst结果图，图�
 
 以上样板输入图不属于本仓库 MIT 文字许可。公开原图或改编结果时，须按文件页保留署名、许可链接与改动说明；CC BY-SA 素材还须遵守相同方式共享要求。三份样板均未因收入本库而变成品牌授权广告，且截至2026-09-29均未在本任务中生成结果图。
 
+2026-10-26新增EC64／EC65将既有方桌和键盘原照用于买前问答与随售范围教学；仍逐图保留原作者、源页、CC BY 2.0或CC BY-SA 4.0及职责，不改为本库MIT，不视为品牌认可或真实供货配置。见[真实参考入口](ecommerce/licensed-references.md)。
+
 ## EvoLink电商来源专题
 
 C009–C011原案例与图片由EvoLinkAI提供，来源为[963b1f4版本](https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/tree/963b1f40bfbe5ff81f0c9684587face6a500bc9a)，依其[CC BY 4.0许可](https://creativecommons.org/licenses/by/4.0/)署名引用。中文正文由wangge-dev改写，新增输入分工、文案限制、单张输出及修改要求。图片通过原来源外链展示，仍属于原案例；不表示中文改写已复现。原仓库其他历史图片未随本次导入。

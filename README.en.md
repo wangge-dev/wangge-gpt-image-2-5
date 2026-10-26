@@ -4,17 +4,19 @@
 
 **Copy-ready prompts for GPT Image 2.5, with a focus on ecommerce and creative image editing.**
 
-Explore 550 base prompts (91 adapted cards, 448 originals and 11 prompts developed from documented 2.5 examples), plus 153 complete variations. The collection includes 410 general templates, 63 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 103 variations, from clean product shots to seasonal campaigns.
+Explore 552 base prompts (91 adapted cards, 450 originals and 11 prompts developed from documented 2.5 examples), plus 155 complete variations. The collection includes 410 general templates, 65 ecommerce scenarios and 57 curated creative prompts. Ecommerce templates offer 104 variations, from clean product shots to seasonal campaigns.
 
-Revised [EC09 factual before/after layouts](prompts/ecommerce/EC09.md), [EC15 livestream announcements](prompts/ecommerce/EC15.md), [EC20 editorial covers](prompts/ecommerce/EC20.md) and [T24 Chinese localization](prompts/templates/T24.md) include four complete reduced-input routes. Missing evidence is not replaced with invented outcomes, contact poses or body details.
+New [EC64 buyer questions](prompts/ecommerce/EC64.md) and [EC65 included items versus photo props](prompts/ecommerce/EC65.md) use attributed, licensed input photos. [T35 element removal](prompts/templates/T35.md) now has complete text-only and single-image simple-background routes. Answers and delivery scope come from approved text, not image-based guesses; missing prop photos can use a text-only exclusion panel.
 
-New independent tasks cover [EC62 used-item condition disclosure](prompts/ecommerce/EC62.md) and [EC63 two-category shop navigation](prompts/ecommerce/EC63.md). [EC07 candid-style advertising](prompts/ecommerce/EC07.md) now separates its single-photo still life from people and unboxing routes. [Three licensed real input photographs](ecommerce/licensed-references.md) include authors, licenses and explicit roles; they are not generated outputs. All 28 featured cards have a preview; the collection has 64 previews, including 24 original schematics. Image testing remains optional.
+Previously revised [EC09 factual before/after layouts](prompts/ecommerce/EC09.md), [EC15 livestream announcements](prompts/ecommerce/EC15.md), [EC20 editorial covers](prompts/ecommerce/EC20.md) and [T24 Chinese localization](prompts/templates/T24.md) include four complete reduced-input routes. Missing evidence is not replaced with invented outcomes, contact poses or body details.
+
+New independent tasks cover [EC62 used-item condition disclosure](prompts/ecommerce/EC62.md) and [EC63 two-category shop navigation](prompts/ecommerce/EC63.md). [EC07 candid-style advertising](prompts/ecommerce/EC07.md) now separates its single-photo still life from people and unboxing routes. [Three licensed real input photographs](ecommerce/licensed-references.md) include authors, licenses and explicit roles; they are not generated outputs. All 30 featured cards have a preview; the collection has 66 previews, including 24 original schematics. Image testing remains optional.
 
 Eight category workflows turn the library into ordered production checklists: [beauty](ecommerce/kits/beauty.md), [apparel](ecommerce/kits/apparel.md), [food](ecommerce/kits/food.md), [home](ecommerce/kits/home.md), [digital devices](ecommerce/kits/digital.md), [small appliances](ecommerce/kits/appliance.md), [bags](ecommerce/kits/bags.md), and [baby products](ecommerce/kits/baby.md). Fill and submit one product fact sheet first, then use either the single-image minimum path or the complete-materials path. Each package provides six prompts, required references, acceptance checks, and a focused repair instruction.
 
-Ecommerce cards EC01–EC63 include filled, copy-ready Chinese examples alongside reusable variable templates.
+Ecommerce cards EC01–EC65 include filled, copy-ready Chinese examples alongside reusable variable templates.
 
-The gallery now starts with 28 practical image-production cards, with separate routes for product shots, scenes, detail modules, campaigns, editing and commercial creative work. Structural checks remain available separately. Product-themed templates are no longer mislabeled as non-product tasks. Recent prompt revisions preserve source angles, secondary scene props and approved detail-page claims.
+The gallery now starts with 30 practical image-production cards, with separate routes for product shots, scenes, detail modules, campaigns, editing and commercial creative work. Structural checks remain available separately. Product-themed templates are no longer mislabeled as non-product tasks. Recent prompt revisions preserve source angles, secondary scene props and approved detail-page claims.
 
 [Image-production gallery](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/): choose an output route, then filter by task, product category, reference-image requirements and available results. Optional image testing does not block prompt maintenance.
 
@@ -81,4 +83,4 @@ Maintained by wangge-dev. This is an independent project, not affiliated with Op
 
 New: [G32 travel-ticket paper diorama](prompts/gallery/G32.md), and [G22 six-panel campaign with six standalone prompts](prompts/gallery/G22.md). The gallery supports direct case links, link copying, image enlargement and side-by-side input/output viewing.
 
-Ecommerce cards EC01–EC63 include explicit reference-image requirements and fully filled Chinese examples alongside their variable templates.
+Ecommerce cards EC01–EC65 include explicit reference-image requirements and fully filled Chinese examples alongside their variable templates.

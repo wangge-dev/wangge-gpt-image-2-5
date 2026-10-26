@@ -1,5 +1,11 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-10-26后续：买前问答、交付范围与清除
+
+EC64与EC65为本库原创独立详情任务，T35仍原创且保留旧变体键；不冒充来源库新案例，不改588行CSV或旧gallery541／35／506口径。实际重读官方参考职责与文字／局部编辑说明，新增两个完整少素材分支。新卡复用方桌与键盘许可原件三个输入职责，逐图保留作者、源页、许可与改动；不是三张新照片或生成结果。
+
+本轮再次读取原作者63e6176、fork b477278、buluslan73abd50、EvoLink963b1f4、Atlas6f85d1a，均与本日上一批相同；不重复声称新提交差异。作者定向页仍无可转化独立新任务。方桌文件页及两种CC许可可读，键盘网页失败后用Commons imageinfo核作者／许可。详情见[本批记录](../maintenance/reviews/2026-10-26-faq-delivery-scope-and-removal.md)与[参考页](../ecommerce/licensed-references.md)。
+
 ## 2026-10-26真实对照、直播、编辑封面与本地化
 
 原作者HEAD `63e6176fa01be51c000108dacd72716d3e46784b`、个人fork `b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4`、buluslan `73abd50bf2b689b5a453f28ddd7b0016415deec6`、EvoLink `963b1f40bfbe5ff81f0c9684587face6a500bc9a`均与上次相同。Atlas从6c9f79d至`6f85d1a96b9fcfb32c7f40c06420f4582c6389ee`的4提交只改20份README，中文数据仍418项、无新ID，不按提交标题声称新案例。
