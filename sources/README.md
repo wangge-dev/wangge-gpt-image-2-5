@@ -1,5 +1,11 @@
 # 两个来源库的盘点与改写对应
 
+## 2026-11-02活动日程、目标融入与衣物证据
+
+EC66是本库原创买家活动说明任务，非来源新增或内部核对卡。固定a3673fb的16-try-on-virtual、18-ghost-mannequin原文完整重读，保留七个原变体键与署名，修正目标背景改写、平铺转立体及内侧证据问题；CSV两行说明同步，仍588行，旧gallery541／35／506不变。新增两个分支属于本库，不改来源方向数。
+
+原作者63e6176、fork b477278、buluslan73abd50、EvoLink963b1f4未变；Atlas更新至97d420e8a4f97258bd8ee5186025170b45e7c182，与6f85d1a相比7提交只改20份README，不能凭add prompts标题算新增数据。官方2.5、Simon主页、BrushGlow指南定向核查，没有转化独立新作者案例。新增Akshaya govindasamy的杯具原照，文件页与Commons imageinfo核CC BY-SA 4.0／3000×4000；保留完整署名、相机和日期标记，输入非效果，见[参考页](../ecommerce/licensed-references.md)及[本批记录](../maintenance/reviews/2026-11-02-campaign-schedule-and-garment-evidence.md)。
+
 ## 2026-10-26后续：买前问答、交付范围与清除
 
 EC64与EC65为本库原创独立详情任务，T35仍原创且保留旧变体键；不冒充来源库新案例，不改588行CSV或旧gallery541／35／506口径。实际重读官方参考职责与文字／局部编辑说明，新增两个完整少素材分支。新卡复用方桌与键盘许可原件三个输入职责，逐图保留作者、源页、许可与改动；不是三张新照片或生成结果。

@@ -6,19 +6,21 @@
 
 独立整理，以 OpenAI GPT Image 2.5 为目标，对照官方说明改写创意与电商提示词。保留原作者的创意和出处，补齐中文使用方式、参考图分工、准确文案与连续修改指令。
 
-**552 条基础提示词 · 155 个完整变体 · 电商、中文编辑与独特商业创意持续扩充。**
+**553 条基础提示词 · 157 个完整变体 · 电商、中文编辑与独特商业创意持续扩充。**
 
-电商 EC01–EC65 均提供“拿来就用”的完整示例，同时保留可替换商品、文案和场景的变量模板；八个重点品类提供六步任务包。
+电商 EC01–EC66 均提供“拿来就用”的完整示例，同时保留可替换商品、文案和场景的变量模板；八个重点品类提供六步任务包。
 
-最新入口：画廊默认展示30张常用成片卡，可切换主图、场景、详情、活动、编辑与商业创意；结构核对单独查找。商品主题模板不再误归“非商品专项”。白底、场景与详情正文继续保留原视角、明确主体和已审定卖点。
+最新入口：画廊默认展示31张常用成片卡，可切换主图、场景、详情、活动、编辑与商业创意；结构核对单独查找。商品主题模板不再误归“非商品专项”。白底、场景与详情正文继续保留原视角、明确主体和已审定卖点。
 
-包含 91 张适配卡、450 条原创提示词和11条来源明确的中文提示词；65 套电商场景提供104个变体。
+包含 91 张适配卡、451 条原创提示词和11条来源明确的中文提示词；66 套电商场景提供106个变体。
 
-新增[EC64买前问答](prompts/ecommerce/EC64.md)与[EC65随售／道具排除详情](prompts/ecommerce/EC65.md)，分别绑定真实许可输入；[T35元素清除](prompts/templates/T35.md)补齐文字清除与单图简单底纹分支。问答不自动推参数，随售范围不由照片猜，缺道具照片可用纯文字排除版。
+新增[EC66活动阶段与参与条件](prompts/ecommerce/EC66.md)，配一张新增的CC BY-SA真实杯具原照；无商品图可选纯文字版。[EC16试穿／空间融入](prompts/ecommerce/EC16.md)保留目标原构图，[EC18隐形模特](prompts/ecommerce/EC18.md)新增仅平铺原照版，缺实拍撑形不猜立体。
+
+上批新增[EC64买前问答](prompts/ecommerce/EC64.md)与[EC65随售／道具排除详情](prompts/ecommerce/EC65.md)，分别绑定真实许可输入；[T35元素清除](prompts/templates/T35.md)补齐文字清除与单图简单底纹分支。问答不自动推参数，随售范围不由照片猜，缺道具照片可用纯文字排除版。
 
 上批补强[EC09真实前后对比](prompts/ecommerce/EC09.md)、[EC15直播预告](prompts/ecommerce/EC15.md)、[EC20品牌编辑封面](prompts/ecommerce/EC20.md)与[T24中文本地化](prompts/templates/T24.md)，新增双图对照、单图商品预告、单图编辑封面、仅原成片本地化四条完整分支；先看素材职责，再选可用路径，不从缺图补造效果或持用。
 
-新增[EC62中古成色披露](prompts/ecommerce/EC62.md)、[EC63店铺双品类导航](prompts/ecommerce/EC63.md)，并补强[EC07生活随拍广告](prompts/ecommerce/EC07.md)的无人版与人物／开箱素材条件。[三张真实授权参考照片](ecommerce/licensed-references.md)逐图标明作者、许可与职责，直接绑定具体示例；这些照片是输入参考，不是生成效果。当前66条预览含24张构图示意，30张精选卡均有预览。
+新增[EC62中古成色披露](prompts/ecommerce/EC62.md)、[EC63店铺双品类导航](prompts/ecommerce/EC63.md)，并补强[EC07生活随拍广告](prompts/ecommerce/EC07.md)的无人版与人物／开箱素材条件。[四张真实授权参考照片](ecommerce/licensed-references.md)逐图标明作者、许可与职责，直接绑定具体示例；这些照片是输入参考，不是生成效果。当前67条预览含24张构图示意，31张精选卡均有预览。
 
 
 [打开高频成片画廊](https://wangge-dev.github.io/wangge-gpt-image-2-5/browse/) · 先选想做的图，再按任务、品类、参考图与生成示例筛选，展开即可复制。提示词维护与可选实测分开推进。
@@ -27,8 +29,8 @@
 
 | 想做什么 | 入口 |
 | --- | --- |
-| 商品主图、场景、详情、促销、品牌图 | [电商专区 · 65 套场景](ecommerce/README.md) |
-| 需要可公开准备的真实参考照片 | [三图用途、作者与许可](ecommerce/licensed-references.md)（输入参考，非结果） |
+| 商品主图、场景、详情、促销、品牌图 | [电商专区 · 66 套场景](ecommerce/README.md) |
+| 需要可公开准备的真实参考照片 | [四图用途、作者与许可](ecommerce/licensed-references.md)（输入参考，非结果） |
 | 已有商品图，不知道下一张做什么 | [按现有素材选最短路径](ecommerce/start-here.md) |
 | 准备连续制作一套电商素材 | [三套样板准备单](ecommerce/sample-projects.md) |
 | 查看已填好真实来源资料的执行包 | [System76 Launch 2 键盘](ecommerce/samples/system76-launch-2.md) · [约1949年 NIVEA 铁盒](ecommerce/samples/nivea-creme-1949-tin.md) · [白色 IKEA LACK 桌](ecommerce/samples/ikea-lack-white-table.md)（均待运行） |

@@ -46,6 +46,8 @@ C006、C007使用OpenAI提示词指南的外链输入与Sunburst结果图，图�
 
 2026-10-26新增EC64／EC65将既有方桌和键盘原照用于买前问答与随售范围教学；仍逐图保留原作者、源页、CC BY 2.0或CC BY-SA 4.0及职责，不改为本库MIT，不视为品牌认可或真实供货配置。见[真实参考入口](ecommerce/licensed-references.md)。
 
+2026-11-02新增[杯具输入原照](assets/references/coffee-cup-image/README.md)，作者Akshaya govindasamy，经[Commons原文件页](https://commons.wikimedia.org/wiki/File:Coffee_cup_image.jpg)以[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)提供。JPEG完整保留相机、作者与日期标记，不裁切、不改色。EC66使用它作活动排版的照片窗，活动规则另由人工提供，不代表原作者活动或认可；原照及适用改编不归本库MIT，公开改编保留署名与适用相同方式共享条件。
+
 ## EvoLink电商来源专题
 
 C009–C011原案例与图片由EvoLinkAI提供，来源为[963b1f4版本](https://github.com/EvoLinkAI/gpt-image-2.5-for-e-commerce/tree/963b1f40bfbe5ff81f0c9684587face6a500bc9a)，依其[CC BY 4.0许可](https://creativecommons.org/licenses/by/4.0/)署名引用。中文正文由wangge-dev改写，新增输入分工、文案限制、单张输出及修改要求。图片通过原来源外链展示，仍属于原案例；不表示中文改写已复现。原仓库其他历史图片未随本次导入。
